@@ -4,4 +4,17 @@
 
 With the rapid development of AI-generated content, AI image generation techniques have been increasingly applied in visual design and creative production. This study focuses on an AI-assisted workflow for sketch processing, which consists of three core modules: text-guided sketch generation, reusable visual element extraction, and spatial structure and perspective extraction.  Both objective metrics represented by CLIP score and human subjective ratings are adopted for comprehensive assessment, followed by in-depth interviews with eight practitioners from diverse backgrounds. The results show that commercial large models exhibit advantages in generation stability and extraction efficiency, and SAM 2 achieves better practicality in preserving spatial layout than ControlNet. User studies confirm that the proposed workflow is highly recognized with an average score of 8.875, as it systematizes daily design operations and supports cross-scenario applications such as static image design and video production. However, challenges including insufficient tool coordination, frequent tool switching, and relatively low artistic quality of generated images still exist. This work verifies the effectiveness of the integrated AI-assisted design workflow and provides empirical references for the optimization of model selection, workflow design, and human–AI collaborative creation.
 
+## Human Evaluation Metrics
+
+
+| Evaluation Dimension       | Weight |
+|---------------------------|--------|
+| Semantic Consistency      | 0.25   |
+| Detail Fidelity           | 0.22   |
+| Style Coherence           | 0.20   |
+| Structural Completeness   | 0.18   |
+| Creative Appropriateness  | 0.15   |
+
+All scores are rounded to **two decimal places** to retain precision.
+
 Picture pack can be found: https://duke.box.com/s/3fy7h5elqu5bypm658ha557847e93zgk
