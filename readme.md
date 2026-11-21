@@ -38,6 +38,23 @@ We used the following image generation models in our experiments:
 
 ### Text-Guided Initial Concept Image Generation
 
+This experiment examines how prompt organization and requirement order affect the generation of concept images under multiple constraints.
+
+The benchmark contains 60 tasks distributed evenly across six categories: characters, landscapes, architecture and interiors, products and still life, animals, and multi-subject scenes. Each task contains four levels of requirements: L0 defines the core subject and scene; L1 specifies style and atmosphere; L2 describes composition and framing; and L3 covers lighting, materials, and details.
+
+Four prompt conditions express the same requirement set:
+
+| Condition          | Description                                                                 |
+| ------------------ | --------------------------------------------------------------------------- |
+| FF — Narrative     | Requirements presented as continuous prose                                  |
+| FL — Flat list     | The hierarchical prompt's clauses and order retained, with level labels and grouping removed |
+| H — Hierarchical   | Requirements explicitly grouped in L0 → L1 → L2 → L3 order                  |
+| OA — Order ablation| The same labeled groups presented in reverse order                          |
+
+The narrative condition is length-matched to the hierarchical prompt, with requirement coverage checked across variants. Additional ablations omit L1, L2, or L3 individually to examine each level's contribution.
+
+
+
 ### Reusable Visual Element Extraction
 
 ### Spatial Structure Extraction and Conditioning
