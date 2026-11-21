@@ -10,6 +10,8 @@ We evaluate the proposed workflow across both controlled benchmark scenes and re
 
 The primary contributions of this work are the proposed workflow design and a systematic evaluation framework for studying controllable concept image refinement. Experimental findings validate the core design logic of the dual-path architecture and provide actionable insights for pipeline optimization. Full end-to-end validation on larger-scale datasets and user studies with intended creative practitioners remain important directions for future investigation.
 
+![Dual-path workflow architecture](Overview.png)
+
 ### Hardware Configuration
 
 Experiments were conducted across three computing environments.
