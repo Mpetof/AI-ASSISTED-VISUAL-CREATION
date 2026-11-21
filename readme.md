@@ -10,3 +10,13 @@ We evaluate the proposed workflow across both controlled benchmark scenes and re
 
 The primary contributions of this work are the proposed workflow design and a systematic evaluation framework for studying controllable concept image refinement. Experimental findings validate the core design logic of the dual-path architecture and provide actionable insights for pipeline optimization. Full end-to-end validation on larger-scale datasets and user studies with intended creative practitioners remain important directions for future investigation.
 
+### Hardware Configuration
+
+Experiments were conducted across three computing environments.
+
+| Component | Instance 1 | Instance 2  | Instance 3 |
+| ---- | ---- | ---- | ---- |
+| CPU / vCPU | Intel Core i9-13900K (24C/32T) | 16 vCPU | Intel Core i7-13700H (14C/20T) |
+| GPU | NVIDIA RTX 4090, 24 GB | NVIDIA L40S, 48 GB | NVIDIA RTX 4060 Laptop, 8 GB |
+| GPU Memory | 24 GB GDDR6X | 48 GB GDDR6 (ECC) | 8 GB GDDR6 |
+| System Memory | 64 GB DDR5 | 64 GB DDR5 | 32 GB DDR4 |
