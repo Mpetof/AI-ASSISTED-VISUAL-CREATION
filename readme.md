@@ -20,3 +20,16 @@ Experiments were conducted across three computing environments.
 | GPU | NVIDIA RTX 4090, 24 GB | NVIDIA L40S, 48 GB | NVIDIA RTX 4060 Laptop, 8 GB |
 | GPU Memory | 24 GB GDDR6X | 48 GB GDDR6 (ECC) | 8 GB GDDR6 |
 | System Memory | 64 GB DDR5 | 64 GB DDR5 | 32 GB DDR4 |
+
+### Generative Models
+
+We used the following image generation models in our experiments:
+
+| Model | Access | Size |
+| ----- | ------ | ---- |
+| SD3.5 Large | [Open weights](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) | 8B |
+| FLUX.2 dev | [Open weights](https://huggingface.co/black-forest-labs/FLUX.2-dev) | 32B |
+| Gemini 3.1 Flash Image | [Closed API](https://ai.google.dev/gemini-api) | — |
+| Seedream 4.5 | [Closed API](https://www.doubao.com/) | — |
+
+### Experiment Setup
