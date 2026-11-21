@@ -34,4 +34,4 @@ We used the following image generation models in our experiments:
 | Gemini 3.1 Flash Image | [Closed API](https://ai.google.dev/gemini-api) | — |
 | Seedream 4.5 | [Closed API](https://www.doubao.com/) | — |
 
-### Experiment Setup
+### Environment Setup
