@@ -57,7 +57,14 @@ For progressive requirement analysis, cumulative prompt sets C0 (L0 only), C1 (L
 The complete set of task prompts is stored in:
 [Text-Guided Initial Concept Image Generation/exact_prompts_600.jsonl](Text-Guided%20Initial%20Concept%20Image%20Generation/exact_prompts_600.jsonl)
 
+To ensure robustness across model architectures, the protocol is executed on two open-source and two closed-source text-to-image models. For open-source models, the sampler configuration, number of denoising steps, guidance scale, and resolution are fixed per model at developer-recommended defaults.
 
+| Label | Model | Sampler / Scheduler | Inference Steps | Guidance Scale | Output Resolution |
+|-------|-------|---------------------|-----------------|----------------|-------------------|
+| Open-A | SD3.5 Large | Checkpoint-provided default scheduler | 28 | 4.5 | 1024 × 1024 |
+| Open-B | FLUX.2-dev | Checkpoint-provided default scheduler | 50 | 4.0 | 1024 × 1024 |
+| Closed-A | Gemini 3.1 Flash Image | Provider-managed | Not exposed | Not exposed | 1K, 1:1 |
+| Closed-B | Seedream 4.5 | Provider-managed | Not exposed | Not exposed | 2048 × 2048 |
 
 
 
