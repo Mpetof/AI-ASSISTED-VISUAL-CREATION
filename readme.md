@@ -50,8 +50,14 @@ Four prompt variants are constructed for each task using the identical set of re
 | H — Hierarchical   | Requirements explicitly grouped in L0 → L1 → L2 → L3 order                  |
 | OA — Order ablation| The same labeled groups presented in reverse order                          |
 
+Additional leave-one-out ablations (H⁻¹, H⁻², H⁻³) are conducted by individually removing Level 1, Level 2, or Level 3 from the hierarchical prompt while preserving all remaining content.
+
+For progressive requirement analysis, cumulative prompt sets C0 (L0 only), C1 (L0–L1), C2 (L0–L2) are also constructed.
+
 The complete set of task prompts is stored in:
 [Text-Guided Initial Concept Image Generation/exact_prompts_600.jsonl](Text-Guided%20Initial%20Concept%20Image%20Generation/exact_prompts_600.jsonl)
+
+
 
 
 
