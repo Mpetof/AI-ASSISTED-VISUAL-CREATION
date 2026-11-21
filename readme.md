@@ -50,6 +50,8 @@ Four prompt variants are constructed for each task using the identical set of re
 | H — Hierarchical   | Requirements explicitly grouped in L0 → L1 → L2 → L3 order                  |
 | OA — Order ablation| The same labeled groups presented in reverse order                          |
 
+The complete set of task prompts is stored in:
+[Text-Guided Initial Concept Image Generation/exact_prompts_600.jsonl](Text-Guided%20Initial%20Concept%20Image%20Generation/exact_prompts_600.jsonl)
 
 
 
