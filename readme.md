@@ -27,13 +27,12 @@ Experiments were conducted across three computing environments.
 
 We used the following image generation models in our experiments:
 
-| Model | Access | Size |
-| ----- | ------ | ---- |
-| SD3.5 Large | [Open weights](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) | 8B |
-| FLUX.2 dev | [Open weights](https://huggingface.co/black-forest-labs/FLUX.2-dev) | 32B |
-| Gemini 3.1 Flash Image | [Closed API](https://ai.google.dev/gemini-api) | — |
-| Seedream 4.5 | [Closed API](https://www.doubao.com/) | — |
-
+| Model | Access | 
+| ----- | ------ | 
+| SD3.5 Large | [Open weights](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) |
+| FLUX.2 dev | [Open weights](https://huggingface.co/black-forest-labs/FLUX.2-dev) |
+| Gemini 3.1 Flash Image | [Closed API](https://ai.google.dev/gemini-api) |
+| Seedream 4.5 | [Closed API](https://www.doubao.com/) |
 ### Environment Setup
 
 ### Text-Guided Initial Concept Image Generation
@@ -42,7 +41,7 @@ This experiment examines how prompt organization and requirement order affect th
 
 The benchmark contains 60 tasks distributed evenly across six categories: characters, landscapes, architecture and interiors, products and still life, animals, and multi-subject scenes. Each task contains four levels of requirements: L0 defines the core subject and scene; L1 specifies style and atmosphere; L2 describes composition and framing; and L3 covers lighting, materials, and details.
 
-Four prompt conditions express the same requirement set:
+Four prompt variants are constructed for each task using the identical set of requirements, to isolate the effects of formulation, grouping, and ordering:
 
 | Condition          | Description                                                                 |
 | ------------------ | --------------------------------------------------------------------------- |
@@ -51,7 +50,7 @@ Four prompt conditions express the same requirement set:
 | H — Hierarchical   | Requirements explicitly grouped in L0 → L1 → L2 → L3 order                  |
 | OA — Order ablation| The same labeled groups presented in reverse order                          |
 
-The narrative condition is length-matched to the hierarchical prompt, with requirement coverage checked across variants. Additional ablations omit L1, L2, or L3 individually to examine each level's contribution.
+
 
 
 
