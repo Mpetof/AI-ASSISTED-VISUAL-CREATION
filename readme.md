@@ -35,3 +35,11 @@ We used the following image generation models in our experiments:
 | Seedream 4.5 | [Closed API](https://www.doubao.com/) | — |
 
 ### Environment Setup
+
+### Text-Guided Initial Concept Image Generation
+
+### Reusable Visual Element Extraction
+
+### Spatial Structure Extraction and Conditioning
+
+### Visual-Spatial Fusion and Compositional Refinement
