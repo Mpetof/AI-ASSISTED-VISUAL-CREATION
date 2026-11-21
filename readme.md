@@ -66,6 +66,7 @@ To ensure robustness across model architectures, the protocol is executed on two
 | Closed-A | Gemini 3.1 Flash Image | Provider-managed | Not exposed | Not exposed | 1K, 1:1 |
 | Closed-B | Seedream 4.5 | Provider-managed | Not exposed | Not exposed | 2048 × 2048 |
 
+A shared set of 8 fixed random seeds is applied across all experimental conditions for open-weight models, forming a fully paired comparison design. Closed API models do not support seed specification; for these models, 4 samples are generated per condition, and samples are treated as exchangeable independent observations.
 
 
 
