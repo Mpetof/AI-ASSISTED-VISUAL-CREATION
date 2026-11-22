@@ -59,12 +59,12 @@ The complete set of task prompts is stored in:
 
 To ensure robustness across model architectures, the protocol is executed on two open-source and two closed-source text-to-image models. For open-source models, the sampler configuration, number of denoising steps, guidance scale, and resolution are fixed per model at developer-recommended defaults.
 
-| Label | Model | Sampler / Scheduler | Inference Steps | Guidance Scale | Output Resolution |
-|-------|-------|---------------------|-----------------|----------------|-------------------|
-| Open-A | SD3.5 Large | Checkpoint-provided default scheduler | 28 | 4.5 | 1024 × 1024 |
-| Open-B | FLUX.2-dev | Checkpoint-provided default scheduler | 50 | 4.0 | 1024 × 1024 |
-| Closed-A | Gemini 3.1 Flash Image | Provider-managed | Not exposed | Not exposed | 1K, 1:1 |
-| Closed-B | Seedream 4.5 | Provider-managed | Not exposed | Not exposed | 2048 × 2048 |
+| Label | Model | Sampler / Scheduler | Inference Steps | Guidance Scale | Output Resolution | Access | 
+|-------|-------|---------------------|-----------------|----------------|-------------------| ------ | 
+| Open-A | SD3.5 Large | Checkpoint-provided default scheduler | 28 | 4.5 | 1024 × 1024 | [Open weights](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) |
+| Open-B | FLUX.2-dev | Checkpoint-provided default scheduler | 50 | 4.0 | 1024 × 1024 | [Open weights](https://huggingface.co/black-forest-labs/FLUX.2-dev) |
+| Closed-A | Gemini 3.1 Flash Image | Provider-managed | Not exposed | Not exposed | 1K, 1:1 | [Closed API](https://ai.google.dev/gemini-api) |
+| Closed-B | Seedream 4.5 | Provider-managed | Not exposed | Not exposed | 2048 × 2048 | [Closed API](https://www.doubao.com/) |
 
 A shared set of 8 fixed random seeds is applied across all experimental conditions for open-weight models, forming a fully paired comparison design. Closed API models do not support seed specification; for these models, 4 samples are generated per condition, and samples are treated as exchangeable independent observations.
 
