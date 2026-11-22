@@ -23,16 +23,6 @@ Experiments were conducted across three computing environments.
 | GPU Memory | 24 GB GDDR6X | 48 GB GDDR6 (ECC) | 8 GB GDDR6 |
 | System Memory | 64 GB DDR5 | 64 GB DDR5 | 32 GB DDR4 |
 
-### Generative Models
-
-We used the following image generation models in our experiments:
-
-| Model | Access | 
-| ----- | ------ | 
-| SD3.5 Large | [Open weights](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) |
-| FLUX.2 dev | [Open weights](https://huggingface.co/black-forest-labs/FLUX.2-dev) |
-| Gemini 3.1 Flash Image | [Closed API](https://ai.google.dev/gemini-api) |
-| Seedream 4.5 | [Closed API](https://www.doubao.com/) |
 ### Environment Setup
 
 ### Text-Guided Initial Concept Image Generation
