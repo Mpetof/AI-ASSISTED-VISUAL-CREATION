@@ -47,7 +47,7 @@ For progressive requirement analysis, cumulative prompt sets C0 (L0 only), C1 (L
 The complete set of task prompts is stored in:
 [Text-Guided Initial Concept Image Generation/exact_prompts_600.jsonl](Text-Guided%20Initial%20Concept%20Image%20Generation/exact_prompts_600.jsonl)
 
-To ensure robustness across model architectures, the protocol is executed on two open-source and two closed-source text-to-image models. For open-source models, the sampler configuration, number of denoising steps, guidance scale, and resolution are fixed per model at developer-recommended defaults.
+To ensure robustness across model architectures, the protocol is executed on two open-source and two closed-source text-to-image models. For open-source models, the sampler configuration, number of denoising steps, guidance scale, and resolution are fixed per model at developer-recommended defaults. A shared set of 8 fixed random seeds is applied across all experimental conditions for open-weight models, forming a fully paired comparison design. Closed API models do not support seed specification; for these models, 4 samples are generated per condition, and samples are treated as exchangeable independent observations.
 
 | Label | Model | Sampler / Scheduler | Inference Steps | Guidance Scale | Output Resolution | Access | 
 |-------|-------|---------------------|-----------------|----------------|-------------------| ------ | 
@@ -56,7 +56,7 @@ To ensure robustness across model architectures, the protocol is executed on two
 | Closed-A | Gemini 3.1 Flash Image | Provider-managed | Not exposed | Not exposed | 1K, 1:1 | [Closed API](https://ai.google.dev/gemini-api) |
 | Closed-B | Seedream 4.5 | Provider-managed | Not exposed | Not exposed | 2048 × 2048 | [Closed API](https://www.doubao.com/) |
 
-A shared set of 8 fixed random seeds is applied across all experimental conditions for open-weight models, forming a fully paired comparison design. Closed API models do not support seed specification; for these models, 4 samples are generated per condition, and samples are treated as exchangeable independent observations.
+
 
 
 
