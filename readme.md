@@ -59,9 +59,9 @@ For each task, a set of distinct questions is designed to compute VQAScore via V
 
 VQAScore is computed via CLIP-FlanT5-XXL ([CLIP-FlanT5-XXl](https://huggingface.co/zhiqiulin/clip-flant5-xxl)), which outputs the likelihood of the specified target answer. 
 
-The level-wise score is computed via the algorithm ([level_score](Text-Guided%20Initial%20Concept%20Image%20Generation/level_score.py)). 
+The level-wise score is computed via ([level_score](Text-Guided%20Initial%20Concept%20Image%20Generation/level_score.py)). The level-wise score results are recorded in ([generation_scores](Text-Guided%20Initial%20Concept%20Image%20Generation/generation_scores.jsonl)). 
 
-The level-wise score results are recorded in ([generation_scores](Text-Guided%20Initial%20Concept%20Image%20Generation/generation_scores.jsonl)). 
+The cross-level score is computed via 
 
 ![Statistical overview](Text-Guided%20Initial%20Concept%20Image%20Generation/statistical_overview.png)
 
