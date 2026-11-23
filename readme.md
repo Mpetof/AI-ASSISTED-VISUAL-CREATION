@@ -63,6 +63,8 @@ The level-wise score is computed via the algorithm ([level_score](Text-Guided%20
 
 The level-wise score results are recorded in ([generation_scores](Text-Guided%20Initial%20Concept%20Image%20Generation/generation_scores.jsonl)). 
 
+![Statistical overview](Text-Guided%20Initial%20Concept%20Image%20Generation/statistical_overview.png)
+
 ### Reusable Visual Element Extraction
 
 ### Spatial Structure Extraction and Conditioning
