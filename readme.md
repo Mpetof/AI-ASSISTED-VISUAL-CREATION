@@ -61,7 +61,7 @@ VQAScore is computed via CLIP-FlanT5-XXL ([CLIP-FlanT5-XXl](https://huggingface.
 
 The level-wise score is computed via ([Level_score](Text-Guided%20Initial%20Concept%20Image%20Generation/level_score.py)). The level-wise score results are recorded in ([Generation_scores](Text-Guided%20Initial%20Concept%20Image%20Generation/generation_scores.jsonl)). 
 
-The cross-level score is computed via ([Cross_level](Text-Guided%20Initial%20Concept%20Image%20Generation/cross_level.py)). The cross-level score results are recorded in ([Constraint_trajectories](Text-Guided%20Initial%20Concept%20Image%20Generation/constraint_trajectories.jsonl)). 
+The cross-level retention is computed via ([Cross_level](Text-Guided%20Initial%20Concept%20Image%20Generation/cross_level.py)). The cross-level retention results are recorded in ([Constraint_trajectories](Text-Guided%20Initial%20Concept%20Image%20Generation/constraint_trajectories.jsonl)). 
 
 ![Statistical overview](Text-Guided%20Initial%20Concept%20Image%20Generation/statistical_overview.png)
 
