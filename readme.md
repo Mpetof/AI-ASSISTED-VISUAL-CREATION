@@ -56,6 +56,8 @@ To ensure robustness across model architectures, the protocol is executed on two
 | Closed-A | Gemini 3.1 Flash Image | Provider-managed | Not exposed | Not exposed | 1K, 1:1 | [Closed API](https://ai.google.dev/gemini-api) |
 | Closed-B | Seedream 4.5 | Provider-managed | Not exposed | Not exposed | 2048 × 2048 | [Closed API](https://www.doubao.com/) |
 
+For each task, a set of distinct questions is designed to compute VQAScore via VLM. The complete question list is available at:
+[benchmark_60_tasks.json](Text-Guided%20Initial%20Concept%20Image%20Generation/benchmark_60_tasks.json)
 
 
 
