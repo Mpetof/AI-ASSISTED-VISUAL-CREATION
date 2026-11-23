@@ -23,8 +23,6 @@ Experiments were conducted across three computing environments.
 | GPU Memory | 24 GB GDDR6X | 48 GB GDDR6 (ECC) | 8 GB GDDR6 |
 | System Memory | 64 GB DDR5 | 64 GB DDR5 | 32 GB DDR4 |
 
-### Environment Setup
-
 ### Text-Guided Initial Concept Image Generation
 
 This experiment examines how prompt organization and requirement order affect the generation of concept images under multiple constraints.
@@ -58,6 +56,8 @@ To ensure robustness across model architectures, the protocol is executed on two
 
 For each task, a set of distinct questions is designed to compute VQAScore via VLM. The complete question list is available at:
 [benchmark_60_tasks.json](Text-Guided%20Initial%20Concept%20Image%20Generation/benchmark_60_tasks.json)
+
+VQAScore is computed via CLIP-FlanT5-XXL ([zhiqiulin/clip-flant5-xxl](https://huggingface.co/zhiqiulin/clip-flant5-xxl)), which outputs the likelihood of the specified target answer. 
 
 
 
