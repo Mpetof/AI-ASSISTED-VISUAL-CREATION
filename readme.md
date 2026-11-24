@@ -63,7 +63,7 @@ The level-wise score is computed via ([Level_score](Text-Guided%20Initial%20Conc
 
 The cross-level retention is computed via ([Cross_level](Text-Guided%20Initial%20Concept%20Image%20Generation/cross_level.py)). The cross-level retention results are recorded in ([Constraint_trajectories](Text-Guided%20Initial%20Concept%20Image%20Generation/constraint_trajectories.jsonl)). 
 
-To examine the stability of image generation, we first use ([DreamSim](https://github.com/ssundaram21/dreamsim)) to measure visual similarity across repeated samples.
+To examine the stability of image generation, we first use ([DreamSim](https://github.com/ssundaram21/dreamsim)) to measure visual similarity across repeated samples ([Similarity](Text-Guided%20Initial%20Concept%20Image%20Generation/similarity.py)).
 
 ![Statistical overview](Text-Guided%20Initial%20Concept%20Image%20Generation/statistical_overview.png)
 
