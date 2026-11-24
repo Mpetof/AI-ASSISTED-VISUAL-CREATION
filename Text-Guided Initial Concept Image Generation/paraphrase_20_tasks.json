@@ -1,0 +1,302 @@
+[
+  {
+    "task": 1,
+    "condition": "FF",
+    "prompt": "Depict a woman together with a book, using a library as the setting. Show the woman reading the book. Render it as a watercolor illustration with a calm atmosphere. Frame the scene using a medium shot, and show the scene from an eye-level viewpoint. Position the woman in the central third of the image. Illuminate the scene with soft diffuse light, and use a palette dominated by warm amber. Depict woven fabric on the woman's sweater. Show the woman wearing round glasses."
+  },
+  {
+    "task": 1,
+    "condition": "FL",
+    "prompt": "Include a woman in the scene. Include a book in the scene. Use a library as the setting. Show the woman reading the book. Render the image as a watercolor illustration. Keep the overall atmosphere calm. Frame the scene using a medium shot. Show the scene from an eye-level viewpoint. Position the woman in the central third of the image. Illuminate the scene with soft diffuse light. Use a palette dominated by warm amber. Depict woven fabric on the woman's sweater. Show the woman wearing round glasses."
+  },
+  {
+    "task": 1,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include a woman in the scene. Include a book in the scene. Use a library as the setting. Show the woman reading the book.\nLevel 1 (Style and Atmosphere): Render the image as a watercolor illustration. Keep the overall atmosphere calm.\nLevel 2 (Composition and Framing): Frame the scene using a medium shot. Show the scene from an eye-level viewpoint. Position the woman in the central third of the image.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with soft diffuse light. Use a palette dominated by warm amber. Depict woven fabric on the woman's sweater. Show the woman wearing round glasses."
+  },
+  {
+    "task": 4,
+    "condition": "FF",
+    "prompt": "Depict a gardener together with a watering can, using a greenhouse as the setting. Show the gardener holding the watering can. Render it as a digital painting with a mysterious atmosphere. Frame the scene using a medium shot, and show the scene from an eye-level viewpoint. Position the gardener in the central third of the image. Illuminate the scene with directional light from the upper left, and use a palette dominated by cool blue. Depict denim fabric on the gardener's overalls. Show the gardener wearing gardening gloves."
+  },
+  {
+    "task": 4,
+    "condition": "FL",
+    "prompt": "Include a gardener in the scene. Include a watering can in the scene. Use a greenhouse as the setting. Show the gardener holding the watering can. Render the image as a digital painting. Keep the overall atmosphere mysterious. Frame the scene using a medium shot. Show the scene from an eye-level viewpoint. Position the gardener in the central third of the image. Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict denim fabric on the gardener's overalls. Show the gardener wearing gardening gloves."
+  },
+  {
+    "task": 4,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include a gardener in the scene. Include a watering can in the scene. Use a greenhouse as the setting. Show the gardener holding the watering can.\nLevel 1 (Style and Atmosphere): Render the image as a digital painting. Keep the overall atmosphere mysterious.\nLevel 2 (Composition and Framing): Frame the scene using a medium shot. Show the scene from an eye-level viewpoint. Position the gardener in the central third of the image.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict denim fabric on the gardener's overalls. Show the gardener wearing gardening gloves."
+  },
+  {
+    "task": 7,
+    "condition": "FF",
+    "prompt": "Depict an astronomer together with a telescope, using an observatory as the setting. Show the astronomer looking through the telescope. Render it as a watercolor illustration with a calm atmosphere. Frame the scene using a medium shot, and show the scene from an eye-level viewpoint. Position the astronomer in the left third of the image. Position the astronomer to the left of the telescope. Illuminate the scene with soft diffuse light, and use a palette dominated by warm amber. Depict wool fabric on the astronomer's coat. Show the astronomer wearing a scarf."
+  },
+  {
+    "task": 7,
+    "condition": "FL",
+    "prompt": "Include an astronomer in the scene. Include a telescope in the scene. Use an observatory as the setting. Show the astronomer looking through the telescope. Render the image as a watercolor illustration. Keep the overall atmosphere calm. Frame the scene using a medium shot. Show the scene from an eye-level viewpoint. Position the astronomer in the left third of the image. Position the astronomer to the left of the telescope. Illuminate the scene with soft diffuse light. Use a palette dominated by warm amber. Depict wool fabric on the astronomer's coat. Show the astronomer wearing a scarf."
+  },
+  {
+    "task": 7,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include an astronomer in the scene. Include a telescope in the scene. Use an observatory as the setting. Show the astronomer looking through the telescope.\nLevel 1 (Style and Atmosphere): Render the image as a watercolor illustration. Keep the overall atmosphere calm.\nLevel 2 (Composition and Framing): Frame the scene using a medium shot. Show the scene from an eye-level viewpoint. Position the astronomer in the left third of the image. Position the astronomer to the left of the telescope.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with soft diffuse light. Use a palette dominated by warm amber. Depict wool fabric on the astronomer's coat. Show the astronomer wearing a scarf."
+  },
+  {
+    "task": 10,
+    "condition": "FF",
+    "prompt": "Depict a painter together with an easel, using an art studio as the setting. Show the painter painting at the easel. Render it as a digital painting with a mysterious atmosphere. Frame the scene using a medium shot, and show the scene from an eye-level viewpoint. Position the painter in the left third of the image. Position the painter to the left of the easel. Illuminate the scene with directional light from the upper left, and use a palette dominated by cool blue. Depict paint stains on the painter's apron. Show the painter wearing a beret."
+  },
+  {
+    "task": 10,
+    "condition": "FL",
+    "prompt": "Include a painter in the scene. Include an easel in the scene. Use an art studio as the setting. Show the painter painting at the easel. Render the image as a digital painting. Keep the overall atmosphere mysterious. Frame the scene using a medium shot. Show the scene from an eye-level viewpoint. Position the painter in the left third of the image. Position the painter to the left of the easel. Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict paint stains on the painter's apron. Show the painter wearing a beret."
+  },
+  {
+    "task": 10,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include a painter in the scene. Include an easel in the scene. Use an art studio as the setting. Show the painter painting at the easel.\nLevel 1 (Style and Atmosphere): Render the image as a digital painting. Keep the overall atmosphere mysterious.\nLevel 2 (Composition and Framing): Frame the scene using a medium shot. Show the scene from an eye-level viewpoint. Position the painter in the left third of the image. Position the painter to the left of the easel.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict paint stains on the painter's apron. Show the painter wearing a beret."
+  },
+  {
+    "task": 11,
+    "condition": "FF",
+    "prompt": "Depict a mountain together with a lake, using an alpine landscape as the setting. Render it as an oil painting with a solemn atmosphere. Frame the scene using a wide view, and show the scene from an eye-level viewpoint. Position the mountain in the central third of the image. Illuminate the scene with soft diffuse light, and use a palette dominated by warm amber. Depict rough exposed rock on the mountain. Depict the mountain with a snow-covered summit."
+  },
+  {
+    "task": 11,
+    "condition": "FL",
+    "prompt": "Include a mountain in the scene. Include a lake in the scene. Use an alpine landscape as the setting. Render the image as an oil painting. Keep the overall atmosphere solemn. Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the mountain in the central third of the image. Illuminate the scene with soft diffuse light. Use a palette dominated by warm amber. Depict rough exposed rock on the mountain. Depict the mountain with a snow-covered summit."
+  },
+  {
+    "task": 11,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include a mountain in the scene. Include a lake in the scene. Use an alpine landscape as the setting.\nLevel 1 (Style and Atmosphere): Render the image as an oil painting. Keep the overall atmosphere solemn.\nLevel 2 (Composition and Framing): Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the mountain in the central third of the image.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with soft diffuse light. Use a palette dominated by warm amber. Depict rough exposed rock on the mountain. Depict the mountain with a snow-covered summit."
+  },
+  {
+    "task": 14,
+    "condition": "FF",
+    "prompt": "Depict a pine tree together with a boulder, using a snowy clearing as the setting. Render it as a colored-pencil illustration with a dreamlike atmosphere. Frame the scene using a wide view, and show the scene from an eye-level viewpoint. Position the pine tree in the central third of the image. Illuminate the scene with directional light from the upper left, and use a palette dominated by cool blue. Depict rough bark on the pine tree. Depict the pine tree with snow on its branches."
+  },
+  {
+    "task": 14,
+    "condition": "FL",
+    "prompt": "Include a pine tree in the scene. Include a boulder in the scene. Use a snowy clearing as the setting. Render the image as a colored-pencil illustration. Keep the overall atmosphere dreamlike. Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the pine tree in the central third of the image. Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict rough bark on the pine tree. Depict the pine tree with snow on its branches."
+  },
+  {
+    "task": 14,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include a pine tree in the scene. Include a boulder in the scene. Use a snowy clearing as the setting.\nLevel 1 (Style and Atmosphere): Render the image as a colored-pencil illustration. Keep the overall atmosphere dreamlike.\nLevel 2 (Composition and Framing): Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the pine tree in the central third of the image.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict rough bark on the pine tree. Depict the pine tree with snow on its branches."
+  },
+  {
+    "task": 18,
+    "condition": "FF",
+    "prompt": "Depict a banyan tree together with a pond, using a tropical garden as the setting. Render it as an ink illustration with a mysterious atmosphere. Frame the scene using a wide view, and show the scene from an eye-level viewpoint. Position the banyan tree in the left third of the image. Position the banyan tree to the left of the pond. Illuminate the scene with directional light from the upper left, and use a palette dominated by cool blue. Depict rough bark on the banyan tree. Depict the banyan tree with hanging aerial roots."
+  },
+  {
+    "task": 18,
+    "condition": "FL",
+    "prompt": "Include a banyan tree in the scene. Include a pond in the scene. Use a tropical garden as the setting. Render the image as an ink illustration. Keep the overall atmosphere mysterious. Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the banyan tree in the left third of the image. Position the banyan tree to the left of the pond. Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict rough bark on the banyan tree. Depict the banyan tree with hanging aerial roots."
+  },
+  {
+    "task": 18,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include a banyan tree in the scene. Include a pond in the scene. Use a tropical garden as the setting.\nLevel 1 (Style and Atmosphere): Render the image as an ink illustration. Keep the overall atmosphere mysterious.\nLevel 2 (Composition and Framing): Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the banyan tree in the left third of the image. Position the banyan tree to the left of the pond.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict rough bark on the banyan tree. Depict the banyan tree with hanging aerial roots."
+  },
+  {
+    "task": 22,
+    "condition": "FF",
+    "prompt": "Depict a dining table together with a window, using a dining room as the setting. Render it as a digital painting with a dreamlike atmosphere. Frame the scene using a wide view, and show the scene from an eye-level viewpoint. Position the dining table in the central third of the image. Illuminate the scene with directional light from the upper left, and use a palette dominated by cool blue. Depict visible wood grain on the dining table. Depict the dining table with four legs."
+  },
+  {
+    "task": 22,
+    "condition": "FL",
+    "prompt": "Include a dining table in the scene. Include a window in the scene. Use a dining room as the setting. Render the image as a digital painting. Keep the overall atmosphere dreamlike. Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the dining table in the central third of the image. Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict visible wood grain on the dining table. Depict the dining table with four legs."
+  },
+  {
+    "task": 22,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include a dining table in the scene. Include a window in the scene. Use a dining room as the setting.\nLevel 1 (Style and Atmosphere): Render the image as a digital painting. Keep the overall atmosphere dreamlike.\nLevel 2 (Composition and Framing): Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the dining table in the central third of the image.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict visible wood grain on the dining table. Depict the dining table with four legs."
+  },
+  {
+    "task": 26,
+    "condition": "FF",
+    "prompt": "Depict a lighthouse together with a cottage, using a coastal settlement as the setting. Render it as an oil painting with a mysterious atmosphere. Frame the scene using a wide view, and show the scene from an eye-level viewpoint. Position the lighthouse in the left third of the image. Position the lighthouse to the left of the cottage. Illuminate the scene with directional light from the upper left, and use a palette dominated by cool blue. Depict weathered masonry on the lighthouse. Depict the lighthouse with a red entrance door."
+  },
+  {
+    "task": 26,
+    "condition": "FL",
+    "prompt": "Include a lighthouse in the scene. Include a cottage in the scene. Use a coastal settlement as the setting. Render the image as an oil painting. Keep the overall atmosphere mysterious. Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the lighthouse in the left third of the image. Position the lighthouse to the left of the cottage. Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict weathered masonry on the lighthouse. Depict the lighthouse with a red entrance door."
+  },
+  {
+    "task": 26,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include a lighthouse in the scene. Include a cottage in the scene. Use a coastal settlement as the setting.\nLevel 1 (Style and Atmosphere): Render the image as an oil painting. Keep the overall atmosphere mysterious.\nLevel 2 (Composition and Framing): Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the lighthouse in the left third of the image. Position the lighthouse to the left of the cottage.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict weathered masonry on the lighthouse. Depict the lighthouse with a red entrance door."
+  },
+  {
+    "task": 29,
+    "condition": "FF",
+    "prompt": "Depict a market stall together with a kiosk, using a covered market as the setting. Render it as a colored-pencil illustration with a calm atmosphere. Frame the scene using a wide view, and show the scene from an eye-level viewpoint. Position the market stall in the left third of the image. Position the market stall to the left of the kiosk. Illuminate the scene with soft diffuse light, and use a palette dominated by warm amber. Depict wood grain on the market stall. Depict the market stall with a striped awning."
+  },
+  {
+    "task": 29,
+    "condition": "FL",
+    "prompt": "Include a market stall in the scene. Include a kiosk in the scene. Use a covered market as the setting. Render the image as a colored-pencil illustration. Keep the overall atmosphere calm. Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the market stall in the left third of the image. Position the market stall to the left of the kiosk. Illuminate the scene with soft diffuse light. Use a palette dominated by warm amber. Depict wood grain on the market stall. Depict the market stall with a striped awning."
+  },
+  {
+    "task": 29,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include a market stall in the scene. Include a kiosk in the scene. Use a covered market as the setting.\nLevel 1 (Style and Atmosphere): Render the image as a colored-pencil illustration. Keep the overall atmosphere calm.\nLevel 2 (Composition and Framing): Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the market stall in the left third of the image. Position the market stall to the left of the kiosk.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with soft diffuse light. Use a palette dominated by warm amber. Depict wood grain on the market stall. Depict the market stall with a striped awning."
+  },
+  {
+    "task": 31,
+    "condition": "FF",
+    "prompt": "Depict a teapot together with a cup, using a tabletop arrangement as the setting. Render it as a digital painting with a calm atmosphere. Frame the scene using a wide view, and show the scene from a slightly elevated viewpoint. Position the teapot in the central third of the image. Illuminate the scene with soft diffuse light, and use a palette dominated by warm amber. Depict glazed ceramic on the teapot. Depict the teapot with a curved handle."
+  },
+  {
+    "task": 31,
+    "condition": "FL",
+    "prompt": "Include a teapot in the scene. Include a cup in the scene. Use a tabletop arrangement as the setting. Render the image as a digital painting. Keep the overall atmosphere calm. Frame the scene using a wide view. Show the scene from a slightly elevated viewpoint. Position the teapot in the central third of the image. Illuminate the scene with soft diffuse light. Use a palette dominated by warm amber. Depict glazed ceramic on the teapot. Depict the teapot with a curved handle."
+  },
+  {
+    "task": 31,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include a teapot in the scene. Include a cup in the scene. Use a tabletop arrangement as the setting.\nLevel 1 (Style and Atmosphere): Render the image as a digital painting. Keep the overall atmosphere calm.\nLevel 2 (Composition and Framing): Frame the scene using a wide view. Show the scene from a slightly elevated viewpoint. Position the teapot in the central third of the image.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with soft diffuse light. Use a palette dominated by warm amber. Depict glazed ceramic on the teapot. Depict the teapot with a curved handle."
+  },
+  {
+    "task": 34,
+    "condition": "FF",
+    "prompt": "Depict a wristwatch together with a presentation box, using a product display as the setting. Render it as a watercolor illustration with a mysterious atmosphere. Frame the scene using a wide view, and show the scene from a slightly elevated viewpoint. Position the wristwatch in the central third of the image. Illuminate the scene with directional light from the upper left, and use a palette dominated by cool blue. Depict brushed steel on the wristwatch. Depict the wristwatch with a blue dial."
+  },
+  {
+    "task": 34,
+    "condition": "FL",
+    "prompt": "Include a wristwatch in the scene. Include a presentation box in the scene. Use a product display as the setting. Render the image as a watercolor illustration. Keep the overall atmosphere mysterious. Frame the scene using a wide view. Show the scene from a slightly elevated viewpoint. Position the wristwatch in the central third of the image. Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict brushed steel on the wristwatch. Depict the wristwatch with a blue dial."
+  },
+  {
+    "task": 34,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include a wristwatch in the scene. Include a presentation box in the scene. Use a product display as the setting.\nLevel 1 (Style and Atmosphere): Render the image as a watercolor illustration. Keep the overall atmosphere mysterious.\nLevel 2 (Composition and Framing): Frame the scene using a wide view. Show the scene from a slightly elevated viewpoint. Position the wristwatch in the central third of the image.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict brushed steel on the wristwatch. Depict the wristwatch with a blue dial."
+  },
+  {
+    "task": 37,
+    "condition": "FF",
+    "prompt": "Depict a perfume bottle together with a mirror, using a dressing table as the setting. Render it as a digital painting with a calm atmosphere. Frame the scene using a wide view, and show the scene from a slightly elevated viewpoint. Position the perfume bottle in the left third of the image. Position the perfume bottle to the left of the mirror. Illuminate the scene with soft diffuse light, and use a palette dominated by warm amber. Depict clear glass on the perfume bottle. Depict the perfume bottle with a gold cap."
+  },
+  {
+    "task": 37,
+    "condition": "FL",
+    "prompt": "Include a perfume bottle in the scene. Include a mirror in the scene. Use a dressing table as the setting. Render the image as a digital painting. Keep the overall atmosphere calm. Frame the scene using a wide view. Show the scene from a slightly elevated viewpoint. Position the perfume bottle in the left third of the image. Position the perfume bottle to the left of the mirror. Illuminate the scene with soft diffuse light. Use a palette dominated by warm amber. Depict clear glass on the perfume bottle. Depict the perfume bottle with a gold cap."
+  },
+  {
+    "task": 37,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include a perfume bottle in the scene. Include a mirror in the scene. Use a dressing table as the setting.\nLevel 1 (Style and Atmosphere): Render the image as a digital painting. Keep the overall atmosphere calm.\nLevel 2 (Composition and Framing): Frame the scene using a wide view. Show the scene from a slightly elevated viewpoint. Position the perfume bottle in the left third of the image. Position the perfume bottle to the left of the mirror.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with soft diffuse light. Use a palette dominated by warm amber. Depict clear glass on the perfume bottle. Depict the perfume bottle with a gold cap."
+  },
+  {
+    "task": 40,
+    "condition": "FF",
+    "prompt": "Depict a toy robot together with a wooden block, using a playroom as the setting. Render it as a watercolor illustration with a mysterious atmosphere. Frame the scene using a wide view, and show the scene from a slightly elevated viewpoint. Position the toy robot in the left third of the image. Position the toy robot to the left of the wooden block. Illuminate the scene with directional light from the upper left, and use a palette dominated by cool blue. Depict brushed metal on the toy robot. Depict the toy robot with square eyes."
+  },
+  {
+    "task": 40,
+    "condition": "FL",
+    "prompt": "Include a toy robot in the scene. Include a wooden block in the scene. Use a playroom as the setting. Render the image as a watercolor illustration. Keep the overall atmosphere mysterious. Frame the scene using a wide view. Show the scene from a slightly elevated viewpoint. Position the toy robot in the left third of the image. Position the toy robot to the left of the wooden block. Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict brushed metal on the toy robot. Depict the toy robot with square eyes."
+  },
+  {
+    "task": 40,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include a toy robot in the scene. Include a wooden block in the scene. Use a playroom as the setting.\nLevel 1 (Style and Atmosphere): Render the image as a watercolor illustration. Keep the overall atmosphere mysterious.\nLevel 2 (Composition and Framing): Frame the scene using a wide view. Show the scene from a slightly elevated viewpoint. Position the toy robot in the left third of the image. Position the toy robot to the left of the wooden block.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict brushed metal on the toy robot. Depict the toy robot with square eyes."
+  },
+  {
+    "task": 42,
+    "condition": "FF",
+    "prompt": "Depict a golden retriever together with a ball, using a park as the setting. Show the golden retriever sitting. Render it as a gouache illustration with a mysterious atmosphere. Frame the scene using a wide view, and show the scene from an eye-level viewpoint. Position the golden retriever in the central third of the image. Illuminate the scene with directional light from the upper left, and use a palette dominated by cool blue. Depict long fur on the golden retriever. Show the golden retriever wearing a blue collar."
+  },
+  {
+    "task": 42,
+    "condition": "FL",
+    "prompt": "Include a golden retriever in the scene. Include a ball in the scene. Use a park as the setting. Show the golden retriever sitting. Render the image as a gouache illustration. Keep the overall atmosphere mysterious. Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the golden retriever in the central third of the image. Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict long fur on the golden retriever. Show the golden retriever wearing a blue collar."
+  },
+  {
+    "task": 42,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include a golden retriever in the scene. Include a ball in the scene. Use a park as the setting. Show the golden retriever sitting.\nLevel 1 (Style and Atmosphere): Render the image as a gouache illustration. Keep the overall atmosphere mysterious.\nLevel 2 (Composition and Framing): Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the golden retriever in the central third of the image.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict long fur on the golden retriever. Show the golden retriever wearing a blue collar."
+  },
+  {
+    "task": 45,
+    "condition": "FF",
+    "prompt": "Depict a parrot together with a branch, using a tropical enclosure as the setting. Show the parrot perched on the branch. Render it as an ink illustration with a calm atmosphere. Frame the scene using a wide view, and show the scene from an eye-level viewpoint. Position the parrot in the central third of the image. Illuminate the scene with soft diffuse light, and use a palette dominated by warm amber. Depict layered feathers on the parrot. Depict the parrot with a curved beak."
+  },
+  {
+    "task": 45,
+    "condition": "FL",
+    "prompt": "Include a parrot in the scene. Include a branch in the scene. Use a tropical enclosure as the setting. Show the parrot perched on the branch. Render the image as an ink illustration. Keep the overall atmosphere calm. Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the parrot in the central third of the image. Illuminate the scene with soft diffuse light. Use a palette dominated by warm amber. Depict layered feathers on the parrot. Depict the parrot with a curved beak."
+  },
+  {
+    "task": 45,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include a parrot in the scene. Include a branch in the scene. Use a tropical enclosure as the setting. Show the parrot perched on the branch.\nLevel 1 (Style and Atmosphere): Render the image as an ink illustration. Keep the overall atmosphere calm.\nLevel 2 (Composition and Framing): Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the parrot in the central third of the image.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with soft diffuse light. Use a palette dominated by warm amber. Depict layered feathers on the parrot. Depict the parrot with a curved beak."
+  },
+  {
+    "task": 48,
+    "condition": "FF",
+    "prompt": "Depict a penguin together with an ice block, using a polar shore as the setting. Show the penguin standing. Render it as a gouache illustration with a mysterious atmosphere. Frame the scene using a wide view, and show the scene from an eye-level viewpoint. Position the penguin in the left third of the image. Position the penguin to the left of the ice block. Illuminate the scene with directional light from the upper left, and use a palette dominated by cool blue. Depict dense feathers on the penguin. Depict the penguin with a yellow neck patch."
+  },
+  {
+    "task": 48,
+    "condition": "FL",
+    "prompt": "Include a penguin in the scene. Include an ice block in the scene. Use a polar shore as the setting. Show the penguin standing. Render the image as a gouache illustration. Keep the overall atmosphere mysterious. Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the penguin in the left third of the image. Position the penguin to the left of the ice block. Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict dense feathers on the penguin. Depict the penguin with a yellow neck patch."
+  },
+  {
+    "task": 48,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include a penguin in the scene. Include an ice block in the scene. Use a polar shore as the setting. Show the penguin standing.\nLevel 1 (Style and Atmosphere): Render the image as a gouache illustration. Keep the overall atmosphere mysterious.\nLevel 2 (Composition and Framing): Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the penguin in the left third of the image. Position the penguin to the left of the ice block.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict dense feathers on the penguin. Depict the penguin with a yellow neck patch."
+  },
+  {
+    "task": 52,
+    "condition": "FF",
+    "prompt": "Depict a chef together with a waiter, using a restaurant kitchen as the setting. Show the chef holding a plate. Render it as a watercolor illustration with a dreamlike atmosphere. Frame the scene using a wide view, and show the scene from an eye-level viewpoint. Position the chef in the central third of the image. Illuminate the scene with directional light from the upper left, and use a palette dominated by cool blue. Depict cotton fabric on the chef's jacket. Show the chef wearing a tall hat."
+  },
+  {
+    "task": 52,
+    "condition": "FL",
+    "prompt": "Include a chef in the scene. Include a waiter in the scene. Use a restaurant kitchen as the setting. Show the chef holding a plate. Render the image as a watercolor illustration. Keep the overall atmosphere dreamlike. Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the chef in the central third of the image. Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict cotton fabric on the chef's jacket. Show the chef wearing a tall hat."
+  },
+  {
+    "task": 52,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include a chef in the scene. Include a waiter in the scene. Use a restaurant kitchen as the setting. Show the chef holding a plate.\nLevel 1 (Style and Atmosphere): Render the image as a watercolor illustration. Keep the overall atmosphere dreamlike.\nLevel 2 (Composition and Framing): Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the chef in the central third of the image.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict cotton fabric on the chef's jacket. Show the chef wearing a tall hat."
+  },
+  {
+    "task": 56,
+    "condition": "FF",
+    "prompt": "Depict a firefighter together with a rescue dog, using a training ground as the setting. Show the firefighter holding a rope. Render it as a colored-pencil illustration with a mysterious atmosphere. Frame the scene using a wide view, and show the scene from an eye-level viewpoint. Position the firefighter in the left third of the image. Position the firefighter to the left of the rescue dog. Illuminate the scene with directional light from the upper left, and use a palette dominated by cool blue. Depict heavy fabric on the firefighter's jacket. Show the firefighter wearing a yellow helmet."
+  },
+  {
+    "task": 56,
+    "condition": "FL",
+    "prompt": "Include a firefighter in the scene. Include a rescue dog in the scene. Use a training ground as the setting. Show the firefighter holding a rope. Render the image as a colored-pencil illustration. Keep the overall atmosphere mysterious. Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the firefighter in the left third of the image. Position the firefighter to the left of the rescue dog. Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict heavy fabric on the firefighter's jacket. Show the firefighter wearing a yellow helmet."
+  },
+  {
+    "task": 56,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include a firefighter in the scene. Include a rescue dog in the scene. Use a training ground as the setting. Show the firefighter holding a rope.\nLevel 1 (Style and Atmosphere): Render the image as a colored-pencil illustration. Keep the overall atmosphere mysterious.\nLevel 2 (Composition and Framing): Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the firefighter in the left third of the image. Position the firefighter to the left of the rescue dog.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with directional light from the upper left. Use a palette dominated by cool blue. Depict heavy fabric on the firefighter's jacket. Show the firefighter wearing a yellow helmet."
+  },
+  {
+    "task": 59,
+    "condition": "FF",
+    "prompt": "Depict a scientist together with a robot assistant, using a laboratory as the setting. Show the scientist holding a flask. Render it as an oil painting with a calm atmosphere. Frame the scene using a wide view, and show the scene from an eye-level viewpoint. Position the scientist in the left third of the image. Position the scientist to the left of the robot assistant. Illuminate the scene with soft diffuse light, and use a palette dominated by warm amber. Depict cotton fabric on the scientist's coat. Show the scientist wearing protective goggles."
+  },
+  {
+    "task": 59,
+    "condition": "FL",
+    "prompt": "Include a scientist in the scene. Include a robot assistant in the scene. Use a laboratory as the setting. Show the scientist holding a flask. Render the image as an oil painting. Keep the overall atmosphere calm. Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the scientist in the left third of the image. Position the scientist to the left of the robot assistant. Illuminate the scene with soft diffuse light. Use a palette dominated by warm amber. Depict cotton fabric on the scientist's coat. Show the scientist wearing protective goggles."
+  },
+  {
+    "task": 59,
+    "condition": "H",
+    "prompt": "Level 0 (Core Subject and Scene): Include a scientist in the scene. Include a robot assistant in the scene. Use a laboratory as the setting. Show the scientist holding a flask.\nLevel 1 (Style and Atmosphere): Render the image as an oil painting. Keep the overall atmosphere calm.\nLevel 2 (Composition and Framing): Frame the scene using a wide view. Show the scene from an eye-level viewpoint. Position the scientist in the left third of the image. Position the scientist to the left of the robot assistant.\nLevel 3 (Lighting, Material, and Detail): Illuminate the scene with soft diffuse light. Use a palette dominated by warm amber. Depict cotton fabric on the scientist's coat. Show the scientist wearing protective goggles."
+  }
+]
