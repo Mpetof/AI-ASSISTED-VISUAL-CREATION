@@ -73,6 +73,8 @@ After statistical processing of the above metrics, the statistical plots below a
 
 ### Reusable Visual Element Extraction
 
+This experiment investigates element extraction for recombination from multiple AI-generated concept sketches. Instead of full-image regeneration, we compare segmentation-based and generative extraction methods on two evaluation tiers, measuring extraction accuracy, fidelity, boundary quality, reusability and failure patterns to examine whether element reuse reduces reliance on a single high-quality sketch.
+
 ### Spatial Structure Extraction and Conditioning
 
 ### Visual-Spatial Fusion and Compositional Refinement 
