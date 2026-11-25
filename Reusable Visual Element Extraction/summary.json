@@ -1,0 +1,258 @@
+[
+  {
+    "tier":"T1",
+    "tool":"SAM 2 (oracle box)",
+    "metric":"IoU",
+    "mean":0.8834911496,
+    "low":0.8709839312,
+    "high":0.8955906913
+  },
+  {
+    "tier":"T1",
+    "tool":"SAM 2 (oracle box)",
+    "metric":"Boundary_IoU",
+    "mean":0.811585625,
+    "low":0.7952440272,
+    "high":0.8272866352
+  },
+  {
+    "tier":"T1",
+    "tool":"SAM 2 (oracle box)",
+    "metric":"LPIPS",
+    "mean":0.0261773229,
+    "low":0.0232425475,
+    "high":0.0291143259
+  },
+  {
+    "tier":"T1",
+    "tool":"SAM 2 (oracle box)",
+    "metric":"Swap_error",
+    "mean":0.0850057372,
+    "low":0.0761872577,
+    "high":0.0939577368
+  },
+  {
+    "tier":"T1",
+    "tool":"SAM 2 (oracle box)",
+    "metric":"Usable",
+    "mean":0.385,
+    "low":0.2983333333,
+    "high":0.4717083333
+  },
+  {
+    "tier":"T1",
+    "tool":"Grounded SAM 2",
+    "metric":"IoU",
+    "mean":0.822398966,
+    "low":0.8062068831,
+    "high":0.8385073137
+  },
+  {
+    "tier":"T1",
+    "tool":"Grounded SAM 2",
+    "metric":"Boundary_IoU",
+    "mean":0.7501899016,
+    "low":0.7303314436,
+    "high":0.7703124985
+  },
+  {
+    "tier":"T1",
+    "tool":"Grounded SAM 2",
+    "metric":"LPIPS",
+    "mean":0.0307579527,
+    "low":0.027681275,
+    "high":0.0338653141
+  },
+  {
+    "tier":"T1",
+    "tool":"Grounded SAM 2",
+    "metric":"Swap_error",
+    "mean":0.1171432728,
+    "low":0.106354056,
+    "high":0.128186527
+  },
+  {
+    "tier":"T1",
+    "tool":"Grounded SAM 2",
+    "metric":"Usable",
+    "mean":0.275,
+    "low":0.1983333333,
+    "high":0.3566666667
+  },
+  {
+    "tier":"T1",
+    "tool":"Gemini (scenario)",
+    "metric":"IoU",
+    "mean":0.8334793763,
+    "low":0.8169983416,
+    "high":0.8492169086
+  },
+  {
+    "tier":"T1",
+    "tool":"Gemini (scenario)",
+    "metric":"Boundary_IoU",
+    "mean":0.7621343759,
+    "low":0.7434313308,
+    "high":0.7806187382
+  },
+  {
+    "tier":"T1",
+    "tool":"Gemini (scenario)",
+    "metric":"LPIPS",
+    "mean":0.090331406,
+    "low":0.0864849696,
+    "high":0.0944311432
+  },
+  {
+    "tier":"T1",
+    "tool":"Gemini (scenario)",
+    "metric":"Swap_error",
+    "mean":0.1500371481,
+    "low":0.1390703002,
+    "high":0.1612502376
+  },
+  {
+    "tier":"T1",
+    "tool":"Gemini (scenario)",
+    "metric":"Usable",
+    "mean":0.2383333333,
+    "low":0.1833333333,
+    "high":0.295
+  },
+  {
+    "tier":"T1",
+    "tool":"Doubao (scenario)",
+    "metric":"IoU",
+    "mean":0.8123089381,
+    "low":0.7952487103,
+    "high":0.8294305232
+  },
+  {
+    "tier":"T1",
+    "tool":"Doubao (scenario)",
+    "metric":"Boundary_IoU",
+    "mean":0.7415997321,
+    "low":0.7210411079,
+    "high":0.7619046617
+  },
+  {
+    "tier":"T1",
+    "tool":"Doubao (scenario)",
+    "metric":"LPIPS",
+    "mean":0.1040954364,
+    "low":0.0998032446,
+    "high":0.1085342477
+  },
+  {
+    "tier":"T1",
+    "tool":"Doubao (scenario)",
+    "metric":"Swap_error",
+    "mean":0.1698599416,
+    "low":0.1585340804,
+    "high":0.1820083289
+  },
+  {
+    "tier":"T1",
+    "tool":"Doubao (scenario)",
+    "metric":"Usable",
+    "mean":0.145,
+    "low":0.1016666667,
+    "high":0.19
+  },
+  {
+    "tier":"T2",
+    "tool":"Grounded SAM 2",
+    "metric":"LPIPS",
+    "mean":0.0313139327,
+    "low":0.0281886014,
+    "high":0.0345615067
+  },
+  {
+    "tier":"T2",
+    "tool":"Grounded SAM 2",
+    "metric":"DINO",
+    "mean":0.9285494007,
+    "low":0.9252450544,
+    "high":0.9318373757
+  },
+  {
+    "tier":"T2",
+    "tool":"Grounded SAM 2",
+    "metric":"Edge_agreement",
+    "mean":0.7164042918,
+    "low":0.6982347396,
+    "high":0.73399958
+  },
+  {
+    "tier":"T2",
+    "tool":"Grounded SAM 2",
+    "metric":"Identity",
+    "mean":0.96,
+    "low":0.9433333333,
+    "high":0.975
+  },
+  {
+    "tier":"T2",
+    "tool":"Gemini (scenario)",
+    "metric":"LPIPS",
+    "mean":0.0891877713,
+    "low":0.0854509992,
+    "high":0.0930634483
+  },
+  {
+    "tier":"T2",
+    "tool":"Gemini (scenario)",
+    "metric":"DINO",
+    "mean":0.9027315524,
+    "low":0.8991902133,
+    "high":0.906304212
+  },
+  {
+    "tier":"T2",
+    "tool":"Gemini (scenario)",
+    "metric":"Edge_agreement",
+    "mean":0.7471461378,
+    "low":0.72766828,
+    "high":0.7667732663
+  },
+  {
+    "tier":"T2",
+    "tool":"Gemini (scenario)",
+    "metric":"Identity",
+    "mean":0.9566666667,
+    "low":0.94,
+    "high":0.9716666667
+  },
+  {
+    "tier":"T2",
+    "tool":"Doubao (scenario)",
+    "metric":"LPIPS",
+    "mean":0.1080719944,
+    "low":0.1039603078,
+    "high":0.1123213517
+  },
+  {
+    "tier":"T2",
+    "tool":"Doubao (scenario)",
+    "metric":"DINO",
+    "mean":0.8889269465,
+    "low":0.8846043514,
+    "high":0.8930160384
+  },
+  {
+    "tier":"T2",
+    "tool":"Doubao (scenario)",
+    "metric":"Edge_agreement",
+    "mean":0.7071686697,
+    "low":0.6862511723,
+    "high":0.7279224007
+  },
+  {
+    "tier":"T2",
+    "tool":"Doubao (scenario)",
+    "metric":"Identity",
+    "mean":0.9416666667,
+    "low":0.92,
+    "high":0.9616666667
+  }
+]
