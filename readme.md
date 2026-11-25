@@ -73,7 +73,56 @@ After statistical processing of the above metrics, the statistical plots below a
 
 ### Reusable Visual Element Extraction
 
-This experiment investigates element extraction for recombination from multiple AI-generated concept sketches. Instead of full-image regeneration, we compare segmentation-based and generative extraction methods on two evaluation tiers, measuring extraction accuracy, fidelity, boundary quality, reusability and failure patterns to examine whether element reuse reduces reliance on a single high-quality sketch.
+This experiment examines how different extraction approaches isolate visual elements while preserving their appearance for subsequent reuse. Evaluation covers a controlled benchmark with ground truth (Tier 1) and concept images from the creative workflow (Tier 2). Each tier contains 120 extraction tasks. Tasks cover compact single objects, luminous multi-instance structures, and thin line-like silhouettes. Tier 1 contains 40 tasks per category. Each tool–task pair has five runs. Generation prompts are available in [reusable_visual_element_extraction_prompts.json](Reusable%20Visual%20Element%20Extraction/reusable_visual_element_extraction_prompts.json).
+
+Four tools are evaluated on Tier 1 and three on Tier 2.
+
+Tier | Test images | Tools |
+|---|---|---|
+| T1 — Controlled benchmark | Composited foreground layers and backgrounds with known target alpha | SAM 2 with oracle boxes; Grounded SAM 2; Gemini; Seedream |
+| T2 — Workflow images | Concept sketches with specified extraction targets, without ground-truth masks | Grounded SAM 2; Gemini; Seedream
+
+Tool | Input and role | Reference |
+|---|---|---|
+| SAM 2 (oracle) | A box derived from the target's ground-truth visible mask; Tier 1 diagnostic reference | [SAM 2](https://github.com/facebookresearch/sam2) |
+| Grounded SAM 2 | Textual target localization followed by box-prompted segmentation | [Grounded SAM 2](https://github.com/IDEA-Research/Grounded-SAM-2), [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO) |
+| Gemini 3.1 Flash Image | Image-conditioned generative extraction | [Closed API](https://ai.google.dev/gemini-api) |
+| Seedream 4.5 | Image-conditioned generative extraction |  [Closed API](https://www.doubao.com/) |
+
+Tier 1 foreground layers are generated using [LayerDiffuse](https://github.com/lllyasviel/LayerDiffuse), retaining their native alpha mattes ([image_input](Reusable%20Visual%20Element%20Extraction/image_input.py)). 
+
+Perceptual comparisons use [LPIPS](https://github.com/richzhang/PerceptualSimilarity). Boundary evaluation follows [Boundary IoU](https://github.com/bowenc0221/boundary-iou-api). Feature and identity evaluation use [DINOv2](https://github.com/facebookresearch/dinov2) and [SigLIP](https://github.com/google-research/big_vision). 
+
+| Tier | Metric | Code |
+|---|---|---|
+| T1 | IoU | [extraction_metrics/iou.py](Reusable%20Visual%20Element%20Extraction/iou.py) |
+| T1 | Boundary IoU | [extraction_metrics/boundary_iou.py](Reusable%20Visual%20Element%20Extraction/boundary_iou.py) |
+| T1 | Masked LPIPS | [extraction_metrics/masked_lpips.py](Reusable%20Visual%20Element%20Extraction/masked_lpips.py) |
+| T1 | Swap error | [extraction_metrics/swap_error.py](Reusable%20Visual%20Element%20Extraction/swap_error.py) |
+| T1 | Usable rate | [extraction_metrics/usable_rate.py](Reusable%20Visual%20Element%20Extraction/usable_rate.py) |
+| T2 | Masked LPIPS | [extraction_metrics/masked_lpips.py](Reusable%20Visual%20Element%20Extraction/masked_lpips.py) |
+| T2 | DINO similarity | [extraction_metrics/dino_similarity.py](Reusable%20Visual%20Element%20Extraction/dino_similarity.py) |
+| T2 | Boundary-edge agreement | [extraction_metrics/edge_agreement.py](Reusable%20Visual%20Element%20Extraction/edge_agreement.py) |
+| T2 | Target identity accuracy | [extraction_metrics/identity_accuracy.py](Reusable%20Visual%20Element%20Extraction/identity_accuracy.py) |
+
+The complete run records are stored in [Run_data](Reusable%20Visual%20Element%20Extraction/run_data.json).
+
+The statistical analysis results are stored in [Summary](Reusable%20Visual%20Element%20Extraction/summary.json) [Statistics](Reusable%20Visual%20Element%20Extraction/statistics.json), via [code](Reusable%20Visual%20Element%20Extraction/statistics.py)
+
+T1 tool | IoU ↑ | B-IoU ↑ | LPIPS ↓ | Swap ↓ | Usable (%) ↑ |
+|---|---|---|---|---|---|
+| SAM 2 (oracle) | .883 (.871–.896) | .812 | .026 | .085 | 38.5 (29.8–47.2) |
+| Grounded SAM 2 | .822 (.806–.839) | .750 | .031 | .117 | 27.5 (19.8–35.7) |
+| Gemini | .833 (.817–.849) | .762 | .090 | .150 | 23.8 (18.3–29.5) |
+| Seedream | .812 (.795–.829) | .742 | .104 | .170 | 14.5 (10.2–19.0) |
+
+| T2 tool | LPIPS ↓ | DINO ↑ | Edge ↑ | Identity (%) ↑ |
+|---|---|---|---|---|
+| Grounded SAM 2 | .031 | .929 | .716 | 96.0 |
+| Gemini | .089 | .903 | .747 | 95.7 |
+| Seedream | .108 | .889 | .707 | 94.2
+
+![Statistical overview](Reusable%20Visual%20Element%20Extraction/compact_results.png)
 
 ### Spatial Structure Extraction and Conditioning
 
