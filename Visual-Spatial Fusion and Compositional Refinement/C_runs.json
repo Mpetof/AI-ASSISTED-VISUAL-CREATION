@@ -1,0 +1,2402 @@
+[
+  {
+    "task": 0,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.8887816291010221
+  },
+  {
+    "task": 0,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.8748089484864547
+  },
+  {
+    "task": 0,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 0.9174739227867033
+  },
+  {
+    "task": 0,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.8608391363210081
+  },
+  {
+    "task": 0,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 0.9432279772929175
+  },
+  {
+    "task": 0,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.8942453972529479
+  },
+  {
+    "task": 0,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.8647983356927806
+  },
+  {
+    "task": 0,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.9013018915948775
+  },
+  {
+    "task": 0,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.8894218282545383
+  },
+  {
+    "task": 0,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.8157170914587919
+  },
+  {
+    "task": 0,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.8023295047675977
+  },
+  {
+    "task": 0,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.8012631989565244
+  },
+  {
+    "task": 0,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.8352935497681593
+  },
+  {
+    "task": 0,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.8392144082039931
+  },
+  {
+    "task": 0,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.8381541372168761
+  },
+  {
+    "task": 0,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.7087555176495335
+  },
+  {
+    "task": 0,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.7726378661510379
+  },
+  {
+    "task": 0,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.7148870866584636
+  },
+  {
+    "task": 0,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.7129363201962929
+  },
+  {
+    "task": 0,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.6880947443756612
+  },
+  {
+    "task": 1,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.9184857594557605
+  },
+  {
+    "task": 1,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.9161090156549611
+  },
+  {
+    "task": 1,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 0.9252417878054259
+  },
+  {
+    "task": 1,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.9155586590627224
+  },
+  {
+    "task": 1,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 0.8518598985639494
+  },
+  {
+    "task": 1,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.7522272783744974
+  },
+  {
+    "task": 1,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.86803244477271
+  },
+  {
+    "task": 1,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.7481007185617996
+  },
+  {
+    "task": 1,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.8345993345984051
+  },
+  {
+    "task": 1,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.8688377662701647
+  },
+  {
+    "task": 1,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.8010400887188245
+  },
+  {
+    "task": 1,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.784249752765141
+  },
+  {
+    "task": 1,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.7700919667002759
+  },
+  {
+    "task": 1,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.7589176285149402
+  },
+  {
+    "task": 1,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.7932452188884352
+  },
+  {
+    "task": 1,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.6445720024935627
+  },
+  {
+    "task": 1,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.6615942586374948
+  },
+  {
+    "task": 1,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.6452075106852174
+  },
+  {
+    "task": 1,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.6532384042922499
+  },
+  {
+    "task": 1,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.7007275248134059
+  },
+  {
+    "task": 2,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.8783823218609332
+  },
+  {
+    "task": 2,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.8494049254357465
+  },
+  {
+    "task": 2,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 0.8551261074855705
+  },
+  {
+    "task": 2,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.7512151757120907
+  },
+  {
+    "task": 2,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 0.7734489874853705
+  },
+  {
+    "task": 2,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.7076738628832859
+  },
+  {
+    "task": 2,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.7177793574483738
+  },
+  {
+    "task": 2,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.6593788391607859
+  },
+  {
+    "task": 2,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.7031695388835233
+  },
+  {
+    "task": 2,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.710825047697536
+  },
+  {
+    "task": 2,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.7228677620627398
+  },
+  {
+    "task": 2,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.6700363289358914
+  },
+  {
+    "task": 2,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.7404836651506106
+  },
+  {
+    "task": 2,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.6881566979810921
+  },
+  {
+    "task": 2,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.7137973441184324
+  },
+  {
+    "task": 2,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.6143189697501235
+  },
+  {
+    "task": 2,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.572036300677602
+  },
+  {
+    "task": 2,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.5973044772245086
+  },
+  {
+    "task": 2,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.5449995283525814
+  },
+  {
+    "task": 2,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.5813147988643502
+  },
+  {
+    "task": 3,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.9513407372282934
+  },
+  {
+    "task": 3,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.9954886270862929
+  },
+  {
+    "task": 3,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 1.0
+  },
+  {
+    "task": 3,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.9697442358603382
+  },
+  {
+    "task": 3,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 1.0
+  },
+  {
+    "task": 3,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.8214470552589126
+  },
+  {
+    "task": 3,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.8748825673461047
+  },
+  {
+    "task": 3,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.9216938473836809
+  },
+  {
+    "task": 3,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.9496264205322278
+  },
+  {
+    "task": 3,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.8932772175241307
+  },
+  {
+    "task": 3,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.8701415810136028
+  },
+  {
+    "task": 3,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.8980009919575571
+  },
+  {
+    "task": 3,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.9239259165608454
+  },
+  {
+    "task": 3,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.9173080707778054
+  },
+  {
+    "task": 3,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.9497030234584977
+  },
+  {
+    "task": 3,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.8570698522533811
+  },
+  {
+    "task": 3,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.7783575379395269
+  },
+  {
+    "task": 3,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.8030049914140232
+  },
+  {
+    "task": 3,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.7353998739346957
+  },
+  {
+    "task": 3,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.7628428939066446
+  },
+  {
+    "task": 4,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.9319274281439738
+  },
+  {
+    "task": 4,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.8714392054260369
+  },
+  {
+    "task": 4,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 0.8470547647172816
+  },
+  {
+    "task": 4,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.8721966645707352
+  },
+  {
+    "task": 4,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 0.9264174750541279
+  },
+  {
+    "task": 4,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.7602706546014346
+  },
+  {
+    "task": 4,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.8169218957262079
+  },
+  {
+    "task": 4,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.829806821649377
+  },
+  {
+    "task": 4,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.7945396426018297
+  },
+  {
+    "task": 4,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.7781396732822704
+  },
+  {
+    "task": 4,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.7794142989095849
+  },
+  {
+    "task": 4,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.8054997191197906
+  },
+  {
+    "task": 4,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.7486942247602624
+  },
+  {
+    "task": 4,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.8172385245817956
+  },
+  {
+    "task": 4,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.791933972121749
+  },
+  {
+    "task": 4,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.6895844803488608
+  },
+  {
+    "task": 4,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.6484236377423428
+  },
+  {
+    "task": 4,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.6597980606619472
+  },
+  {
+    "task": 4,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.6601051437045298
+  },
+  {
+    "task": 4,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.6268769942530971
+  },
+  {
+    "task": 5,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.9473311149022201
+  },
+  {
+    "task": 5,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.9915619359882878
+  },
+  {
+    "task": 5,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 0.9581771683119896
+  },
+  {
+    "task": 5,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.9565869952431617
+  },
+  {
+    "task": 5,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 0.9667412898360564
+  },
+  {
+    "task": 5,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.8551844130789902
+  },
+  {
+    "task": 5,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.8950983846723517
+  },
+  {
+    "task": 5,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.8843137279546008
+  },
+  {
+    "task": 5,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.867007301170862
+  },
+  {
+    "task": 5,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.8384517437158627
+  },
+  {
+    "task": 5,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.8027087943066396
+  },
+  {
+    "task": 5,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.8262414876097437
+  },
+  {
+    "task": 5,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.8640094896377487
+  },
+  {
+    "task": 5,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.7715430227510947
+  },
+  {
+    "task": 5,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.8151870868976068
+  },
+  {
+    "task": 5,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.7363206657172849
+  },
+  {
+    "task": 5,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.7133527821863295
+  },
+  {
+    "task": 5,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.7143862263496764
+  },
+  {
+    "task": 5,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.7254126874418156
+  },
+  {
+    "task": 5,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.6968123931855889
+  },
+  {
+    "task": 6,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.8763232598880493
+  },
+  {
+    "task": 6,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.8963176369690229
+  },
+  {
+    "task": 6,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 0.8965155681041694
+  },
+  {
+    "task": 6,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.866142330743443
+  },
+  {
+    "task": 6,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 0.9286207266166611
+  },
+  {
+    "task": 6,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.7770904064693867
+  },
+  {
+    "task": 6,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.7936941158296822
+  },
+  {
+    "task": 6,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.8057820831234206
+  },
+  {
+    "task": 6,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.7609787708900418
+  },
+  {
+    "task": 6,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.751423550682017
+  },
+  {
+    "task": 6,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.796060519947357
+  },
+  {
+    "task": 6,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.80428996972012
+  },
+  {
+    "task": 6,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.7685932777649526
+  },
+  {
+    "task": 6,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.8179568357036002
+  },
+  {
+    "task": 6,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.765067590311289
+  },
+  {
+    "task": 6,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.6947034818526077
+  },
+  {
+    "task": 6,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.6049231545911677
+  },
+  {
+    "task": 6,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.6642181652502508
+  },
+  {
+    "task": 6,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.70887997964261
+  },
+  {
+    "task": 6,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.6158316031885303
+  },
+  {
+    "task": 7,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.9577627896263017
+  },
+  {
+    "task": 7,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.9632897082714699
+  },
+  {
+    "task": 7,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 0.9957884809924641
+  },
+  {
+    "task": 7,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.994149388447345
+  },
+  {
+    "task": 7,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 0.975221699096543
+  },
+  {
+    "task": 7,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.8763585654537468
+  },
+  {
+    "task": 7,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.8687952172253423
+  },
+  {
+    "task": 7,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.901325129249845
+  },
+  {
+    "task": 7,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.8665978257700592
+  },
+  {
+    "task": 7,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.8374732201420745
+  },
+  {
+    "task": 7,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.8152275062276569
+  },
+  {
+    "task": 7,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.8093442234086431
+  },
+  {
+    "task": 7,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.8225118580347607
+  },
+  {
+    "task": 7,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.8378539931200425
+  },
+  {
+    "task": 7,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.8207313458043108
+  },
+  {
+    "task": 7,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.7122391962859491
+  },
+  {
+    "task": 7,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.6699710283307981
+  },
+  {
+    "task": 7,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.7571820900343117
+  },
+  {
+    "task": 7,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.7495521377006821
+  },
+  {
+    "task": 7,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.765583465539899
+  },
+  {
+    "task": 8,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.8623822427692102
+  },
+  {
+    "task": 8,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.9565747585609697
+  },
+  {
+    "task": 8,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 0.952399540812402
+  },
+  {
+    "task": 8,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.8836961775581481
+  },
+  {
+    "task": 8,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 0.919256061786387
+  },
+  {
+    "task": 8,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.8901538990433377
+  },
+  {
+    "task": 8,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.8894822828119701
+  },
+  {
+    "task": 8,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.896355300139446
+  },
+  {
+    "task": 8,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.9232879988149221
+  },
+  {
+    "task": 8,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.9323923225778039
+  },
+  {
+    "task": 8,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.7799341906433812
+  },
+  {
+    "task": 8,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.820842503430426
+  },
+  {
+    "task": 8,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.7830299469406385
+  },
+  {
+    "task": 8,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.7999060651760933
+  },
+  {
+    "task": 8,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.7974564942681303
+  },
+  {
+    "task": 8,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.6997025924309596
+  },
+  {
+    "task": 8,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.7251733815296089
+  },
+  {
+    "task": 8,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.7132532775796684
+  },
+  {
+    "task": 8,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.7444269851660027
+  },
+  {
+    "task": 8,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.7566532065904641
+  },
+  {
+    "task": 9,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.920493842010353
+  },
+  {
+    "task": 9,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.8532554120081159
+  },
+  {
+    "task": 9,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 0.9727666267886588
+  },
+  {
+    "task": 9,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.9352065888538076
+  },
+  {
+    "task": 9,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 0.9092580539866956
+  },
+  {
+    "task": 9,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.8045612464885158
+  },
+  {
+    "task": 9,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.8402724700191458
+  },
+  {
+    "task": 9,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.8981858675807277
+  },
+  {
+    "task": 9,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.8048405188682999
+  },
+  {
+    "task": 9,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.826041907878617
+  },
+  {
+    "task": 9,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.768431728284467
+  },
+  {
+    "task": 9,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.8239032482974721
+  },
+  {
+    "task": 9,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.7987597217987508
+  },
+  {
+    "task": 9,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.7961360315511413
+  },
+  {
+    "task": 9,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.7635938946919574
+  },
+  {
+    "task": 9,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.7000495538834952
+  },
+  {
+    "task": 9,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.6885924047269716
+  },
+  {
+    "task": 9,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.6857902000436615
+  },
+  {
+    "task": 9,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.6619290743564237
+  },
+  {
+    "task": 9,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.6016473127215266
+  },
+  {
+    "task": 10,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.9054051065761839
+  },
+  {
+    "task": 10,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.9508434302396673
+  },
+  {
+    "task": 10,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 0.949696546959324
+  },
+  {
+    "task": 10,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.9111563860558323
+  },
+  {
+    "task": 10,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 0.9256807349315753
+  },
+  {
+    "task": 10,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.7992780835777246
+  },
+  {
+    "task": 10,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.8595242748467997
+  },
+  {
+    "task": 10,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.7887036682525324
+  },
+  {
+    "task": 10,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.8755970626079109
+  },
+  {
+    "task": 10,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.8314179672122902
+  },
+  {
+    "task": 10,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.7880136724037584
+  },
+  {
+    "task": 10,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.8094011369342479
+  },
+  {
+    "task": 10,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.8537535087367413
+  },
+  {
+    "task": 10,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.7993566977225361
+  },
+  {
+    "task": 10,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.85885255250106
+  },
+  {
+    "task": 10,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.6928937911283554
+  },
+  {
+    "task": 10,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.6994840838272456
+  },
+  {
+    "task": 10,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.7881834008221184
+  },
+  {
+    "task": 10,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.7102562922151378
+  },
+  {
+    "task": 10,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.7611199016217491
+  },
+  {
+    "task": 11,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.9638980977522702
+  },
+  {
+    "task": 11,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.9645422594366557
+  },
+  {
+    "task": 11,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 0.9952834535138027
+  },
+  {
+    "task": 11,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.9991487091752727
+  },
+  {
+    "task": 11,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 0.8996224423710208
+  },
+  {
+    "task": 11,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.8739719566456319
+  },
+  {
+    "task": 11,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.8954223780610973
+  },
+  {
+    "task": 11,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.8190753759861005
+  },
+  {
+    "task": 11,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.9075442126730267
+  },
+  {
+    "task": 11,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.8724399802277913
+  },
+  {
+    "task": 11,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.8647125013181631
+  },
+  {
+    "task": 11,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.8314724799790485
+  },
+  {
+    "task": 11,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.8163230910035683
+  },
+  {
+    "task": 11,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.7868371149732236
+  },
+  {
+    "task": 11,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.8284798302345979
+  },
+  {
+    "task": 11,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.6924845894748095
+  },
+  {
+    "task": 11,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.6855230172446732
+  },
+  {
+    "task": 11,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.709029357807653
+  },
+  {
+    "task": 11,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.7139752672120925
+  },
+  {
+    "task": 11,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.7229049774788806
+  },
+  {
+    "task": 12,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.9437902149555701
+  },
+  {
+    "task": 12,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.9428545029009794
+  },
+  {
+    "task": 12,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 0.9184008524412989
+  },
+  {
+    "task": 12,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.9375724759485755
+  },
+  {
+    "task": 12,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 0.9271086130358958
+  },
+  {
+    "task": 12,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.8536212406554265
+  },
+  {
+    "task": 12,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.871763999356463
+  },
+  {
+    "task": 12,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.8213657933039156
+  },
+  {
+    "task": 12,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.848437361410735
+  },
+  {
+    "task": 12,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.8464381731940019
+  },
+  {
+    "task": 12,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.786914182743092
+  },
+  {
+    "task": 12,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.7834072575300567
+  },
+  {
+    "task": 12,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.77341426235625
+  },
+  {
+    "task": 12,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.7886597436575442
+  },
+  {
+    "task": 12,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.861868595963137
+  },
+  {
+    "task": 12,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.6701264866830846
+  },
+  {
+    "task": 12,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.6830661347820999
+  },
+  {
+    "task": 12,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.7061400197794598
+  },
+  {
+    "task": 12,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.7309951735965746
+  },
+  {
+    "task": 12,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.6979543512669538
+  },
+  {
+    "task": 13,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.7735808314265986
+  },
+  {
+    "task": 13,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.8214795111813736
+  },
+  {
+    "task": 13,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 0.7880888524124173
+  },
+  {
+    "task": 13,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.8455102971438085
+  },
+  {
+    "task": 13,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 0.8112639508929643
+  },
+  {
+    "task": 13,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.763121576151137
+  },
+  {
+    "task": 13,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.7470994283612993
+  },
+  {
+    "task": 13,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.6999864095890184
+  },
+  {
+    "task": 13,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.8076109919478314
+  },
+  {
+    "task": 13,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.7586524327962904
+  },
+  {
+    "task": 13,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.6332418321087852
+  },
+  {
+    "task": 13,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.7068333983821629
+  },
+  {
+    "task": 13,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.6882198950176902
+  },
+  {
+    "task": 13,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.737665783008998
+  },
+  {
+    "task": 13,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.7619638921188292
+  },
+  {
+    "task": 13,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.6857273068479262
+  },
+  {
+    "task": 13,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.6161312619522921
+  },
+  {
+    "task": 13,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.5892493342482864
+  },
+  {
+    "task": 13,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.5596178850690692
+  },
+  {
+    "task": 13,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.5863779309766883
+  },
+  {
+    "task": 14,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.9063468086334426
+  },
+  {
+    "task": 14,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.8928438779222666
+  },
+  {
+    "task": 14,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 0.9085527818780306
+  },
+  {
+    "task": 14,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.8858324561399228
+  },
+  {
+    "task": 14,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 0.8941134953989425
+  },
+  {
+    "task": 14,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.8590711658893502
+  },
+  {
+    "task": 14,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.85469648111322
+  },
+  {
+    "task": 14,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.9121464189327396
+  },
+  {
+    "task": 14,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.8687360437394248
+  },
+  {
+    "task": 14,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.7948027272278252
+  },
+  {
+    "task": 14,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.8097941781566328
+  },
+  {
+    "task": 14,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.8523335547176429
+  },
+  {
+    "task": 14,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.8386993347469391
+  },
+  {
+    "task": 14,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.8165067310618355
+  },
+  {
+    "task": 14,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.7514809187343479
+  },
+  {
+    "task": 14,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.7034850869056165
+  },
+  {
+    "task": 14,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.7180322026604147
+  },
+  {
+    "task": 14,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.692311240502048
+  },
+  {
+    "task": 14,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.7983151569380258
+  },
+  {
+    "task": 14,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.7025966541639785
+  },
+  {
+    "task": 15,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.921024975838867
+  },
+  {
+    "task": 15,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.9091723601315234
+  },
+  {
+    "task": 15,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 0.9800271511849263
+  },
+  {
+    "task": 15,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.9878991004481342
+  },
+  {
+    "task": 15,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 0.9265907399425206
+  },
+  {
+    "task": 15,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.789641826321909
+  },
+  {
+    "task": 15,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.8004150763340736
+  },
+  {
+    "task": 15,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.8399049043293166
+  },
+  {
+    "task": 15,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.8347080130747977
+  },
+  {
+    "task": 15,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.8740236610050445
+  },
+  {
+    "task": 15,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.8236494462855471
+  },
+  {
+    "task": 15,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.8252577958274644
+  },
+  {
+    "task": 15,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.8602951408468941
+  },
+  {
+    "task": 15,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.7589604267149981
+  },
+  {
+    "task": 15,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.8288994236078222
+  },
+  {
+    "task": 15,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.712633827403817
+  },
+  {
+    "task": 15,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.6854373531499387
+  },
+  {
+    "task": 15,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.6499694851888599
+  },
+  {
+    "task": 15,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.6365022376320542
+  },
+  {
+    "task": 15,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.67658907799015
+  },
+  {
+    "task": 16,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.9073491565386977
+  },
+  {
+    "task": 16,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.9803281124031331
+  },
+  {
+    "task": 16,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 0.8910156957704111
+  },
+  {
+    "task": 16,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.8990233448701203
+  },
+  {
+    "task": 16,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 1.0
+  },
+  {
+    "task": 16,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.8743366072432971
+  },
+  {
+    "task": 16,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.832327646484526
+  },
+  {
+    "task": 16,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.828796969985887
+  },
+  {
+    "task": 16,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.8470371841160057
+  },
+  {
+    "task": 16,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.8826729715311443
+  },
+  {
+    "task": 16,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.8277680457888662
+  },
+  {
+    "task": 16,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.8440629826815259
+  },
+  {
+    "task": 16,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.8697041441348177
+  },
+  {
+    "task": 16,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.8701377129537093
+  },
+  {
+    "task": 16,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.860407151302236
+  },
+  {
+    "task": 16,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.774729726887429
+  },
+  {
+    "task": 16,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.7275490718857548
+  },
+  {
+    "task": 16,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.7362464666458017
+  },
+  {
+    "task": 16,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.7201198113562638
+  },
+  {
+    "task": 16,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.6787339334483302
+  },
+  {
+    "task": 17,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.9221921057955698
+  },
+  {
+    "task": 17,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.9960265332765322
+  },
+  {
+    "task": 17,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 0.9404863620756205
+  },
+  {
+    "task": 17,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.9727743531975068
+  },
+  {
+    "task": 17,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 0.8864121558646322
+  },
+  {
+    "task": 17,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.8838331953201939
+  },
+  {
+    "task": 17,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.8444108369488281
+  },
+  {
+    "task": 17,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.7904083052646521
+  },
+  {
+    "task": 17,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.9166164748280741
+  },
+  {
+    "task": 17,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.8187534111149515
+  },
+  {
+    "task": 17,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.8081342335656387
+  },
+  {
+    "task": 17,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.8593510497886534
+  },
+  {
+    "task": 17,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.7776726484200763
+  },
+  {
+    "task": 17,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.7959949624281547
+  },
+  {
+    "task": 17,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.735638193999583
+  },
+  {
+    "task": 17,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.750816399253089
+  },
+  {
+    "task": 17,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.7550490705140501
+  },
+  {
+    "task": 17,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.7523233802796288
+  },
+  {
+    "task": 17,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.7111369850176625
+  },
+  {
+    "task": 17,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.7071528114816835
+  },
+  {
+    "task": 18,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.8875338955247429
+  },
+  {
+    "task": 18,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.9016412721103682
+  },
+  {
+    "task": 18,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 0.8916034235646465
+  },
+  {
+    "task": 18,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.9258638335580724
+  },
+  {
+    "task": 18,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 0.9218583230394197
+  },
+  {
+    "task": 18,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.8756667434924492
+  },
+  {
+    "task": 18,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.9252409437355951
+  },
+  {
+    "task": 18,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.8428087298917174
+  },
+  {
+    "task": 18,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.8902329444847454
+  },
+  {
+    "task": 18,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.8668527294232893
+  },
+  {
+    "task": 18,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.8161141544808931
+  },
+  {
+    "task": 18,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.8075893725592761
+  },
+  {
+    "task": 18,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.8081159399475406
+  },
+  {
+    "task": 18,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.8950061873996956
+  },
+  {
+    "task": 18,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.806802852393388
+  },
+  {
+    "task": 18,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.7558144177463951
+  },
+  {
+    "task": 18,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.6952680577580527
+  },
+  {
+    "task": 18,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.6993431777804678
+  },
+  {
+    "task": 18,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.7538866722848162
+  },
+  {
+    "task": 18,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.6943365835063094
+  },
+  {
+    "task": 19,
+    "condition": "Ref. assets + ref. structure",
+    "run": 0,
+    "S": 0.8915226841021027
+  },
+  {
+    "task": 19,
+    "condition": "Ref. assets + ref. structure",
+    "run": 1,
+    "S": 0.8765365479190508
+  },
+  {
+    "task": 19,
+    "condition": "Ref. assets + ref. structure",
+    "run": 2,
+    "S": 0.9913532412078281
+  },
+  {
+    "task": 19,
+    "condition": "Ref. assets + ref. structure",
+    "run": 3,
+    "S": 0.8815148980908688
+  },
+  {
+    "task": 19,
+    "condition": "Ref. assets + ref. structure",
+    "run": 4,
+    "S": 0.8744678670593332
+  },
+  {
+    "task": 19,
+    "condition": "Pred. assets + ref. structure",
+    "run": 0,
+    "S": 0.726993368661711
+  },
+  {
+    "task": 19,
+    "condition": "Pred. assets + ref. structure",
+    "run": 1,
+    "S": 0.7074121643854602
+  },
+  {
+    "task": 19,
+    "condition": "Pred. assets + ref. structure",
+    "run": 2,
+    "S": 0.7682340592795345
+  },
+  {
+    "task": 19,
+    "condition": "Pred. assets + ref. structure",
+    "run": 3,
+    "S": 0.7834662477153667
+  },
+  {
+    "task": 19,
+    "condition": "Pred. assets + ref. structure",
+    "run": 4,
+    "S": 0.7226538312033896
+  },
+  {
+    "task": 19,
+    "condition": "Ref. assets + pred. structure",
+    "run": 0,
+    "S": 0.7673322311946301
+  },
+  {
+    "task": 19,
+    "condition": "Ref. assets + pred. structure",
+    "run": 1,
+    "S": 0.8201513183886208
+  },
+  {
+    "task": 19,
+    "condition": "Ref. assets + pred. structure",
+    "run": 2,
+    "S": 0.7754152220221695
+  },
+  {
+    "task": 19,
+    "condition": "Ref. assets + pred. structure",
+    "run": 3,
+    "S": 0.8003880822069177
+  },
+  {
+    "task": 19,
+    "condition": "Ref. assets + pred. structure",
+    "run": 4,
+    "S": 0.8143270591345538
+  },
+  {
+    "task": 19,
+    "condition": "Pred. assets + pred. structure",
+    "run": 0,
+    "S": 0.635222753516533
+  },
+  {
+    "task": 19,
+    "condition": "Pred. assets + pred. structure",
+    "run": 1,
+    "S": 0.6897740481067042
+  },
+  {
+    "task": 19,
+    "condition": "Pred. assets + pred. structure",
+    "run": 2,
+    "S": 0.6790596164150232
+  },
+  {
+    "task": 19,
+    "condition": "Pred. assets + pred. structure",
+    "run": 3,
+    "S": 0.6227489554987374
+  },
+  {
+    "task": 19,
+    "condition": "Pred. assets + pred. structure",
+    "run": 4,
+    "S": 0.6973942536637534
+  }
+]

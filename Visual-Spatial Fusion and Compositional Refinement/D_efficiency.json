@@ -1,0 +1,62 @@
+{
+  "T1": {
+    "Single pass": {
+      "first_tested_budget_to_target": {
+        "0.5": null,
+        "0.8": null
+      },
+      "budget16_cost_per_success": 0.5
+    },
+    "Best-of-N": {
+      "first_tested_budget_to_target": {
+        "0.5": 16,
+        "0.8": null
+      },
+      "budget16_cost_per_success": 0.5970149253731343
+    },
+    "Prompt repair": {
+      "first_tested_budget_to_target": {
+        "0.5": 16,
+        "0.8": null
+      },
+      "budget16_cost_per_success": 0.5714285714285715
+    },
+    "Full workflow": {
+      "first_tested_budget_to_target": {
+        "0.5": 8,
+        "0.8": 16
+      },
+      "budget16_cost_per_success": 0.42142857142857143
+    }
+  },
+  "T2": {
+    "Single pass": {
+      "first_tested_budget_to_target": {
+        "0.5": null,
+        "0.8": null
+      },
+      "budget16_cost_per_success": 0.46875
+    },
+    "Best-of-N": {
+      "first_tested_budget_to_target": {
+        "0.5": 16,
+        "0.8": null
+      },
+      "budget16_cost_per_success": 0.7894736842105264
+    },
+    "Prompt repair": {
+      "first_tested_budget_to_target": {
+        "0.5": 16,
+        "0.8": null
+      },
+      "budget16_cost_per_success": 0.6741573033707866
+    },
+    "Full workflow": {
+      "first_tested_budget_to_target": {
+        "0.5": 8,
+        "0.8": null
+      },
+      "budget16_cost_per_success": 0.46173913043478254
+    }
+  }
+}

@@ -1,0 +1,7002 @@
+[
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.6245150284689834
+  },
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.6506773727356687
+  },
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.4681391590654871
+  },
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.47565867258006356
+  },
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5962281340606782
+  },
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.7569041241166157
+  },
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.670275994302871
+  },
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.672869199809312
+  },
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6777528494490364
+  },
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6604075909823698
+  },
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6910668544120941
+  },
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7870390858182482
+  },
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7478029155862133
+  },
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7166115684677222
+  },
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.6945641641579356
+  },
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8849593308527857
+  },
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.8446727013554522
+  },
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.9913843808525331
+  },
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9139190387111377
+  },
+  {
+    "tier": "T1",
+    "task": 0,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9140290846985849
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5198702625501764
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5912890520263107
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.6115196872088163
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.6160154621107893
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5516160719049016
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.7195268589459923
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7656001611169743
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6410225526027679
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6400478452092659
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6408539864511259
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7911770192968812
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7241934931141991
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.6791628266299761
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.753915370528535
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.7435143190091604
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.9129099061956516
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9013562849485828
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8956995438321963
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.8760367317188518
+  },
+  {
+    "tier": "T1",
+    "task": 1,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8605719708161527
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5199631360204942
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5852681040068656
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5396795829343753
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.6304944571068759
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5922793318873233
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.7345337965430879
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6799827090893876
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6979374734297763
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6774490554649073
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.680366312513105
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7430356286153773
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7579282952492309
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7952458030662161
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.784398799765129
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.8413896867384804
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.9000722733755445
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9200307691351609
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8631454323470784
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.8638772847250454
+  },
+  {
+    "tier": "T1",
+    "task": 2,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9767545779296187
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.4525336246057651
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.4379110742926974
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5416399997685368
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5793792940095511
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5014503041128764
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.6587948050156563
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6429338107212529
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6700859347834781
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6403420521858031
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.5894921129925965
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6109833327131822
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.5837548319853342
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.5399770718589967
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.6822650840666098
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.5818202228340646
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8164828915153228
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.8234570542581143
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8001095259829005
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9250320190969242
+  },
+  {
+    "tier": "T1",
+    "task": 3,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8433233474978705
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5608315692858187
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5257162708133905
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5578088097138091
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5375403418244638
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5448637319029678
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.6858155723618383
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7445120231304592
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.689363964882926
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.7699149155286225
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.7306560934567558
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6706652579725265
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.6660479503184675
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7230123166848571
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7297337124228152
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.7420584624793721
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.9015635612684814
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9388241226776927
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.9213417616496674
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9768464658509212
+  },
+  {
+    "tier": "T1",
+    "task": 4,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8729926868654289
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5364292240776187
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.6077175015262869
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.6271665482779194
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5985929644554422
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5957138286491791
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.7189692088394074
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6783751260718357
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.8233735818264986
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.7171398854942346
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6729778671153442
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7735917572378406
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7429314787192289
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.8067210134326555
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.8026505362420417
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.8107412134951668
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8725959436092371
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9624606946995762
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8852614221887103
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 1.0
+  },
+  {
+    "tier": "T1",
+    "task": 5,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9453243635414267
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.6780032757785107
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.7165909197395102
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.739061428189866
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.7168899220950116
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.6606021687113945
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.7359319601404185
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7500890115340396
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.782202258225682
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.706839629322785
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.7913459387620451
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7422940888450422
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7438926515993577
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7481712456666061
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.6915635057163355
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.7808170921126547
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8976089751906906
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9714123834986942
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.9199869000636477
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9048034292502173
+  },
+  {
+    "tier": "T1",
+    "task": 6,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9131884461697494
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5289734537617793
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5388750355122816
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.49230442112300393
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.526307650322859
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5228076138868326
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.6454559685806525
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6004257515078806
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6371412741804943
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6850151599471108
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6380490142122804
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6746201548582121
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.6216319646232521
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7062308333327503
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.6913810554348611
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.6140704788012519
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.9045268031105854
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.8584342777573796
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8042173374492977
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.766622099980047
+  },
+  {
+    "tier": "T1",
+    "task": 7,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.7751833566375752
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.6487328501762369
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.6394571060766485
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.6069167566090093
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5501575214963279
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.6337381671061483
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.7361322402866558
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7410359884198221
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.678767948831095
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.8083408447434574
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.7553945568309675
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.8082870183601812
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.8274675137852145
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7799309322500815
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7945730280501858
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.780978112994853
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.9843790659186008
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9905333176685948
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 1.0
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9748971831212789
+  },
+  {
+    "tier": "T1",
+    "task": 8,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9666134759155073
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5874598646837863
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.6279658976849065
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.6270131658434442
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.6084439459868165
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.535846387122092
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.8217405916404938
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7576433870399729
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.8289337573572652
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.7887557326740026
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.794150616846777
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6867729226597842
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7730434552312067
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7666540880373837
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.8094357731342088
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.79231789662147
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.9291348151810231
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.8694026655402491
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.9354887080593701
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9582450301714803
+  },
+  {
+    "tier": "T1",
+    "task": 9,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.965243582366929
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5541353040513358
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5220971454475613
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5774118214627827
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5951685860203522
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5488898556946206
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.6612779915001205
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6077633540711841
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.5988857239024807
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.5575076148609357
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.5440243921422433
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.5908922902020205
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.596477074476773
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.6828665895385733
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.640184851271783
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.5797588749261204
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8267822575836468
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.8454117126525886
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.862676834001747
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.7904576309124767
+  },
+  {
+    "tier": "T1",
+    "task": 10,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8168292239455845
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5243085435469385
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.47473815452209367
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.6474077748735789
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.6275336951263003
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.6142798991575945
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.7994178000895639
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7042406597879813
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.7561154060376615
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.7055599224507044
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.7186443455302094
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6310052255914973
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7244678341109726
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.6525588124971283
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7005352471637893
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.6953919872018154
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8678073832296558
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9514143541719218
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8639023977466842
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.8841316860305615
+  },
+  {
+    "tier": "T1",
+    "task": 11,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9053248159573489
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.6256741159411907
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.6163677368208739
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.6521435996452773
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.6767688337696874
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.7168220497787356
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.8390555917044558
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7963445022456687
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.7768409294176039
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.72912674867282
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.855711537288707
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.8481751177696072
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.8064824612133048
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.839003084299216
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7583582036364459
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.8497589256534089
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 1.0
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 1.0
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.9420428026425776
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 1.0
+  },
+  {
+    "tier": "T1",
+    "task": 12,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9842861894515695
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5602554303278459
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.3769240335813452
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.4346933060338634
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.4709121583514694
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.4625550275948658
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.5509943703649538
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6645882133620029
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.5124808333553643
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6446829833270544
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.5876749907138454
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6400933283176391
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.6070761569788722
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.6448852413022261
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.6078714025252994
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.6085219696582614
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.7643490102008611
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.8384711542692411
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8067742132290642
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.782013152293428
+  },
+  {
+    "tier": "T1",
+    "task": 13,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.800053304117286
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.6458366638914023
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.6706603885679887
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.679395154411162
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.6530026362070674
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.7044350745663057
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.7391083950106379
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7176324123170537
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6632285033065536
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.7431359804509988
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.7411472181455052
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7007922992718476
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.749157422603525
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7792885391043146
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7164765487295495
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.7338817086697922
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.919104415503957
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9772454904846071
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 1.0
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 1.0
+  },
+  {
+    "tier": "T1",
+    "task": 14,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9542452342396034
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.606984392433974
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5643814779336134
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.6513378498106213
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.6974422509597166
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.6874692810644764
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.8021743794166866
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.785794793399397
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.7492076031043627
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.8302622677767819
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.7772201296213436
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7112369037832424
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7218751029933065
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.8256008216694986
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7802695327394742
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.7385117062807952
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8901809374908998
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9335903171782605
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.9651162179567822
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 1.0
+  },
+  {
+    "tier": "T1",
+    "task": 15,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9438675739100676
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.6302255300202481
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.6060642436334827
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.6015312654503708
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.6043127623179056
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.6223816787593472
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.6796588705516298
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6527743508298703
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6165093115770722
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.631070669592156
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6707654859117691
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6964402143052455
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.6778406006660771
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7212562080173448
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.752376337177252
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.7693136767612238
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8299411298435015
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9150304019987303
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.885899102102829
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.8730098060203718
+  },
+  {
+    "tier": "T1",
+    "task": 16,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.900741549847217
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5578175439165796
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.6075443773210444
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5399679807164011
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5622986724710769
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5331679846471904
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.6746492937805469
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7111629896339063
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6490239237216944
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6713839015913686
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6813330863524738
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7275595568731621
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7408996780200438
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7987516387865934
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.6878088648858743
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.7041588241583308
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8666892739911389
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9069037368511578
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.9692529640899907
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.8562489513359043
+  },
+  {
+    "tier": "T1",
+    "task": 17,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8548211733457518
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.6247037580733891
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.6116536819286005
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5038812072951899
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5364647600760002
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5165874732204374
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.7130327027595214
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6458432394619907
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6496755204175687
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6610896548363348
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6518183287696999
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7600702403014549
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.6969580632922561
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.6284459190754282
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7314626761567371
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.7178611191481531
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.9119521368586757
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 1.0
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.881097273118127
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.8772863506479521
+  },
+  {
+    "tier": "T1",
+    "task": 18,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9521781437628136
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.6522547183069283
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.6113254529498345
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5727036225795344
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.6081231952138995
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.6820771126597249
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.7208777784420191
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7681720286948799
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6764402363715665
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.7125974358381832
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6968420098582272
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7392831174106955
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7601521842464514
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7546848737102813
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.6903837707870634
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.6935028483927723
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.9428195338380805
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9197913200726394
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8601406696193326
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9363257200170632
+  },
+  {
+    "tier": "T1",
+    "task": 19,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9904283950470905
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.6117845018048869
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5769713047305601
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5616492918176678
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5708668081053704
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5759911877080718
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.7352451971931755
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7017224333374509
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6737846078622718
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.7223670149801131
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6377412644165493
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7276986099688433
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.8063267112749127
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.8434281167513275
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7423589225891251
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.7801388999576346
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 1.0
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9435896816346315
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 1.0
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9631464509836348
+  },
+  {
+    "tier": "T2",
+    "task": 0,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9930629038376843
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5608741962733145
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5259930696606998
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5371082674209964
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.4114265000255336
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.4683589853782345
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.6118898870978867
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6464366285957734
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6554357661163652
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6079321887338233
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6498515599388189
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6375300427955702
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.6443324579164726
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.6483131178766103
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.6890696187587958
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.733234482413592
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8531718259065553
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.8270916335416739
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8734060762814366
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9691135545050754
+  },
+  {
+    "tier": "T2",
+    "task": 1,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9490372146181606
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.549935458683232
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.6069472346732983
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5903870095974423
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5846087906692583
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.6550019526824173
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.669863171357586
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6483099948581442
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6860986044554733
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.7609814828947997
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.7125774363873625
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.752374879696305
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7611653426317052
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7204881388716246
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7380514687840932
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.7200873955562288
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.924365670329611
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.8554089199669134
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.9013372154992404
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.8532742777859622
+  },
+  {
+    "tier": "T2",
+    "task": 2,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9162357335461208
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.4905105976458982
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5192958036853075
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5004671068110704
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5095140636592989
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5812566326884391
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.5611395140745961
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.49066631828407303
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.5484721968592313
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.5837534130686904
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.5868224356069844
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.5895123063360834
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.5796889147701181
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.5802141941754276
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.6677502889408254
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.6255776223146069
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.7333628903919055
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.7917061760234009
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8021328893927662
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.7808961227045388
+  },
+  {
+    "tier": "T2",
+    "task": 3,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.7930519443160988
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5797531122508192
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.6559848394800809
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.6292637421671035
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.6345299005320695
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.6009904167203799
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.7239849428834118
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6593749343017814
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.7489877877299159
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.7295903977657903
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.729237527901506
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.8267967257810429
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.8145822743490986
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7212533743550726
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.8000524900913804
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.7245140367802062
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.9479907977475831
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9091059509361485
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8951266971843008
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9119040215215003
+  },
+  {
+    "tier": "T2",
+    "task": 4,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9907407854987554
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5505043173488856
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5283059482949194
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.6376944483088138
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.559882679175181
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.47612524002763745
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.6137574159085094
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.636166983557413
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6276698467632599
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6315468173888086
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.5928109733724735
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6660088727813166
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.6550274221864278
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7319215908099174
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.6981807306982882
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.7403228386855035
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.875559851822037
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9117146581004719
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.9498261250873522
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.8111633012985175
+  },
+  {
+    "tier": "T2",
+    "task": 5,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8864719966346084
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.49564227763890334
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5522017919472698
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5442060531372083
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5096233729914639
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5155275561327476
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.7180904302532073
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7648599388883397
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6683286634650032
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6762525078294013
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6908509620179146
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7082779936894411
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.6872585293272951
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.6674659316613863
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7439744497536532
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.73725266273957
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.9295377784865253
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.8736172760244837
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.9149999871050016
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.924007530726517
+  },
+  {
+    "tier": "T2",
+    "task": 6,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.983086871042483
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5519046065334602
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.6135311604807225
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.4935394442134907
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5199964324395387
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.6001568578783224
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.7651941573653764
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6527272907595264
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.7150637499144611
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6412187320484242
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6900606058851352
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6621438352077089
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.5979753974676912
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7932690953126229
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.6833005706880361
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.6259233509157105
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8244410305532028
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9355473867139132
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.7708607346006037
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.8584943025166932
+  },
+  {
+    "tier": "T2",
+    "task": 7,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8673427819863018
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.45291737212710476
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.46097667888266286
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5406801217958987
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.47222661694796053
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5212895925898252
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.656296827164622
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7066184407181408
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6481170333328322
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6465669805788544
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6635718003341061
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6629742116720424
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.6469497255196263
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.6607909079404205
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7020914237701744
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.6585987197807771
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8226371680168321
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.8918101249364734
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.7876554990054481
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9609959629883088
+  },
+  {
+    "tier": "T2",
+    "task": 8,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8768782065023903
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.44986714859343824
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.43923125385080425
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5090404783898639
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5228260463729818
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.4906110585304142
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.636855789897031
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.647040522528976
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6008954208648846
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.535445939016766
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6315140500909595
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7291375517489492
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.6938821962143413
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7383407486043719
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.6756619610238914
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.6240400315192786
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8680858829532291
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.8158997189763053
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8564632655416053
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.7923653954466383
+  },
+  {
+    "tier": "T2",
+    "task": 9,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8514616937525384
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.48373580734074906
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.48009146980631867
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5761759814602463
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.471835713672437
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.535086303092292
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.6648718014462455
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6759781988383142
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6969231626195498
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6209684024489938
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6436894250383883
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7151122667413008
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.6631525979445286
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.6242330162777535
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.6549096096312351
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.6458868556370959
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8133869615807
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.8095410003263045
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.7912000754972058
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.8569065454580844
+  },
+  {
+    "tier": "T2",
+    "task": 10,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8472364362166046
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.6231613939441111
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5632975517763104
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.6276158577218528
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.6159398004935817
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.6065016925375828
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.7241555386920291
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7358488973241855
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.7115319500650942
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.7118146322894587
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.7190823090193478
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6169067109800707
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7158921894726612
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.6289113841615407
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.676892562458539
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.6446066335726565
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.956788188175652
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9832943709593022
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.9649760445885417
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.886150301881141
+  },
+  {
+    "tier": "T2",
+    "task": 11,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8763020525069015
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5308920326981391
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.516430998023907
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5678902919427176
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5357343316641984
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5278688588879532
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.6950303179807897
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7332173606715029
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.7299871048905808
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.7873757995022566
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.7427456144173018
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7681541372166568
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7089711012420988
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7928136299619741
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7543286182519955
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.7646257288276415
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8651755990445315
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9338030902337227
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8690882182753911
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.8983785672888188
+  },
+  {
+    "tier": "T2",
+    "task": 12,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9480290114348202
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.6194260747090887
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5649026860847484
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5919771370598366
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5780125446089489
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.6263705078135327
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.6756716729195452
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7735365159727372
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.7406790436427843
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6876182960547251
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.7853774336260855
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.757930397451204
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7242360101417737
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.8134667731438505
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.8022626500846343
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.7077173849067739
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.9013122169864619
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9125639890549839
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.9573925772531541
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9511954705191987
+  },
+  {
+    "tier": "T2",
+    "task": 13,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8972682040143954
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5680560077521888
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5257829871540033
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5608963728713889
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5420326057734187
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5750839214628225
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.581344290672779
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.5985655886833987
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.5583140282309597
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6461641731224015
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.5534038673012524
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6359962514624649
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.6616826819037525
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.6183037817089551
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7669011400636732
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.6602018814486623
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8643663833527713
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.807829961047921
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8360832406564388
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.8526155014573092
+  },
+  {
+    "tier": "T2",
+    "task": 14,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9049657656366971
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.7068449530422963
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5724788705525773
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.6036752951825713
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.6707700323180036
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.608357375177125
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.7563141487122994
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7146525451315887
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.7641054905554224
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.7138214372424071
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.7210994451625802
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.720857782912327
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7139169406047199
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.6825961680263591
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7102277859392838
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.6581317758554971
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.9379108890140597
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.8916983911223582
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.9497402844105243
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9027969519558132
+  },
+  {
+    "tier": "T2",
+    "task": 15,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9231401700086214
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.505422752623916
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.6301844246990259
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5680808465048567
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.48890126009690116
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5314170014810198
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.6355656791530219
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6480924770193512
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6464642873565978
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6910044358500224
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6046511075283918
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6492899891705256
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7766190338578499
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.6917438779191929
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7634837165416966
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.686759120352051
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8824318392149435
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.8513225186578176
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8819977656772515
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.8204706821696168
+  },
+  {
+    "tier": "T2",
+    "task": 16,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8975651484720742
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5257073491191745
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.6353929801366522
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.6023305777697339
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.47725501430642314
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5732669968116726
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.6637788689465065
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7210396946804647
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6167483546200885
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6800125448165778
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6471185849521144
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7332712457241984
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.6696148350453772
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.781653584298624
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7363036796536381
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.747923312938202
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.9680719935983034
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.8891194589906294
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.9865077320260508
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9061947567919826
+  },
+  {
+    "tier": "T2",
+    "task": 17,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8863356345270977
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5257937569777014
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5438450534282584
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.563709040841494
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5813178748887755
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.552566797686985
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.6231059169330823
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6747992196832657
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6614533171418149
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6428846241317788
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.5400384467634997
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6691673401105314
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.6716074230901797
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.6141742141017305
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.6868983159454862
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.7029816716972312
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8377918245941026
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.7939752263872694
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8853549469300634
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.7998419852565142
+  },
+  {
+    "tier": "T2",
+    "task": 18,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8393518187803853
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5621754551714905
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5260103322426989
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.49842601389185504
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5139615657212199
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.49719987537417887
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.5741077491319687
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6146931367144636
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6134270300221341
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6518429792938651
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6388654525726071
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6802765991011602
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.6726605731164732
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.6097700480088349
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.6545264173879534
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.6743037185148453
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8639894181736566
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.8771972658765536
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.7639257532176424
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.8520455908348508
+  },
+  {
+    "tier": "T2",
+    "task": 19,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8591699485117976
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.6186308111126436
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5905120788074322
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.6104780849445209
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5508840464890972
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.59212602817814
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.77001071568809
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7466063811166709
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.7739464852251483
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.8211478086151304
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.726623182338
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7330804834480417
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7390761673073416
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.791114892377474
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7092110548643467
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.7637449453084436
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.9401717093687628
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9137716326176911
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.9216074893321594
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9807002971054334
+  },
+  {
+    "tier": "T2",
+    "task": 20,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9849163071345112
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5376180945654517
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5986097204072162
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5576110453962142
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5040077630952317
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.49539861114661543
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.6452490602105235
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6310051037780923
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6463964948115719
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6490660490329969
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6148418689228878
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7037068298560051
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.6685563449443611
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.6857958243399936
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.6301099216990667
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.6990162883564408
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.9172459975031079
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.7809549245897724
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8393546074892745
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.8963175938078836
+  },
+  {
+    "tier": "T2",
+    "task": 21,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.779755893549189
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5700590759663924
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.596714118252032
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5890412915470855
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.6029912814694542
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5687354000234847
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.6985063016351668
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6370531708890284
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6717853188196766
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.7329781112699839
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6881169709020502
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6895688525776432
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.6997778512331235
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.656889182073889
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.6549089676844768
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.6431950432834904
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.7608613707718904
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.7725661775257823
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8393622669975286
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.8610056635080784
+  },
+  {
+    "tier": "T2",
+    "task": 22,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8529272501409763
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.522375611653803
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5252532956035121
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5042166696793923
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5713141194821133
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5288433993980857
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.7123297534994939
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6347331064704146
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6470788000454357
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6089287152318559
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.631697439473283
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7002483828231779
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7310519162922733
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7445320764736466
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.6681053606135343
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.7620140243579572
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.83214146253661
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.8922290742654744
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.9015083847388576
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9319736875651586
+  },
+  {
+    "tier": "T2",
+    "task": 23,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9317453695437278
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.49935308294066294
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5290831041796789
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5641190150805826
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5242884651109834
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5278275818748285
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.7032610055410734
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6392235513253208
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6586302672962163
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.702210259089964
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6671546462005197
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6670609523353078
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.6187922464300839
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.6826175401894244
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7111575229660853
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.6323592820303532
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8943905855489542
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.8785814620332333
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.889805409426929
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9263077402364075
+  },
+  {
+    "tier": "T2",
+    "task": 24,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8839610384631331
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.6540490898306547
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.6646576941752865
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5962911678301214
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.6563117703464372
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5790066139702196
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.6899022288192974
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.693769172219532
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.6523660323398878
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6803002979083975
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.645975482570304
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7005326330127611
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7286133360185418
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7835790659394689
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.8359291780731058
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.7713053527361642
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 1.0
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9447525621153714
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 1.0
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9972801200333258
+  },
+  {
+    "tier": "T2",
+    "task": 25,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.861884913338204
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5967194812003196
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5785954715195506
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.6081906141199164
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5837581459362534
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5556089193051461
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.6992045969987579
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7710792766302051
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.7259941240750668
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.7939743928436245
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.7480317447479039
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.7224814081403127
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.6943225469025028
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.7933129672673676
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.6939159524109425
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.6793435787227085
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8549190706805031
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.8058047315030844
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8129428773246157
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.888446070662936
+  },
+  {
+    "tier": "T2",
+    "task": 26,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8335970044496145
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5107438171090711
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5313420495874241
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.5237258805505548
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5630156778364643
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.5429241238522713
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.687246106681542
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.7304348976261071
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.7380914151450397
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6604245430053644
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6360952980491327
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6914998335902642
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.7017061523722955
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.6692187010772758
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7511372254928339
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.7208641168974644
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8876389454746362
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.870944993667565
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.9154123793362097
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9518225241156469
+  },
+  {
+    "tier": "T2",
+    "task": 27,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9644761561357812
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.5900341167885467
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.5891945898443325
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.4813998464662428
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.5125511265219832
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.6144261832738943
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.6612290886470716
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.6299322437103154
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.5065302060177673
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.6041954137001674
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.6369030049311569
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.6864748325761081
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.728795401942736
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.6618163706144045
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.7080772630170851
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.6950777471581606
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.8504909582377901
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.7879524791373131
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.8279539490362903
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.7598804985075994
+  },
+  {
+    "tier": "T2",
+    "task": 28,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.8370476724516906
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A0 text",
+    "run": 0,
+    "S": 0.8312701073733095
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A0 text",
+    "run": 1,
+    "S": 0.767865000611182
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A0 text",
+    "run": 2,
+    "S": 0.807964784903706
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A0 text",
+    "run": 3,
+    "S": 0.7598646077946078
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A0 text",
+    "run": 4,
+    "S": 0.7399357343831787
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A1 assets",
+    "run": 0,
+    "S": 0.8408846833754196
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A1 assets",
+    "run": 1,
+    "S": 0.8427981769893386
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A1 assets",
+    "run": 2,
+    "S": 0.7432581253768187
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A1 assets",
+    "run": 3,
+    "S": 0.7885598463777221
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A1 assets",
+    "run": 4,
+    "S": 0.7757846242664054
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A2 structure",
+    "run": 0,
+    "S": 0.9034458309187449
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A2 structure",
+    "run": 1,
+    "S": 0.8136374305207721
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A2 structure",
+    "run": 2,
+    "S": 0.8978096798643964
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A2 structure",
+    "run": 3,
+    "S": 0.8302672632939876
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A2 structure",
+    "run": 4,
+    "S": 0.8485320676709825
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A3 both",
+    "run": 0,
+    "S": 0.9465166187456278
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A3 both",
+    "run": 1,
+    "S": 0.9585415723507016
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A3 both",
+    "run": 2,
+    "S": 0.9698958725173118
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A3 both",
+    "run": 3,
+    "S": 0.9941571750837966
+  },
+  {
+    "tier": "T2",
+    "task": 29,
+    "condition": "A3 both",
+    "run": 4,
+    "S": 0.9902311478723916
+  }
+]
