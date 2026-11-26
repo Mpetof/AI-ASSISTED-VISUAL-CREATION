@@ -209,3 +209,67 @@ Tier | Condition | Compliance ↑ [95% CI] | Ordinal ↑ | Position error ↓ | 
 ![Statistical](Spatial%20Structure%20Extraction%20and%20Conditioning/spatial_simulated.png)
 
 ### Visual-Spatial Fusion and Compositional Refinement 
+
+This experiment examines how reusable visual assets and spatial representations can be combined while preserving object identity, satisfying layout requirements, and adapting appearance to a new scene. The evaluation separates fusion-module behavior, pathway complementarity, upstream error propagation, and performance under limited call budgets.
+
+The experiment includes 20 held-out Tier 1 tasks, 30 Tier 2 tasks, and five repeated runs per condition. Ten additional development scenes are represented by the calibration arrays. Tier 1 assumes reference inputs and evaluable geometry; Tier 2 assumes automated proxies. The proposed task specifications are stored in [fusion_task.json](Visual-Spatial%20Fusion%20and%20Compositional%20Refinement/fusion_task.json).
+
+Experiment | Conditions | Main_task_ question |
+|---|---|---|
+| A — Fusion modules | Naive; General edit; Constraint-explicit; Staged | How do fusion strategies trade identity preservation against layout and appearance adaptation? |
+| B — Factorial ablation | A0 text; A1 assets; A2 structure; A3 both | Do asset and structure inputs have a positive interaction? |
+| C — Upstream inputs | Reference/reference; predicted/reference; reference/predicted; predicted/predicted | How does input quality affect downstream fusion? |
+| D — Budgeted workflow | Single pass; Best-of-N; Prompt repair; Full workflow | How often are all requirements satisfied within a call budget?
+
+In Experiment A, fixed reference-quality inputs isolate the fusion stage. Naive compositing uses alpha blending. Foreground identity is represented by DINO feature similarity, geometry by normalized center and scale errors and spatial-relation satisfaction, and appearance by foreground MSE, background MAE, seam discontinuity, and style error. Tier 2 stores only DINO, background MAE, and seam scores. 
+
+Core alpha compositing, region errors, embedding similarity, and binary constraint scoring are provided in [metrics.py](Visual-Spatial%20Fusion%20and%20Compositional%20Refinement/metrics.py). Masks and embeddings are explicit inputs to these functions. The proposed image pipeline can use [DINOv2](https://github.com/facebookresearch/dinov2) for feature extraction, [Grounded SAM 2](https://github.com/IDEA-Research/Grounded-SAM-2) for text-guided masks, and [ControlNet](https://github.com/lllyasviel/ControlNet) for compatible diffusion-model structure conditioning.
+
+The Experiment A records and summaries are available in [A runs](Visual-Spatial%20Fusion%20and%20Compositional%20Refinement/A_runs.json), [A summary](Visual-Spatial%20Fusion%20and%20Compositional%20Refinement/A_summary.json), and [mismatch reduction](Visual-Spatial%20Fusion%20and%20Compositional%20Refinement/A_mismatch_reduction.json). 
+
+Experiment B evaluates the four combinations of asset and structure availability. Bootstrap resampling is performed over these paired task contrasts. Available in [B runs](Visual-Spatial%20Fusion%20and%20Compositional%20Refinement/B_runs.json). [B summary](Visual-Spatial%20Fusion%20and%20Compositional%20Refinement/B_summary.json) contains condition means and interaction intervals.
+
+Experiment C holds the fusion configuration fixed and compares reference-quality inputs against predicted assets, predicted structure, or both. Records are in [C runs](Visual-Spatial%20Fusion%20and%20Compositional%20Refinement/C_runs.json) and [C summary](Visual-Spatial%20Fusion%20and%20Compositional%20Refinement/C_summary.json).
+
+Experiment D uses twelve binary constraints per output. Joint success is one only when all twelve constraints are satisfied; JCR averages joint success over runs within a task and then across tasks. [D runs](Visual-Spatial%20Fusion%20and%20Compositional%20Refinement/D_runs.json) stores the selected constraint vector, success label, call count, and assumed time/cost at each tested budget.  [D summary](Visual-Spatial%20Fusion%20and%20Compositional%20Refinement/D_summary.json) reports JCR; [D efficiency](Visual-Spatial%20Fusion%20and%20Compositional%20Refinement/D_efficiency.json) reports the first tested budget reaching 50% or 80% JCR and cost per success. A null target budget means the target was not reached among the tested budgets.
+
+The calibration arrays are available in [proxy calibration](Visual-Spatial%20Fusion%20and%20Compositional%20Refinement/proxy_calibration.json). Spearman correlations are computed over ten development scenes, with an eligibility threshold of rho >= 0.7. 
+
+Statistical processing is implemented in [analysis.py](Visual-Spatial%20Fusion%20and%20Compositional%20Refinement/analysis.py). Repeated runs are averaged within task and condition. Paired task bootstrap resampling uses 10,000 samples for mean scores, differences, interaction contrasts, and rank-biserial effects. Condition comparisons use tie-corrected Friedman tests and exact conditional signed-rank tests, excluding zero differences and averaging tied ranks. Holm correction is applied over the six pairs in each experiment–outcome–tier–budget family. Bootstrap intervals are unadjusted 95% intervals. The supplied reference output is [statistics.json](Visual-Spatial%20Fusion%20and%20Compositional%20Refinement/statistics.json). 
+
+Tier 1 fusion quality
+
+| Module | DINO | Center | Scale | Relations | FG MSE | BG MAE | Seam |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Naive | 0.981 | 0.058 | 0.169 | 0.718 | 0.056 | 0.001 | 0.131 |
+| General edit | 0.866 | 0.051 | 0.125 | 0.771 | 0.027 | 0.013 | 0.066 |
+| Constraint-explicit | 0.936 | 0.028 | 0.073 | 0.894 | 0.018 | 0.006 | 0.046 |
+| Staged | 0.926 | 0.028 | 0.076 | 0.877 | 0.012 | 0.008 | 0.029|
+
+Interaction on mean atomic satisfaction
+
+| Tier | Interaction | Original 95% CI |
+|---|---:|---|
+| T1 | +0.068 | [+0.045, +0.093] |
+| T2 | +0.067 | [+0.048, +0.085]|
+
+
+Upstream degradation on T1
+
+| Input condition | Drop | Original 95% CI |
+|---|---:|---|
+| Pred. assets + ref. structure | 0.084 | [0.068, 0.100] |
+| Ref. assets + pred. structure | 0.112 | [0.101, 0.124] |
+| Pred. assets + pred. structure | 0.222 | [0.209, 0.235]|
+
+
+Joint compliance rate (%)
+
+| Method | T1: 4 | T1: 8 | T1: 16 | T2: 4 | T2: 8 | T2: 16 |
+|---|---:|---:|---:|---:|---:|---:|
+| Single pass | 5.0 | 5.0 | 5.0 | 5.3 | 5.3 | 5.3 |
+| Best-of-N | 23.0 | 39.0 | 67.0 | 20.0 | 38.0 | 50.7 |
+| Prompt repair | 21.0 | 41.0 | 70.0 | 20.0 | 38.0 | 59.3 |
+| Full workflow | 35.0 | 67.0 | 84.0 | 30.0 | 56.7 | 76.7|
+
+![Statistical](Visual-Spatial%20Fusion%20and%20Compositional%20Refinement/fusion_results.png)
