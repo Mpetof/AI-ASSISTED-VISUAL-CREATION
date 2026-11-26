@@ -1,0 +1,4834 @@
+{
+  "scenes": [
+    {
+      "specification_id": "T1-dev-00",
+      "tier": "T1-dev",
+      "scene": 0,
+      "configuration_id": "T1-dev-configuration-00",
+      "prompt": "A non-photorealistic line-art concept sketch of a library reading area. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [],
+      "runs": []
+    },
+    {
+      "specification_id": "T1-dev-01",
+      "tier": "T1-dev",
+      "scene": 1,
+      "configuration_id": "T1-dev-configuration-01",
+      "prompt": "A non-photorealistic line-art concept sketch of a street cafe. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [],
+      "runs": []
+    },
+    {
+      "specification_id": "T1-dev-02",
+      "tier": "T1-dev",
+      "scene": 2,
+      "configuration_id": "T1-dev-configuration-02",
+      "prompt": "A non-photorealistic line-art concept sketch of a art studio. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [],
+      "runs": []
+    },
+    {
+      "specification_id": "T1-dev-03",
+      "tier": "T1-dev",
+      "scene": 3,
+      "configuration_id": "T1-dev-configuration-03",
+      "prompt": "A non-photorealistic line-art concept sketch of a pedestrian street. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [],
+      "runs": []
+    },
+    {
+      "specification_id": "T1-dev-04",
+      "tier": "T1-dev",
+      "scene": 4,
+      "configuration_id": "T1-dev-configuration-04",
+      "prompt": "A non-photorealistic line-art concept sketch of a living room. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [],
+      "runs": []
+    },
+    {
+      "specification_id": "T1-dev-05",
+      "tier": "T1-dev",
+      "scene": 5,
+      "configuration_id": "T1-dev-configuration-05",
+      "prompt": "A non-photorealistic line-art concept sketch of a museum hall. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [],
+      "runs": []
+    },
+    {
+      "specification_id": "T1-dev-06",
+      "tier": "T1-dev",
+      "scene": 6,
+      "configuration_id": "T1-dev-configuration-06",
+      "prompt": "A non-photorealistic line-art concept sketch of a market lane. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [],
+      "runs": []
+    },
+    {
+      "specification_id": "T1-dev-07",
+      "tier": "T1-dev",
+      "scene": 7,
+      "configuration_id": "T1-dev-configuration-07",
+      "prompt": "A non-photorealistic line-art concept sketch of a classroom. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [],
+      "runs": []
+    },
+    {
+      "specification_id": "T1-dev-08",
+      "tier": "T1-dev",
+      "scene": 8,
+      "configuration_id": "T1-dev-configuration-08",
+      "prompt": "A non-photorealistic line-art concept sketch of a train platform. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [],
+      "runs": []
+    },
+    {
+      "specification_id": "T1-dev-09",
+      "tier": "T1-dev",
+      "scene": 9,
+      "configuration_id": "T1-dev-configuration-09",
+      "prompt": "A non-photorealistic line-art concept sketch of a office lobby. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [],
+      "runs": []
+    },
+    {
+      "specification_id": "T1-00",
+      "tier": "T1",
+      "scene": 0,
+      "configuration_id": "T1-configuration-00",
+      "prompt": "A non-photorealistic line-art concept sketch of a library reading area. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T1-01",
+      "tier": "T1",
+      "scene": 1,
+      "configuration_id": "T1-configuration-01",
+      "prompt": "A non-photorealistic line-art concept sketch of a street cafe. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T1-02",
+      "tier": "T1",
+      "scene": 2,
+      "configuration_id": "T1-configuration-02",
+      "prompt": "A non-photorealistic line-art concept sketch of a art studio. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T1-03",
+      "tier": "T1",
+      "scene": 3,
+      "configuration_id": "T1-configuration-03",
+      "prompt": "A non-photorealistic line-art concept sketch of a pedestrian street. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T1-04",
+      "tier": "T1",
+      "scene": 4,
+      "configuration_id": "T1-configuration-04",
+      "prompt": "A non-photorealistic line-art concept sketch of a living room. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T1-05",
+      "tier": "T1",
+      "scene": 5,
+      "configuration_id": "T1-configuration-05",
+      "prompt": "A non-photorealistic line-art concept sketch of a museum hall. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T1-06",
+      "tier": "T1",
+      "scene": 6,
+      "configuration_id": "T1-configuration-06",
+      "prompt": "A non-photorealistic line-art concept sketch of a market lane. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T1-07",
+      "tier": "T1",
+      "scene": 7,
+      "configuration_id": "T1-configuration-07",
+      "prompt": "A non-photorealistic line-art concept sketch of a classroom. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T1-08",
+      "tier": "T1",
+      "scene": 8,
+      "configuration_id": "T1-configuration-08",
+      "prompt": "A non-photorealistic line-art concept sketch of a train platform. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T1-09",
+      "tier": "T1",
+      "scene": 9,
+      "configuration_id": "T1-configuration-09",
+      "prompt": "A non-photorealistic line-art concept sketch of a office lobby. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T1-10",
+      "tier": "T1",
+      "scene": 10,
+      "configuration_id": "T1-configuration-10",
+      "prompt": "A non-photorealistic line-art concept sketch of a library reading area. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T1-11",
+      "tier": "T1",
+      "scene": 11,
+      "configuration_id": "T1-configuration-11",
+      "prompt": "A non-photorealistic line-art concept sketch of a street cafe. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T1-12",
+      "tier": "T1",
+      "scene": 12,
+      "configuration_id": "T1-configuration-12",
+      "prompt": "A non-photorealistic line-art concept sketch of a art studio. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T1-13",
+      "tier": "T1",
+      "scene": 13,
+      "configuration_id": "T1-configuration-13",
+      "prompt": "A non-photorealistic line-art concept sketch of a pedestrian street. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T1-14",
+      "tier": "T1",
+      "scene": 14,
+      "configuration_id": "T1-configuration-14",
+      "prompt": "A non-photorealistic line-art concept sketch of a living room. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T1-15",
+      "tier": "T1",
+      "scene": 15,
+      "configuration_id": "T1-configuration-15",
+      "prompt": "A non-photorealistic line-art concept sketch of a museum hall. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T1-16",
+      "tier": "T1",
+      "scene": 16,
+      "configuration_id": "T1-configuration-16",
+      "prompt": "A non-photorealistic line-art concept sketch of a market lane. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T1-17",
+      "tier": "T1",
+      "scene": 17,
+      "configuration_id": "T1-configuration-17",
+      "prompt": "A non-photorealistic line-art concept sketch of a classroom. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T1-18",
+      "tier": "T1",
+      "scene": 18,
+      "configuration_id": "T1-configuration-18",
+      "prompt": "A non-photorealistic line-art concept sketch of a train platform. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T1-19",
+      "tier": "T1",
+      "scene": 19,
+      "configuration_id": "T1-configuration-19",
+      "prompt": "A non-photorealistic line-art concept sketch of a office lobby. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth",
+        "Ground truth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-00",
+      "tier": "T2",
+      "scene": 0,
+      "configuration_id": "T2-configuration-00",
+      "prompt": "A non-photorealistic line-art concept sketch of a library reading area. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-01",
+      "tier": "T2",
+      "scene": 1,
+      "configuration_id": "T2-configuration-01",
+      "prompt": "A non-photorealistic line-art concept sketch of a street cafe. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-02",
+      "tier": "T2",
+      "scene": 2,
+      "configuration_id": "T2-configuration-02",
+      "prompt": "A non-photorealistic line-art concept sketch of a art studio. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-03",
+      "tier": "T2",
+      "scene": 3,
+      "configuration_id": "T2-configuration-03",
+      "prompt": "A non-photorealistic line-art concept sketch of a pedestrian street. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-04",
+      "tier": "T2",
+      "scene": 4,
+      "configuration_id": "T2-configuration-04",
+      "prompt": "A non-photorealistic line-art concept sketch of a living room. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-05",
+      "tier": "T2",
+      "scene": 5,
+      "configuration_id": "T2-configuration-05",
+      "prompt": "A non-photorealistic line-art concept sketch of a museum hall. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-06",
+      "tier": "T2",
+      "scene": 6,
+      "configuration_id": "T2-configuration-06",
+      "prompt": "A non-photorealistic line-art concept sketch of a market lane. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-07",
+      "tier": "T2",
+      "scene": 7,
+      "configuration_id": "T2-configuration-07",
+      "prompt": "A non-photorealistic line-art concept sketch of a classroom. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-08",
+      "tier": "T2",
+      "scene": 8,
+      "configuration_id": "T2-configuration-08",
+      "prompt": "A non-photorealistic line-art concept sketch of a train platform. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-09",
+      "tier": "T2",
+      "scene": 9,
+      "configuration_id": "T2-configuration-09",
+      "prompt": "A non-photorealistic line-art concept sketch of a office lobby. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-10",
+      "tier": "T2",
+      "scene": 10,
+      "configuration_id": "T2-configuration-10",
+      "prompt": "A non-photorealistic line-art concept sketch of a library reading area. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-11",
+      "tier": "T2",
+      "scene": 11,
+      "configuration_id": "T2-configuration-11",
+      "prompt": "A non-photorealistic line-art concept sketch of a street cafe. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-12",
+      "tier": "T2",
+      "scene": 12,
+      "configuration_id": "T2-configuration-12",
+      "prompt": "A non-photorealistic line-art concept sketch of a art studio. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-13",
+      "tier": "T2",
+      "scene": 13,
+      "configuration_id": "T2-configuration-13",
+      "prompt": "A non-photorealistic line-art concept sketch of a pedestrian street. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-14",
+      "tier": "T2",
+      "scene": 14,
+      "configuration_id": "T2-configuration-14",
+      "prompt": "A non-photorealistic line-art concept sketch of a living room. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-15",
+      "tier": "T2",
+      "scene": 15,
+      "configuration_id": "T2-configuration-15",
+      "prompt": "A non-photorealistic line-art concept sketch of a museum hall. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-16",
+      "tier": "T2",
+      "scene": 16,
+      "configuration_id": "T2-configuration-16",
+      "prompt": "A non-photorealistic line-art concept sketch of a market lane. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-17",
+      "tier": "T2",
+      "scene": 17,
+      "configuration_id": "T2-configuration-17",
+      "prompt": "A non-photorealistic line-art concept sketch of a classroom. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-18",
+      "tier": "T2",
+      "scene": 18,
+      "configuration_id": "T2-configuration-18",
+      "prompt": "A non-photorealistic line-art concept sketch of a train platform. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-19",
+      "tier": "T2",
+      "scene": 19,
+      "configuration_id": "T2-configuration-19",
+      "prompt": "A non-photorealistic line-art concept sketch of a office lobby. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use a medium-wide view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-20",
+      "tier": "T2",
+      "scene": 20,
+      "configuration_id": "T2-configuration-20",
+      "prompt": "A non-photorealistic line-art concept sketch of a library reading area. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use an elevated view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-21",
+      "tier": "T2",
+      "scene": 21,
+      "configuration_id": "T2-configuration-21",
+      "prompt": "A non-photorealistic line-art concept sketch of a street cafe. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use an elevated view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-22",
+      "tier": "T2",
+      "scene": 22,
+      "configuration_id": "T2-configuration-22",
+      "prompt": "A non-photorealistic line-art concept sketch of a art studio. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use an elevated view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-23",
+      "tier": "T2",
+      "scene": 23,
+      "configuration_id": "T2-configuration-23",
+      "prompt": "A non-photorealistic line-art concept sketch of a pedestrian street. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use an elevated view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-24",
+      "tier": "T2",
+      "scene": 24,
+      "configuration_id": "T2-configuration-24",
+      "prompt": "A non-photorealistic line-art concept sketch of a living room. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use an elevated view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-25",
+      "tier": "T2",
+      "scene": 25,
+      "configuration_id": "T2-configuration-25",
+      "prompt": "A non-photorealistic line-art concept sketch of a museum hall. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use an elevated view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-26",
+      "tier": "T2",
+      "scene": 26,
+      "configuration_id": "T2-configuration-26",
+      "prompt": "A non-photorealistic line-art concept sketch of a market lane. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use an elevated view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-27",
+      "tier": "T2",
+      "scene": 27,
+      "configuration_id": "T2-configuration-27",
+      "prompt": "A non-photorealistic line-art concept sketch of a classroom. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use an elevated view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-28",
+      "tier": "T2",
+      "scene": 28,
+      "configuration_id": "T2-configuration-28",
+      "prompt": "A non-photorealistic line-art concept sketch of a train platform. Show a chair on the left, a table in the middle, and a floor lamp on the right. The chair is closer to the camera than the table, which is closer than the floor lamp. Use clear perspective and distinguishable object outlines. Use an elevated view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "chair",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "table",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "floor lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "specification_id": "T2-29",
+      "tier": "T2",
+      "scene": 29,
+      "configuration_id": "T2-configuration-29",
+      "prompt": "A non-photorealistic line-art concept sketch of a office lobby. Show a bicycle on the left, a bench in the middle, and a street lamp on the right. The bicycle is closer to the camera than the bench, which is closer than the street lamp. Use clear perspective and distinguishable object outlines. Use an elevated view.",
+      "objects": [
+        {
+          "id": "object_1",
+          "label": "bicycle",
+          "intended_box_xyxy_normalized": [
+            0.08,
+            0.45,
+            0.32,
+            0.9
+          ],
+          "intended_depth_rank": 1
+        },
+        {
+          "id": "object_2",
+          "label": "bench",
+          "intended_box_xyxy_normalized": [
+            0.4,
+            0.4,
+            0.72,
+            0.75
+          ],
+          "intended_depth_rank": 2
+        },
+        {
+          "id": "object_3",
+          "label": "street lamp",
+          "intended_box_xyxy_normalized": [
+            0.76,
+            0.12,
+            0.9,
+            0.7
+          ],
+          "intended_depth_rank": 3
+        }
+      ],
+      "relations": [
+        {
+          "a": "object_1",
+          "relation": "left_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "left_of",
+          "b": "object_3",
+          "margin": 0
+        },
+        {
+          "a": "object_1",
+          "relation": "in_front_of",
+          "b": "object_2",
+          "margin": 0
+        },
+        {
+          "a": "object_2",
+          "relation": "in_front_of",
+          "b": "object_3",
+          "margin": 0
+        }
+      ],
+      "removal_target": "object_1",
+      "conditions": [
+        "Text only",
+        "Mask",
+        "Depth",
+        "Mask + depth"
+      ],
+      "runs": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ]
+}
