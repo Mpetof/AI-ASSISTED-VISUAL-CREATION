@@ -1,0 +1,2406 @@
+{
+  "synthetic": true,
+  "provenance": "New proposal adapted from earlier task specifications; no linkage to simulated constraint labels is established.",
+  "tasks": [
+    {
+      "id": "development-00",
+      "split": "development",
+      "task": 0,
+      "source_task_id": "T01",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a woman",
+      "constraints": [
+        "The scene contains a woman.",
+        "The scene contains a book.",
+        "The setting is a library.",
+        "The image is rendered as a watercolor illustration.",
+        "The overall atmosphere is calm.",
+        "The rendering uses translucent color washes.",
+        "Use a medium shot.",
+        "Use an eye-level viewpoint.",
+        "Place the woman in the central third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show woven fabric on the woman's sweater."
+      ],
+      "prompt": "The scene contains a woman. The scene contains a book. The setting is a library. The image is rendered as a watercolor illustration. The overall atmosphere is calm. The rendering uses translucent color washes. Use a medium shot. Use an eye-level viewpoint. Place the woman in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show woven fabric on the woman's sweater.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a woman. The scene contains a book. The setting is a library. The image is rendered as a watercolor illustration. The overall atmosphere is calm. The rendering uses translucent color washes. Use a medium shot. Use an eye-level viewpoint. Place the woman in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show woven fabric on the woman's sweater.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "development-01",
+      "split": "development",
+      "task": 1,
+      "source_task_id": "T02",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a baker",
+      "constraints": [
+        "The scene contains a baker.",
+        "The scene contains a loaf of bread.",
+        "The setting is a bakery.",
+        "The image is rendered as an oil painting.",
+        "The overall atmosphere is cheerful.",
+        "The rendering uses visible directional brushstrokes.",
+        "Use a medium shot.",
+        "Use an eye-level viewpoint.",
+        "Place the baker in the central third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show flour dust on the baker's apron."
+      ],
+      "prompt": "The scene contains a baker. The scene contains a loaf of bread. The setting is a bakery. The image is rendered as an oil painting. The overall atmosphere is cheerful. The rendering uses visible directional brushstrokes. Use a medium shot. Use an eye-level viewpoint. Place the baker in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show flour dust on the baker's apron.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a baker. The scene contains a loaf of bread. The setting is a bakery. The image is rendered as an oil painting. The overall atmosphere is cheerful. The rendering uses visible directional brushstrokes. Use a medium shot. Use an eye-level viewpoint. Place the baker in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show flour dust on the baker's apron.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "development-02",
+      "split": "development",
+      "task": 2,
+      "source_task_id": "T03",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a violinist",
+      "constraints": [
+        "The scene contains a violinist.",
+        "The scene contains a violin.",
+        "The setting is a rehearsal room.",
+        "The image is rendered as an ink illustration.",
+        "The overall atmosphere is solemn.",
+        "Forms are defined by ink contour lines.",
+        "Use a medium shot.",
+        "Use an eye-level viewpoint.",
+        "Place the violinist in the central third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show woven fabric on the violinist's jacket."
+      ],
+      "prompt": "The scene contains a violinist. The scene contains a violin. The setting is a rehearsal room. The image is rendered as an ink illustration. The overall atmosphere is solemn. Forms are defined by ink contour lines. Use a medium shot. Use an eye-level viewpoint. Place the violinist in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show woven fabric on the violinist's jacket.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a violinist. The scene contains a violin. The setting is a rehearsal room. The image is rendered as an ink illustration. The overall atmosphere is solemn. Forms are defined by ink contour lines. Use a medium shot. Use an eye-level viewpoint. Place the violinist in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show woven fabric on the violinist's jacket.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "development-03",
+      "split": "development",
+      "task": 3,
+      "source_task_id": "T04",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a gardener",
+      "constraints": [
+        "The scene contains a gardener.",
+        "The scene contains a watering can.",
+        "The setting is a greenhouse.",
+        "The image is rendered as a digital painting.",
+        "The overall atmosphere is mysterious.",
+        "Forms are depicted with stylized, simplified shapes.",
+        "Use a medium shot.",
+        "Use an eye-level viewpoint.",
+        "Place the gardener in the central third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show denim fabric on the gardener's overalls."
+      ],
+      "prompt": "The scene contains a gardener. The scene contains a watering can. The setting is a greenhouse. The image is rendered as a digital painting. The overall atmosphere is mysterious. Forms are depicted with stylized, simplified shapes. Use a medium shot. Use an eye-level viewpoint. Place the gardener in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show denim fabric on the gardener's overalls.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a gardener. The scene contains a watering can. The setting is a greenhouse. The image is rendered as a digital painting. The overall atmosphere is mysterious. Forms are depicted with stylized, simplified shapes. Use a medium shot. Use an eye-level viewpoint. Place the gardener in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show denim fabric on the gardener's overalls.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "development-04",
+      "split": "development",
+      "task": 4,
+      "source_task_id": "T05",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a cyclist",
+      "constraints": [
+        "The scene contains a cyclist.",
+        "The scene contains a bicycle.",
+        "The setting is a park.",
+        "The image is rendered as a colored-pencil illustration.",
+        "The overall atmosphere is energetic.",
+        "The rendering uses visible pencil strokes.",
+        "Use a medium shot.",
+        "Use an eye-level viewpoint.",
+        "Place the cyclist in the central third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show mesh fabric on the cyclist's jersey."
+      ],
+      "prompt": "The scene contains a cyclist. The scene contains a bicycle. The setting is a park. The image is rendered as a colored-pencil illustration. The overall atmosphere is energetic. The rendering uses visible pencil strokes. Use a medium shot. Use an eye-level viewpoint. Place the cyclist in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show mesh fabric on the cyclist's jersey.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a cyclist. The scene contains a bicycle. The setting is a park. The image is rendered as a colored-pencil illustration. The overall atmosphere is energetic. The rendering uses visible pencil strokes. Use a medium shot. Use an eye-level viewpoint. Place the cyclist in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show mesh fabric on the cyclist's jersey.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "development-05",
+      "split": "development",
+      "task": 5,
+      "source_task_id": "T06",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a potter",
+      "constraints": [
+        "The scene contains a potter.",
+        "The scene contains a vase.",
+        "The setting is a pottery studio.",
+        "The image is rendered as a gouache illustration.",
+        "The overall atmosphere is dreamlike.",
+        "The rendering uses opaque blocks of color.",
+        "Use a medium shot.",
+        "Use an eye-level viewpoint.",
+        "Place the potter in the left third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show clay smears on the potter's apron."
+      ],
+      "prompt": "The scene contains a potter. The scene contains a vase. The setting is a pottery studio. The image is rendered as a gouache illustration. The overall atmosphere is dreamlike. The rendering uses opaque blocks of color. Use a medium shot. Use an eye-level viewpoint. Place the potter in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show clay smears on the potter's apron.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a potter. The scene contains a vase. The setting is a pottery studio. The image is rendered as a gouache illustration. The overall atmosphere is dreamlike. The rendering uses opaque blocks of color. Use a medium shot. Use an eye-level viewpoint. Place the potter in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show clay smears on the potter's apron.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "development-06",
+      "split": "development",
+      "task": 6,
+      "source_task_id": "T07",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "an astronomer",
+      "constraints": [
+        "The scene contains an astronomer.",
+        "The scene contains a telescope.",
+        "The setting is an observatory.",
+        "The image is rendered as a watercolor illustration.",
+        "The overall atmosphere is calm.",
+        "The rendering uses translucent color washes.",
+        "Use a medium shot.",
+        "Use an eye-level viewpoint.",
+        "Place the astronomer in the left third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show wool fabric on the astronomer's coat."
+      ],
+      "prompt": "The scene contains an astronomer. The scene contains a telescope. The setting is an observatory. The image is rendered as a watercolor illustration. The overall atmosphere is calm. The rendering uses translucent color washes. Use a medium shot. Use an eye-level viewpoint. Place the astronomer in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show wool fabric on the astronomer's coat.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains an astronomer. The scene contains a telescope. The setting is an observatory. The image is rendered as a watercolor illustration. The overall atmosphere is calm. The rendering uses translucent color washes. Use a medium shot. Use an eye-level viewpoint. Place the astronomer in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show wool fabric on the astronomer's coat.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "development-07",
+      "split": "development",
+      "task": 7,
+      "source_task_id": "T08",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a mechanic",
+      "constraints": [
+        "The scene contains a mechanic.",
+        "The scene contains a motorcycle.",
+        "The setting is a workshop.",
+        "The image is rendered as an oil painting.",
+        "The overall atmosphere is cheerful.",
+        "The rendering uses visible directional brushstrokes.",
+        "Use a medium shot.",
+        "Use an eye-level viewpoint.",
+        "Place the mechanic in the left third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show oil stains on the mechanic's overalls."
+      ],
+      "prompt": "The scene contains a mechanic. The scene contains a motorcycle. The setting is a workshop. The image is rendered as an oil painting. The overall atmosphere is cheerful. The rendering uses visible directional brushstrokes. Use a medium shot. Use an eye-level viewpoint. Place the mechanic in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show oil stains on the mechanic's overalls.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a mechanic. The scene contains a motorcycle. The setting is a workshop. The image is rendered as an oil painting. The overall atmosphere is cheerful. The rendering uses visible directional brushstrokes. Use a medium shot. Use an eye-level viewpoint. Place the mechanic in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show oil stains on the mechanic's overalls.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "development-08",
+      "split": "development",
+      "task": 8,
+      "source_task_id": "T09",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a conductor",
+      "constraints": [
+        "The scene contains a conductor.",
+        "The scene contains a music stand.",
+        "The setting is a concert hall.",
+        "The image is rendered as an ink illustration.",
+        "The overall atmosphere is solemn.",
+        "Forms are defined by ink contour lines.",
+        "Use a medium shot.",
+        "Use an eye-level viewpoint.",
+        "Place the conductor in the left third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show velvet fabric on the conductor's jacket."
+      ],
+      "prompt": "The scene contains a conductor. The scene contains a music stand. The setting is a concert hall. The image is rendered as an ink illustration. The overall atmosphere is solemn. Forms are defined by ink contour lines. Use a medium shot. Use an eye-level viewpoint. Place the conductor in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show velvet fabric on the conductor's jacket.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a conductor. The scene contains a music stand. The setting is a concert hall. The image is rendered as an ink illustration. The overall atmosphere is solemn. Forms are defined by ink contour lines. Use a medium shot. Use an eye-level viewpoint. Place the conductor in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show velvet fabric on the conductor's jacket.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "development-09",
+      "split": "development",
+      "task": 9,
+      "source_task_id": "T10",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a painter",
+      "constraints": [
+        "The scene contains a painter.",
+        "The scene contains an easel.",
+        "The setting is an art studio.",
+        "The image is rendered as a digital painting.",
+        "The overall atmosphere is mysterious.",
+        "Forms are depicted with stylized, simplified shapes.",
+        "Use a medium shot.",
+        "Use an eye-level viewpoint.",
+        "Place the painter in the left third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show paint stains on the painter's apron."
+      ],
+      "prompt": "The scene contains a painter. The scene contains an easel. The setting is an art studio. The image is rendered as a digital painting. The overall atmosphere is mysterious. Forms are depicted with stylized, simplified shapes. Use a medium shot. Use an eye-level viewpoint. Place the painter in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show paint stains on the painter's apron.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a painter. The scene contains an easel. The setting is an art studio. The image is rendered as a digital painting. The overall atmosphere is mysterious. Forms are depicted with stylized, simplified shapes. Use a medium shot. Use an eye-level viewpoint. Place the painter in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show paint stains on the painter's apron.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-00",
+      "split": "T1",
+      "task": 0,
+      "source_task_id": "T11",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a mountain",
+      "constraints": [
+        "The scene contains a mountain.",
+        "The scene contains a lake.",
+        "The setting is an alpine landscape.",
+        "The image is rendered as an oil painting.",
+        "The overall atmosphere is solemn.",
+        "The rendering uses visible directional brushstrokes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the mountain in the central third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show rough exposed rock on the mountain."
+      ],
+      "prompt": "The scene contains a mountain. The scene contains a lake. The setting is an alpine landscape. The image is rendered as an oil painting. The overall atmosphere is solemn. The rendering uses visible directional brushstrokes. Use a wide view. Use an eye-level viewpoint. Place the mountain in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show rough exposed rock on the mountain.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a mountain. The scene contains a lake. The setting is an alpine landscape. The image is rendered as an oil painting. The overall atmosphere is solemn. The rendering uses visible directional brushstrokes. Use a wide view. Use an eye-level viewpoint. Place the mountain in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show rough exposed rock on the mountain.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-01",
+      "split": "T1",
+      "task": 1,
+      "source_task_id": "T12",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a waterfall",
+      "constraints": [
+        "The scene contains a waterfall.",
+        "The scene contains a pool.",
+        "The setting is a forest gorge.",
+        "The image is rendered as an ink illustration.",
+        "The overall atmosphere is mysterious.",
+        "Forms are defined by ink contour lines.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the waterfall in the central third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show foamy water in the waterfall."
+      ],
+      "prompt": "The scene contains a waterfall. The scene contains a pool. The setting is a forest gorge. The image is rendered as an ink illustration. The overall atmosphere is mysterious. Forms are defined by ink contour lines. Use a wide view. Use an eye-level viewpoint. Place the waterfall in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show foamy water in the waterfall.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a waterfall. The scene contains a pool. The setting is a forest gorge. The image is rendered as an ink illustration. The overall atmosphere is mysterious. Forms are defined by ink contour lines. Use a wide view. Use an eye-level viewpoint. Place the waterfall in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show foamy water in the waterfall.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-02",
+      "split": "T1",
+      "task": 2,
+      "source_task_id": "T13",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a sand dune",
+      "constraints": [
+        "The scene contains a sand dune.",
+        "The scene contains a cactus.",
+        "The setting is a desert.",
+        "The image is rendered as a digital painting.",
+        "The overall atmosphere is energetic.",
+        "Forms are depicted with stylized, simplified shapes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the sand dune in the central third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show fine wind ripples on the sand dune."
+      ],
+      "prompt": "The scene contains a sand dune. The scene contains a cactus. The setting is a desert. The image is rendered as a digital painting. The overall atmosphere is energetic. Forms are depicted with stylized, simplified shapes. Use a wide view. Use an eye-level viewpoint. Place the sand dune in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show fine wind ripples on the sand dune.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a sand dune. The scene contains a cactus. The setting is a desert. The image is rendered as a digital painting. The overall atmosphere is energetic. Forms are depicted with stylized, simplified shapes. Use a wide view. Use an eye-level viewpoint. Place the sand dune in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show fine wind ripples on the sand dune.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-03",
+      "split": "T1",
+      "task": 3,
+      "source_task_id": "T14",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a pine tree",
+      "constraints": [
+        "The scene contains a pine tree.",
+        "The scene contains a boulder.",
+        "The setting is a snowy clearing.",
+        "The image is rendered as a colored-pencil illustration.",
+        "The overall atmosphere is dreamlike.",
+        "The rendering uses visible pencil strokes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the pine tree in the central third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show rough bark on the pine tree."
+      ],
+      "prompt": "The scene contains a pine tree. The scene contains a boulder. The setting is a snowy clearing. The image is rendered as a colored-pencil illustration. The overall atmosphere is dreamlike. The rendering uses visible pencil strokes. Use a wide view. Use an eye-level viewpoint. Place the pine tree in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show rough bark on the pine tree.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a pine tree. The scene contains a boulder. The setting is a snowy clearing. The image is rendered as a colored-pencil illustration. The overall atmosphere is dreamlike. The rendering uses visible pencil strokes. Use a wide view. Use an eye-level viewpoint. Place the pine tree in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show rough bark on the pine tree.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-04",
+      "split": "T1",
+      "task": 4,
+      "source_task_id": "T15",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a sea cliff",
+      "constraints": [
+        "The scene contains a sea cliff.",
+        "The scene contains a sea stack.",
+        "The setting is a rocky coast.",
+        "The image is rendered as a gouache illustration.",
+        "The overall atmosphere is calm.",
+        "The rendering uses opaque blocks of color.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the sea cliff in the central third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show layered rock on the sea cliff."
+      ],
+      "prompt": "The scene contains a sea cliff. The scene contains a sea stack. The setting is a rocky coast. The image is rendered as a gouache illustration. The overall atmosphere is calm. The rendering uses opaque blocks of color. Use a wide view. Use an eye-level viewpoint. Place the sea cliff in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show layered rock on the sea cliff.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a sea cliff. The scene contains a sea stack. The setting is a rocky coast. The image is rendered as a gouache illustration. The overall atmosphere is calm. The rendering uses opaque blocks of color. Use a wide view. Use an eye-level viewpoint. Place the sea cliff in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show layered rock on the sea cliff.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-05",
+      "split": "T1",
+      "task": 5,
+      "source_task_id": "T16",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a river",
+      "constraints": [
+        "The scene contains a river.",
+        "The scene contains a wooden bridge.",
+        "The setting is a valley.",
+        "The image is rendered as a watercolor illustration.",
+        "The overall atmosphere is cheerful.",
+        "The rendering uses translucent color washes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the river in the left third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show small ripples on the river."
+      ],
+      "prompt": "The scene contains a river. The scene contains a wooden bridge. The setting is a valley. The image is rendered as a watercolor illustration. The overall atmosphere is cheerful. The rendering uses translucent color washes. Use a wide view. Use an eye-level viewpoint. Place the river in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show small ripples on the river.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a river. The scene contains a wooden bridge. The setting is a valley. The image is rendered as a watercolor illustration. The overall atmosphere is cheerful. The rendering uses translucent color washes. Use a wide view. Use an eye-level viewpoint. Place the river in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show small ripples on the river.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-06",
+      "split": "T1",
+      "task": 6,
+      "source_task_id": "T17",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a volcano",
+      "constraints": [
+        "The scene contains a volcano.",
+        "The scene contains a lake.",
+        "The setting is a volcanic plateau.",
+        "The image is rendered as an oil painting.",
+        "The overall atmosphere is solemn.",
+        "The rendering uses visible directional brushstrokes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the volcano in the left third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show rough lava rock on the volcano."
+      ],
+      "prompt": "The scene contains a volcano. The scene contains a lake. The setting is a volcanic plateau. The image is rendered as an oil painting. The overall atmosphere is solemn. The rendering uses visible directional brushstrokes. Use a wide view. Use an eye-level viewpoint. Place the volcano in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show rough lava rock on the volcano.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a volcano. The scene contains a lake. The setting is a volcanic plateau. The image is rendered as an oil painting. The overall atmosphere is solemn. The rendering uses visible directional brushstrokes. Use a wide view. Use an eye-level viewpoint. Place the volcano in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show rough lava rock on the volcano.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-07",
+      "split": "T1",
+      "task": 7,
+      "source_task_id": "T18",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a banyan tree",
+      "constraints": [
+        "The scene contains a banyan tree.",
+        "The scene contains a pond.",
+        "The setting is a tropical garden.",
+        "The image is rendered as an ink illustration.",
+        "The overall atmosphere is mysterious.",
+        "Forms are defined by ink contour lines.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the banyan tree in the left third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show rough bark on the banyan tree."
+      ],
+      "prompt": "The scene contains a banyan tree. The scene contains a pond. The setting is a tropical garden. The image is rendered as an ink illustration. The overall atmosphere is mysterious. Forms are defined by ink contour lines. Use a wide view. Use an eye-level viewpoint. Place the banyan tree in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show rough bark on the banyan tree.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a banyan tree. The scene contains a pond. The setting is a tropical garden. The image is rendered as an ink illustration. The overall atmosphere is mysterious. Forms are defined by ink contour lines. Use a wide view. Use an eye-level viewpoint. Place the banyan tree in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show rough bark on the banyan tree.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-08",
+      "split": "T1",
+      "task": 8,
+      "source_task_id": "T19",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a glacier",
+      "constraints": [
+        "The scene contains a glacier.",
+        "The scene contains a mountain peak.",
+        "The setting is a polar landscape.",
+        "The image is rendered as a digital painting.",
+        "The overall atmosphere is energetic.",
+        "Forms are depicted with stylized, simplified shapes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the glacier in the left third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show striated ice on the glacier."
+      ],
+      "prompt": "The scene contains a glacier. The scene contains a mountain peak. The setting is a polar landscape. The image is rendered as a digital painting. The overall atmosphere is energetic. Forms are depicted with stylized, simplified shapes. Use a wide view. Use an eye-level viewpoint. Place the glacier in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show striated ice on the glacier.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a glacier. The scene contains a mountain peak. The setting is a polar landscape. The image is rendered as a digital painting. The overall atmosphere is energetic. Forms are depicted with stylized, simplified shapes. Use a wide view. Use an eye-level viewpoint. Place the glacier in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show striated ice on the glacier.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-09",
+      "split": "T1",
+      "task": 9,
+      "source_task_id": "T20",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a terraced hill",
+      "constraints": [
+        "The scene contains a terraced hill.",
+        "The scene contains a farmhouse.",
+        "The setting is a rural landscape.",
+        "The image is rendered as a colored-pencil illustration.",
+        "The overall atmosphere is dreamlike.",
+        "The rendering uses visible pencil strokes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the terraced hill in the left third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show dense grass on the terraced hill."
+      ],
+      "prompt": "The scene contains a terraced hill. The scene contains a farmhouse. The setting is a rural landscape. The image is rendered as a colored-pencil illustration. The overall atmosphere is dreamlike. The rendering uses visible pencil strokes. Use a wide view. Use an eye-level viewpoint. Place the terraced hill in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show dense grass on the terraced hill.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a terraced hill. The scene contains a farmhouse. The setting is a rural landscape. The image is rendered as a colored-pencil illustration. The overall atmosphere is dreamlike. The rendering uses visible pencil strokes. Use a wide view. Use an eye-level viewpoint. Place the terraced hill in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show dense grass on the terraced hill.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-10",
+      "split": "T1",
+      "task": 10,
+      "source_task_id": "T21",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a reading chair",
+      "constraints": [
+        "The scene contains a reading chair.",
+        "The scene contains a floor lamp.",
+        "The setting is a reading room.",
+        "The image is rendered as an ink illustration.",
+        "The overall atmosphere is energetic.",
+        "Forms are defined by ink contour lines.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the reading chair in the central third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show woven upholstery on the reading chair."
+      ],
+      "prompt": "The scene contains a reading chair. The scene contains a floor lamp. The setting is a reading room. The image is rendered as an ink illustration. The overall atmosphere is energetic. Forms are defined by ink contour lines. Use a wide view. Use an eye-level viewpoint. Place the reading chair in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show woven upholstery on the reading chair.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a reading chair. The scene contains a floor lamp. The setting is a reading room. The image is rendered as an ink illustration. The overall atmosphere is energetic. Forms are defined by ink contour lines. Use a wide view. Use an eye-level viewpoint. Place the reading chair in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show woven upholstery on the reading chair.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-11",
+      "split": "T1",
+      "task": 11,
+      "source_task_id": "T22",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a dining table",
+      "constraints": [
+        "The scene contains a dining table.",
+        "The scene contains a window.",
+        "The setting is a dining room.",
+        "The image is rendered as a digital painting.",
+        "The overall atmosphere is dreamlike.",
+        "Forms are depicted with stylized, simplified shapes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the dining table in the central third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show visible wood grain on the dining table."
+      ],
+      "prompt": "The scene contains a dining table. The scene contains a window. The setting is a dining room. The image is rendered as a digital painting. The overall atmosphere is dreamlike. Forms are depicted with stylized, simplified shapes. Use a wide view. Use an eye-level viewpoint. Place the dining table in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show visible wood grain on the dining table.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a dining table. The scene contains a window. The setting is a dining room. The image is rendered as a digital painting. The overall atmosphere is dreamlike. Forms are depicted with stylized, simplified shapes. Use a wide view. Use an eye-level viewpoint. Place the dining table in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show visible wood grain on the dining table.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-12",
+      "split": "T1",
+      "task": 12,
+      "source_task_id": "T23",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a staircase",
+      "constraints": [
+        "The scene contains a staircase.",
+        "The scene contains a doorway.",
+        "The setting is a building lobby.",
+        "The image is rendered as a colored-pencil illustration.",
+        "The overall atmosphere is calm.",
+        "The rendering uses visible pencil strokes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the staircase in the central third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show polished stone on the staircase."
+      ],
+      "prompt": "The scene contains a staircase. The scene contains a doorway. The setting is a building lobby. The image is rendered as a colored-pencil illustration. The overall atmosphere is calm. The rendering uses visible pencil strokes. Use a wide view. Use an eye-level viewpoint. Place the staircase in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show polished stone on the staircase.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a staircase. The scene contains a doorway. The setting is a building lobby. The image is rendered as a colored-pencil illustration. The overall atmosphere is calm. The rendering uses visible pencil strokes. Use a wide view. Use an eye-level viewpoint. Place the staircase in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show polished stone on the staircase.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-13",
+      "split": "T1",
+      "task": 13,
+      "source_task_id": "T24",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a kitchen island",
+      "constraints": [
+        "The scene contains a kitchen island.",
+        "The scene contains a refrigerator.",
+        "The setting is a kitchen.",
+        "The image is rendered as a gouache illustration.",
+        "The overall atmosphere is cheerful.",
+        "The rendering uses opaque blocks of color.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the kitchen island in the central third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show veined marble on the kitchen island."
+      ],
+      "prompt": "The scene contains a kitchen island. The scene contains a refrigerator. The setting is a kitchen. The image is rendered as a gouache illustration. The overall atmosphere is cheerful. The rendering uses opaque blocks of color. Use a wide view. Use an eye-level viewpoint. Place the kitchen island in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show veined marble on the kitchen island.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a kitchen island. The scene contains a refrigerator. The setting is a kitchen. The image is rendered as a gouache illustration. The overall atmosphere is cheerful. The rendering uses opaque blocks of color. Use a wide view. Use an eye-level viewpoint. Place the kitchen island in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show veined marble on the kitchen island.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-14",
+      "split": "T1",
+      "task": 14,
+      "source_task_id": "T25",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a station clock",
+      "constraints": [
+        "The scene contains a station clock.",
+        "The scene contains a bench.",
+        "The setting is a railway station.",
+        "The image is rendered as a watercolor illustration.",
+        "The overall atmosphere is solemn.",
+        "The rendering uses translucent color washes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the station clock in the central third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show brushed metal on the station clock."
+      ],
+      "prompt": "The scene contains a station clock. The scene contains a bench. The setting is a railway station. The image is rendered as a watercolor illustration. The overall atmosphere is solemn. The rendering uses translucent color washes. Use a wide view. Use an eye-level viewpoint. Place the station clock in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show brushed metal on the station clock.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a station clock. The scene contains a bench. The setting is a railway station. The image is rendered as a watercolor illustration. The overall atmosphere is solemn. The rendering uses translucent color washes. Use a wide view. Use an eye-level viewpoint. Place the station clock in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show brushed metal on the station clock.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-15",
+      "split": "T1",
+      "task": 15,
+      "source_task_id": "T26",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a lighthouse",
+      "constraints": [
+        "The scene contains a lighthouse.",
+        "The scene contains a cottage.",
+        "The setting is a coastal settlement.",
+        "The image is rendered as an oil painting.",
+        "The overall atmosphere is mysterious.",
+        "The rendering uses visible directional brushstrokes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the lighthouse in the left third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show weathered masonry on the lighthouse."
+      ],
+      "prompt": "The scene contains a lighthouse. The scene contains a cottage. The setting is a coastal settlement. The image is rendered as an oil painting. The overall atmosphere is mysterious. The rendering uses visible directional brushstrokes. Use a wide view. Use an eye-level viewpoint. Place the lighthouse in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show weathered masonry on the lighthouse.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a lighthouse. The scene contains a cottage. The setting is a coastal settlement. The image is rendered as an oil painting. The overall atmosphere is mysterious. The rendering uses visible directional brushstrokes. Use a wide view. Use an eye-level viewpoint. Place the lighthouse in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show weathered masonry on the lighthouse.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-16",
+      "split": "T1",
+      "task": 16,
+      "source_task_id": "T27",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a courtyard fountain",
+      "constraints": [
+        "The scene contains a courtyard fountain.",
+        "The scene contains an archway.",
+        "The setting is a courtyard.",
+        "The image is rendered as an ink illustration.",
+        "The overall atmosphere is energetic.",
+        "Forms are defined by ink contour lines.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the courtyard fountain in the left third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show carved stone on the courtyard fountain."
+      ],
+      "prompt": "The scene contains a courtyard fountain. The scene contains an archway. The setting is a courtyard. The image is rendered as an ink illustration. The overall atmosphere is energetic. Forms are defined by ink contour lines. Use a wide view. Use an eye-level viewpoint. Place the courtyard fountain in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show carved stone on the courtyard fountain.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a courtyard fountain. The scene contains an archway. The setting is a courtyard. The image is rendered as an ink illustration. The overall atmosphere is energetic. Forms are defined by ink contour lines. Use a wide view. Use an eye-level viewpoint. Place the courtyard fountain in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show carved stone on the courtyard fountain.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-17",
+      "split": "T1",
+      "task": 17,
+      "source_task_id": "T28",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a spiral staircase",
+      "constraints": [
+        "The scene contains a spiral staircase.",
+        "The scene contains a window.",
+        "The setting is a circular hall.",
+        "The image is rendered as a digital painting.",
+        "The overall atmosphere is dreamlike.",
+        "Forms are depicted with stylized, simplified shapes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the spiral staircase in the left third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show brushed metal on the spiral staircase."
+      ],
+      "prompt": "The scene contains a spiral staircase. The scene contains a window. The setting is a circular hall. The image is rendered as a digital painting. The overall atmosphere is dreamlike. Forms are depicted with stylized, simplified shapes. Use a wide view. Use an eye-level viewpoint. Place the spiral staircase in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show brushed metal on the spiral staircase.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a spiral staircase. The scene contains a window. The setting is a circular hall. The image is rendered as a digital painting. The overall atmosphere is dreamlike. Forms are depicted with stylized, simplified shapes. Use a wide view. Use an eye-level viewpoint. Place the spiral staircase in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show brushed metal on the spiral staircase.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-18",
+      "split": "T1",
+      "task": 18,
+      "source_task_id": "T29",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a market stall",
+      "constraints": [
+        "The scene contains a market stall.",
+        "The scene contains a kiosk.",
+        "The setting is a covered market.",
+        "The image is rendered as a colored-pencil illustration.",
+        "The overall atmosphere is calm.",
+        "The rendering uses visible pencil strokes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the market stall in the left third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show wood grain on the market stall."
+      ],
+      "prompt": "The scene contains a market stall. The scene contains a kiosk. The setting is a covered market. The image is rendered as a colored-pencil illustration. The overall atmosphere is calm. The rendering uses visible pencil strokes. Use a wide view. Use an eye-level viewpoint. Place the market stall in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show wood grain on the market stall.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a market stall. The scene contains a kiosk. The setting is a covered market. The image is rendered as a colored-pencil illustration. The overall atmosphere is calm. The rendering uses visible pencil strokes. Use a wide view. Use an eye-level viewpoint. Place the market stall in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show wood grain on the market stall.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T1-19",
+      "split": "T1",
+      "task": 19,
+      "source_task_id": "T30",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a pavilion",
+      "constraints": [
+        "The scene contains a pavilion.",
+        "The scene contains a footbridge.",
+        "The setting is a landscaped garden.",
+        "The image is rendered as a gouache illustration.",
+        "The overall atmosphere is cheerful.",
+        "The rendering uses opaque blocks of color.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the pavilion in the left third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show wood grain on the pavilion."
+      ],
+      "prompt": "The scene contains a pavilion. The scene contains a footbridge. The setting is a landscaped garden. The image is rendered as a gouache illustration. The overall atmosphere is cheerful. The rendering uses opaque blocks of color. Use a wide view. Use an eye-level viewpoint. Place the pavilion in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show wood grain on the pavilion.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a pavilion. The scene contains a footbridge. The setting is a landscaped garden. The image is rendered as a gouache illustration. The overall atmosphere is cheerful. The rendering uses opaque blocks of color. Use a wide view. Use an eye-level viewpoint. Place the pavilion in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show wood grain on the pavilion.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-00",
+      "split": "T2",
+      "task": 0,
+      "source_task_id": "T31",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a teapot",
+      "constraints": [
+        "The scene contains a teapot.",
+        "The scene contains a cup.",
+        "The setting is a tabletop arrangement.",
+        "The image is rendered as a digital painting.",
+        "The overall atmosphere is calm.",
+        "Forms are depicted with stylized, simplified shapes.",
+        "Use a wide view.",
+        "Use a slightly elevated viewpoint.",
+        "Place the teapot in the central third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show glazed ceramic on the teapot."
+      ],
+      "prompt": "The scene contains a teapot. The scene contains a cup. The setting is a tabletop arrangement. The image is rendered as a digital painting. The overall atmosphere is calm. Forms are depicted with stylized, simplified shapes. Use a wide view. Use a slightly elevated viewpoint. Place the teapot in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show glazed ceramic on the teapot.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a teapot. The scene contains a cup. The setting is a tabletop arrangement. The image is rendered as a digital painting. The overall atmosphere is calm. Forms are depicted with stylized, simplified shapes. Use a wide view. Use a slightly elevated viewpoint. Place the teapot in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show glazed ceramic on the teapot.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-01",
+      "split": "T2",
+      "task": 1,
+      "source_task_id": "T32",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a camera",
+      "constraints": [
+        "The scene contains a camera.",
+        "The scene contains a lens cap.",
+        "The setting is a product display.",
+        "The image is rendered as a colored-pencil illustration.",
+        "The overall atmosphere is cheerful.",
+        "The rendering uses visible pencil strokes.",
+        "Use a wide view.",
+        "Use a slightly elevated viewpoint.",
+        "Place the camera in the central third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show pebbled leather on the camera."
+      ],
+      "prompt": "The scene contains a camera. The scene contains a lens cap. The setting is a product display. The image is rendered as a colored-pencil illustration. The overall atmosphere is cheerful. The rendering uses visible pencil strokes. Use a wide view. Use a slightly elevated viewpoint. Place the camera in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show pebbled leather on the camera.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a camera. The scene contains a lens cap. The setting is a product display. The image is rendered as a colored-pencil illustration. The overall atmosphere is cheerful. The rendering uses visible pencil strokes. Use a wide view. Use a slightly elevated viewpoint. Place the camera in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show pebbled leather on the camera.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-02",
+      "split": "T2",
+      "task": 2,
+      "source_task_id": "T33",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a backpack",
+      "constraints": [
+        "The scene contains a backpack.",
+        "The scene contains a water bottle.",
+        "The setting is a camping display.",
+        "The image is rendered as a gouache illustration.",
+        "The overall atmosphere is solemn.",
+        "The rendering uses opaque blocks of color.",
+        "Use a wide view.",
+        "Use a slightly elevated viewpoint.",
+        "Place the backpack in the central third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show woven canvas on the backpack."
+      ],
+      "prompt": "The scene contains a backpack. The scene contains a water bottle. The setting is a camping display. The image is rendered as a gouache illustration. The overall atmosphere is solemn. The rendering uses opaque blocks of color. Use a wide view. Use a slightly elevated viewpoint. Place the backpack in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show woven canvas on the backpack.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a backpack. The scene contains a water bottle. The setting is a camping display. The image is rendered as a gouache illustration. The overall atmosphere is solemn. The rendering uses opaque blocks of color. Use a wide view. Use a slightly elevated viewpoint. Place the backpack in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show woven canvas on the backpack.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-03",
+      "split": "T2",
+      "task": 3,
+      "source_task_id": "T34",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a wristwatch",
+      "constraints": [
+        "The scene contains a wristwatch.",
+        "The scene contains a presentation box.",
+        "The setting is a product display.",
+        "The image is rendered as a watercolor illustration.",
+        "The overall atmosphere is mysterious.",
+        "The rendering uses translucent color washes.",
+        "Use a wide view.",
+        "Use a slightly elevated viewpoint.",
+        "Place the wristwatch in the central third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show brushed steel on the wristwatch."
+      ],
+      "prompt": "The scene contains a wristwatch. The scene contains a presentation box. The setting is a product display. The image is rendered as a watercolor illustration. The overall atmosphere is mysterious. The rendering uses translucent color washes. Use a wide view. Use a slightly elevated viewpoint. Place the wristwatch in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show brushed steel on the wristwatch.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a wristwatch. The scene contains a presentation box. The setting is a product display. The image is rendered as a watercolor illustration. The overall atmosphere is mysterious. The rendering uses translucent color washes. Use a wide view. Use a slightly elevated viewpoint. Place the wristwatch in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show brushed steel on the wristwatch.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-04",
+      "split": "T2",
+      "task": 4,
+      "source_task_id": "T35",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a desk lamp",
+      "constraints": [
+        "The scene contains a desk lamp.",
+        "The scene contains a notebook.",
+        "The setting is a desk.",
+        "The image is rendered as an oil painting.",
+        "The overall atmosphere is energetic.",
+        "The rendering uses visible directional brushstrokes.",
+        "Use a wide view.",
+        "Use a slightly elevated viewpoint.",
+        "Place the desk lamp in the central third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show matte metal on the desk lamp."
+      ],
+      "prompt": "The scene contains a desk lamp. The scene contains a notebook. The setting is a desk. The image is rendered as an oil painting. The overall atmosphere is energetic. The rendering uses visible directional brushstrokes. Use a wide view. Use a slightly elevated viewpoint. Place the desk lamp in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show matte metal on the desk lamp.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a desk lamp. The scene contains a notebook. The setting is a desk. The image is rendered as an oil painting. The overall atmosphere is energetic. The rendering uses visible directional brushstrokes. Use a wide view. Use a slightly elevated viewpoint. Place the desk lamp in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show matte metal on the desk lamp.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-05",
+      "split": "T2",
+      "task": 5,
+      "source_task_id": "T36",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a sneaker",
+      "constraints": [
+        "The scene contains a sneaker.",
+        "The scene contains a shoebox.",
+        "The setting is a studio display.",
+        "The image is rendered as an ink illustration.",
+        "The overall atmosphere is dreamlike.",
+        "Forms are defined by ink contour lines.",
+        "Use a wide view.",
+        "Use a slightly elevated viewpoint.",
+        "Place the sneaker in the left third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show woven mesh on the sneaker."
+      ],
+      "prompt": "The scene contains a sneaker. The scene contains a shoebox. The setting is a studio display. The image is rendered as an ink illustration. The overall atmosphere is dreamlike. Forms are defined by ink contour lines. Use a wide view. Use a slightly elevated viewpoint. Place the sneaker in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show woven mesh on the sneaker.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a sneaker. The scene contains a shoebox. The setting is a studio display. The image is rendered as an ink illustration. The overall atmosphere is dreamlike. Forms are defined by ink contour lines. Use a wide view. Use a slightly elevated viewpoint. Place the sneaker in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show woven mesh on the sneaker.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-06",
+      "split": "T2",
+      "task": 6,
+      "source_task_id": "T37",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a perfume bottle",
+      "constraints": [
+        "The scene contains a perfume bottle.",
+        "The scene contains a mirror.",
+        "The setting is a dressing table.",
+        "The image is rendered as a digital painting.",
+        "The overall atmosphere is calm.",
+        "Forms are depicted with stylized, simplified shapes.",
+        "Use a wide view.",
+        "Use a slightly elevated viewpoint.",
+        "Place the perfume bottle in the left third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show clear glass on the perfume bottle."
+      ],
+      "prompt": "The scene contains a perfume bottle. The scene contains a mirror. The setting is a dressing table. The image is rendered as a digital painting. The overall atmosphere is calm. Forms are depicted with stylized, simplified shapes. Use a wide view. Use a slightly elevated viewpoint. Place the perfume bottle in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show clear glass on the perfume bottle.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a perfume bottle. The scene contains a mirror. The setting is a dressing table. The image is rendered as a digital painting. The overall atmosphere is calm. Forms are depicted with stylized, simplified shapes. Use a wide view. Use a slightly elevated viewpoint. Place the perfume bottle in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show clear glass on the perfume bottle.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-07",
+      "split": "T2",
+      "task": 7,
+      "source_task_id": "T38",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a ceramic vase",
+      "constraints": [
+        "The scene contains a ceramic vase.",
+        "The scene contains an apple.",
+        "The setting is a still-life arrangement.",
+        "The image is rendered as a colored-pencil illustration.",
+        "The overall atmosphere is cheerful.",
+        "The rendering uses visible pencil strokes.",
+        "Use a wide view.",
+        "Use a slightly elevated viewpoint.",
+        "Place the ceramic vase in the left third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show crackled glaze on the ceramic vase."
+      ],
+      "prompt": "The scene contains a ceramic vase. The scene contains an apple. The setting is a still-life arrangement. The image is rendered as a colored-pencil illustration. The overall atmosphere is cheerful. The rendering uses visible pencil strokes. Use a wide view. Use a slightly elevated viewpoint. Place the ceramic vase in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show crackled glaze on the ceramic vase.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a ceramic vase. The scene contains an apple. The setting is a still-life arrangement. The image is rendered as a colored-pencil illustration. The overall atmosphere is cheerful. The rendering uses visible pencil strokes. Use a wide view. Use a slightly elevated viewpoint. Place the ceramic vase in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show crackled glaze on the ceramic vase.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-08",
+      "split": "T2",
+      "task": 8,
+      "source_task_id": "T39",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a portable speaker",
+      "constraints": [
+        "The scene contains a portable speaker.",
+        "The scene contains a smartphone.",
+        "The setting is a product display.",
+        "The image is rendered as a gouache illustration.",
+        "The overall atmosphere is solemn.",
+        "The rendering uses opaque blocks of color.",
+        "Use a wide view.",
+        "Use a slightly elevated viewpoint.",
+        "Place the portable speaker in the left third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show woven fabric on the portable speaker."
+      ],
+      "prompt": "The scene contains a portable speaker. The scene contains a smartphone. The setting is a product display. The image is rendered as a gouache illustration. The overall atmosphere is solemn. The rendering uses opaque blocks of color. Use a wide view. Use a slightly elevated viewpoint. Place the portable speaker in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show woven fabric on the portable speaker.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a portable speaker. The scene contains a smartphone. The setting is a product display. The image is rendered as a gouache illustration. The overall atmosphere is solemn. The rendering uses opaque blocks of color. Use a wide view. Use a slightly elevated viewpoint. Place the portable speaker in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show woven fabric on the portable speaker.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-09",
+      "split": "T2",
+      "task": 9,
+      "source_task_id": "T40",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a toy robot",
+      "constraints": [
+        "The scene contains a toy robot.",
+        "The scene contains a wooden block.",
+        "The setting is a playroom.",
+        "The image is rendered as a watercolor illustration.",
+        "The overall atmosphere is mysterious.",
+        "The rendering uses translucent color washes.",
+        "Use a wide view.",
+        "Use a slightly elevated viewpoint.",
+        "Place the toy robot in the left third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show brushed metal on the toy robot."
+      ],
+      "prompt": "The scene contains a toy robot. The scene contains a wooden block. The setting is a playroom. The image is rendered as a watercolor illustration. The overall atmosphere is mysterious. The rendering uses translucent color washes. Use a wide view. Use a slightly elevated viewpoint. Place the toy robot in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show brushed metal on the toy robot.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a toy robot. The scene contains a wooden block. The setting is a playroom. The image is rendered as a watercolor illustration. The overall atmosphere is mysterious. The rendering uses translucent color washes. Use a wide view. Use a slightly elevated viewpoint. Place the toy robot in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show brushed metal on the toy robot.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-10",
+      "split": "T2",
+      "task": 10,
+      "source_task_id": "T41",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a tabby cat",
+      "constraints": [
+        "The scene contains a tabby cat.",
+        "The scene contains a cushion.",
+        "The setting is a living room.",
+        "The image is rendered as a colored-pencil illustration.",
+        "The overall atmosphere is solemn.",
+        "The rendering uses visible pencil strokes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the tabby cat in the central third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show striped fur on the tabby cat."
+      ],
+      "prompt": "The scene contains a tabby cat. The scene contains a cushion. The setting is a living room. The image is rendered as a colored-pencil illustration. The overall atmosphere is solemn. The rendering uses visible pencil strokes. Use a wide view. Use an eye-level viewpoint. Place the tabby cat in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show striped fur on the tabby cat.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a tabby cat. The scene contains a cushion. The setting is a living room. The image is rendered as a colored-pencil illustration. The overall atmosphere is solemn. The rendering uses visible pencil strokes. Use a wide view. Use an eye-level viewpoint. Place the tabby cat in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show striped fur on the tabby cat.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-11",
+      "split": "T2",
+      "task": 11,
+      "source_task_id": "T42",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a golden retriever",
+      "constraints": [
+        "The scene contains a golden retriever.",
+        "The scene contains a ball.",
+        "The setting is a park.",
+        "The image is rendered as a gouache illustration.",
+        "The overall atmosphere is mysterious.",
+        "The rendering uses opaque blocks of color.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the golden retriever in the central third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show long fur on the golden retriever."
+      ],
+      "prompt": "The scene contains a golden retriever. The scene contains a ball. The setting is a park. The image is rendered as a gouache illustration. The overall atmosphere is mysterious. The rendering uses opaque blocks of color. Use a wide view. Use an eye-level viewpoint. Place the golden retriever in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show long fur on the golden retriever.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a golden retriever. The scene contains a ball. The setting is a park. The image is rendered as a gouache illustration. The overall atmosphere is mysterious. The rendering uses opaque blocks of color. Use a wide view. Use an eye-level viewpoint. Place the golden retriever in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show long fur on the golden retriever.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-12",
+      "split": "T2",
+      "task": 12,
+      "source_task_id": "T43",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a rabbit",
+      "constraints": [
+        "The scene contains a rabbit.",
+        "The scene contains a carrot.",
+        "The setting is a vegetable garden.",
+        "The image is rendered as a watercolor illustration.",
+        "The overall atmosphere is energetic.",
+        "The rendering uses translucent color washes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the rabbit in the central third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show soft fur on the rabbit."
+      ],
+      "prompt": "The scene contains a rabbit. The scene contains a carrot. The setting is a vegetable garden. The image is rendered as a watercolor illustration. The overall atmosphere is energetic. The rendering uses translucent color washes. Use a wide view. Use an eye-level viewpoint. Place the rabbit in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show soft fur on the rabbit.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a rabbit. The scene contains a carrot. The setting is a vegetable garden. The image is rendered as a watercolor illustration. The overall atmosphere is energetic. The rendering uses translucent color washes. Use a wide view. Use an eye-level viewpoint. Place the rabbit in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show soft fur on the rabbit.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-13",
+      "split": "T2",
+      "task": 13,
+      "source_task_id": "T44",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a horse",
+      "constraints": [
+        "The scene contains a horse.",
+        "The scene contains a fence.",
+        "The setting is a paddock.",
+        "The image is rendered as an oil painting.",
+        "The overall atmosphere is dreamlike.",
+        "The rendering uses visible directional brushstrokes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the horse in the central third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show short glossy hair on the horse."
+      ],
+      "prompt": "The scene contains a horse. The scene contains a fence. The setting is a paddock. The image is rendered as an oil painting. The overall atmosphere is dreamlike. The rendering uses visible directional brushstrokes. Use a wide view. Use an eye-level viewpoint. Place the horse in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show short glossy hair on the horse.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a horse. The scene contains a fence. The setting is a paddock. The image is rendered as an oil painting. The overall atmosphere is dreamlike. The rendering uses visible directional brushstrokes. Use a wide view. Use an eye-level viewpoint. Place the horse in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show short glossy hair on the horse.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-14",
+      "split": "T2",
+      "task": 14,
+      "source_task_id": "T45",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a parrot",
+      "constraints": [
+        "The scene contains a parrot.",
+        "The scene contains a branch.",
+        "The setting is a tropical enclosure.",
+        "The image is rendered as an ink illustration.",
+        "The overall atmosphere is calm.",
+        "Forms are defined by ink contour lines.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the parrot in the central third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show layered feathers on the parrot."
+      ],
+      "prompt": "The scene contains a parrot. The scene contains a branch. The setting is a tropical enclosure. The image is rendered as an ink illustration. The overall atmosphere is calm. Forms are defined by ink contour lines. Use a wide view. Use an eye-level viewpoint. Place the parrot in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show layered feathers on the parrot.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a parrot. The scene contains a branch. The setting is a tropical enclosure. The image is rendered as an ink illustration. The overall atmosphere is calm. Forms are defined by ink contour lines. Use a wide view. Use an eye-level viewpoint. Place the parrot in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show layered feathers on the parrot.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-15",
+      "split": "T2",
+      "task": 15,
+      "source_task_id": "T46",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a fox",
+      "constraints": [
+        "The scene contains a fox.",
+        "The scene contains a fallen log.",
+        "The setting is a forest.",
+        "The image is rendered as a digital painting.",
+        "The overall atmosphere is cheerful.",
+        "Forms are depicted with stylized, simplified shapes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the fox in the left third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show dense fur on the fox."
+      ],
+      "prompt": "The scene contains a fox. The scene contains a fallen log. The setting is a forest. The image is rendered as a digital painting. The overall atmosphere is cheerful. Forms are depicted with stylized, simplified shapes. Use a wide view. Use an eye-level viewpoint. Place the fox in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show dense fur on the fox.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a fox. The scene contains a fallen log. The setting is a forest. The image is rendered as a digital painting. The overall atmosphere is cheerful. Forms are depicted with stylized, simplified shapes. Use a wide view. Use an eye-level viewpoint. Place the fox in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show dense fur on the fox.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-16",
+      "split": "T2",
+      "task": 16,
+      "source_task_id": "T47",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a deer",
+      "constraints": [
+        "The scene contains a deer.",
+        "The scene contains a stream.",
+        "The setting is a woodland clearing.",
+        "The image is rendered as a colored-pencil illustration.",
+        "The overall atmosphere is solemn.",
+        "The rendering uses visible pencil strokes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the deer in the left third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show short fur on the deer."
+      ],
+      "prompt": "The scene contains a deer. The scene contains a stream. The setting is a woodland clearing. The image is rendered as a colored-pencil illustration. The overall atmosphere is solemn. The rendering uses visible pencil strokes. Use a wide view. Use an eye-level viewpoint. Place the deer in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show short fur on the deer.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a deer. The scene contains a stream. The setting is a woodland clearing. The image is rendered as a colored-pencil illustration. The overall atmosphere is solemn. The rendering uses visible pencil strokes. Use a wide view. Use an eye-level viewpoint. Place the deer in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show short fur on the deer.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-17",
+      "split": "T2",
+      "task": 17,
+      "source_task_id": "T48",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a penguin",
+      "constraints": [
+        "The scene contains a penguin.",
+        "The scene contains an ice block.",
+        "The setting is a polar shore.",
+        "The image is rendered as a gouache illustration.",
+        "The overall atmosphere is mysterious.",
+        "The rendering uses opaque blocks of color.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the penguin in the left third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show dense feathers on the penguin."
+      ],
+      "prompt": "The scene contains a penguin. The scene contains an ice block. The setting is a polar shore. The image is rendered as a gouache illustration. The overall atmosphere is mysterious. The rendering uses opaque blocks of color. Use a wide view. Use an eye-level viewpoint. Place the penguin in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show dense feathers on the penguin.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a penguin. The scene contains an ice block. The setting is a polar shore. The image is rendered as a gouache illustration. The overall atmosphere is mysterious. The rendering uses opaque blocks of color. Use a wide view. Use an eye-level viewpoint. Place the penguin in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show dense feathers on the penguin.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-18",
+      "split": "T2",
+      "task": 18,
+      "source_task_id": "T49",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a sea turtle",
+      "constraints": [
+        "The scene contains a sea turtle.",
+        "The scene contains a coral formation.",
+        "The setting is an underwater reef.",
+        "The image is rendered as a watercolor illustration.",
+        "The overall atmosphere is energetic.",
+        "The rendering uses translucent color washes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the sea turtle in the left third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show scute patterns on the sea turtle's shell."
+      ],
+      "prompt": "The scene contains a sea turtle. The scene contains a coral formation. The setting is an underwater reef. The image is rendered as a watercolor illustration. The overall atmosphere is energetic. The rendering uses translucent color washes. Use a wide view. Use an eye-level viewpoint. Place the sea turtle in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show scute patterns on the sea turtle's shell.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a sea turtle. The scene contains a coral formation. The setting is an underwater reef. The image is rendered as a watercolor illustration. The overall atmosphere is energetic. The rendering uses translucent color washes. Use a wide view. Use an eye-level viewpoint. Place the sea turtle in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show scute patterns on the sea turtle's shell.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-19",
+      "split": "T2",
+      "task": 19,
+      "source_task_id": "T50",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a robotic cat",
+      "constraints": [
+        "The scene contains a robotic cat.",
+        "The scene contains a street lamp.",
+        "The setting is a futuristic street.",
+        "The image is rendered as an oil painting.",
+        "The overall atmosphere is dreamlike.",
+        "The rendering uses visible directional brushstrokes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the robotic cat in the left third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show brushed metal on the robotic cat."
+      ],
+      "prompt": "The scene contains a robotic cat. The scene contains a street lamp. The setting is a futuristic street. The image is rendered as an oil painting. The overall atmosphere is dreamlike. The rendering uses visible directional brushstrokes. Use a wide view. Use an eye-level viewpoint. Place the robotic cat in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show brushed metal on the robotic cat.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a robotic cat. The scene contains a street lamp. The setting is a futuristic street. The image is rendered as an oil painting. The overall atmosphere is dreamlike. The rendering uses visible directional brushstrokes. Use a wide view. Use an eye-level viewpoint. Place the robotic cat in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show brushed metal on the robotic cat.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-20",
+      "split": "T2",
+      "task": 20,
+      "source_task_id": "T51",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a teacher",
+      "constraints": [
+        "The scene contains a teacher.",
+        "The scene contains a student.",
+        "The setting is a classroom.",
+        "The image is rendered as a gouache illustration.",
+        "The overall atmosphere is energetic.",
+        "The rendering uses opaque blocks of color.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the teacher in the central third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show woven fabric on the teacher's jacket."
+      ],
+      "prompt": "The scene contains a teacher. The scene contains a student. The setting is a classroom. The image is rendered as a gouache illustration. The overall atmosphere is energetic. The rendering uses opaque blocks of color. Use a wide view. Use an eye-level viewpoint. Place the teacher in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show woven fabric on the teacher's jacket.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a teacher. The scene contains a student. The setting is a classroom. The image is rendered as a gouache illustration. The overall atmosphere is energetic. The rendering uses opaque blocks of color. Use a wide view. Use an eye-level viewpoint. Place the teacher in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show woven fabric on the teacher's jacket.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-21",
+      "split": "T2",
+      "task": 21,
+      "source_task_id": "T52",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a chef",
+      "constraints": [
+        "The scene contains a chef.",
+        "The scene contains a waiter.",
+        "The setting is a restaurant kitchen.",
+        "The image is rendered as a watercolor illustration.",
+        "The overall atmosphere is dreamlike.",
+        "The rendering uses translucent color washes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the chef in the central third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show cotton fabric on the chef's jacket."
+      ],
+      "prompt": "The scene contains a chef. The scene contains a waiter. The setting is a restaurant kitchen. The image is rendered as a watercolor illustration. The overall atmosphere is dreamlike. The rendering uses translucent color washes. Use a wide view. Use an eye-level viewpoint. Place the chef in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show cotton fabric on the chef's jacket.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a chef. The scene contains a waiter. The setting is a restaurant kitchen. The image is rendered as a watercolor illustration. The overall atmosphere is dreamlike. The rendering uses translucent color washes. Use a wide view. Use an eye-level viewpoint. Place the chef in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show cotton fabric on the chef's jacket.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-22",
+      "split": "T2",
+      "task": 22,
+      "source_task_id": "T53",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a doctor",
+      "constraints": [
+        "The scene contains a doctor.",
+        "The scene contains a patient.",
+        "The setting is an examination room.",
+        "The image is rendered as an oil painting.",
+        "The overall atmosphere is calm.",
+        "The rendering uses visible directional brushstrokes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the doctor in the central third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show cotton fabric on the doctor's coat."
+      ],
+      "prompt": "The scene contains a doctor. The scene contains a patient. The setting is an examination room. The image is rendered as an oil painting. The overall atmosphere is calm. The rendering uses visible directional brushstrokes. Use a wide view. Use an eye-level viewpoint. Place the doctor in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show cotton fabric on the doctor's coat.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a doctor. The scene contains a patient. The setting is an examination room. The image is rendered as an oil painting. The overall atmosphere is calm. The rendering uses visible directional brushstrokes. Use a wide view. Use an eye-level viewpoint. Place the doctor in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show cotton fabric on the doctor's coat.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-23",
+      "split": "T2",
+      "task": 23,
+      "source_task_id": "T54",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a shopkeeper",
+      "constraints": [
+        "The scene contains a shopkeeper.",
+        "The scene contains a customer.",
+        "The setting is a grocery shop.",
+        "The image is rendered as an ink illustration.",
+        "The overall atmosphere is cheerful.",
+        "Forms are defined by ink contour lines.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the shopkeeper in the central third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show canvas fabric on the shopkeeper's apron."
+      ],
+      "prompt": "The scene contains a shopkeeper. The scene contains a customer. The setting is a grocery shop. The image is rendered as an ink illustration. The overall atmosphere is cheerful. Forms are defined by ink contour lines. Use a wide view. Use an eye-level viewpoint. Place the shopkeeper in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show canvas fabric on the shopkeeper's apron.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a shopkeeper. The scene contains a customer. The setting is a grocery shop. The image is rendered as an ink illustration. The overall atmosphere is cheerful. Forms are defined by ink contour lines. Use a wide view. Use an eye-level viewpoint. Place the shopkeeper in the central third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show canvas fabric on the shopkeeper's apron.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-24",
+      "split": "T2",
+      "task": 24,
+      "source_task_id": "T55",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a musician",
+      "constraints": [
+        "The scene contains a musician.",
+        "The scene contains a dancer.",
+        "The setting is a rehearsal hall.",
+        "The image is rendered as a digital painting.",
+        "The overall atmosphere is solemn.",
+        "Forms are depicted with stylized, simplified shapes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the musician in the central third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show woven fabric on the musician's shirt."
+      ],
+      "prompt": "The scene contains a musician. The scene contains a dancer. The setting is a rehearsal hall. The image is rendered as a digital painting. The overall atmosphere is solemn. Forms are depicted with stylized, simplified shapes. Use a wide view. Use an eye-level viewpoint. Place the musician in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show woven fabric on the musician's shirt.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a musician. The scene contains a dancer. The setting is a rehearsal hall. The image is rendered as a digital painting. The overall atmosphere is solemn. Forms are depicted with stylized, simplified shapes. Use a wide view. Use an eye-level viewpoint. Place the musician in the central third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show woven fabric on the musician's shirt.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-25",
+      "split": "T2",
+      "task": 25,
+      "source_task_id": "T56",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a firefighter",
+      "constraints": [
+        "The scene contains a firefighter.",
+        "The scene contains a rescue dog.",
+        "The setting is a training ground.",
+        "The image is rendered as a colored-pencil illustration.",
+        "The overall atmosphere is mysterious.",
+        "The rendering uses visible pencil strokes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the firefighter in the left third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show heavy fabric on the firefighter's jacket."
+      ],
+      "prompt": "The scene contains a firefighter. The scene contains a rescue dog. The setting is a training ground. The image is rendered as a colored-pencil illustration. The overall atmosphere is mysterious. The rendering uses visible pencil strokes. Use a wide view. Use an eye-level viewpoint. Place the firefighter in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show heavy fabric on the firefighter's jacket.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a firefighter. The scene contains a rescue dog. The setting is a training ground. The image is rendered as a colored-pencil illustration. The overall atmosphere is mysterious. The rendering uses visible pencil strokes. Use a wide view. Use an eye-level viewpoint. Place the firefighter in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show heavy fabric on the firefighter's jacket.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-26",
+      "split": "T2",
+      "task": 26,
+      "source_task_id": "T57",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "an astronaut",
+      "constraints": [
+        "The scene contains an astronaut.",
+        "The scene contains a rover.",
+        "The setting is a lunar landscape.",
+        "The image is rendered as a gouache illustration.",
+        "The overall atmosphere is energetic.",
+        "The rendering uses opaque blocks of color.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the astronaut in the left third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show ribbed fabric on the astronaut's suit."
+      ],
+      "prompt": "The scene contains an astronaut. The scene contains a rover. The setting is a lunar landscape. The image is rendered as a gouache illustration. The overall atmosphere is energetic. The rendering uses opaque blocks of color. Use a wide view. Use an eye-level viewpoint. Place the astronaut in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show ribbed fabric on the astronaut's suit.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains an astronaut. The scene contains a rover. The setting is a lunar landscape. The image is rendered as a gouache illustration. The overall atmosphere is energetic. The rendering uses opaque blocks of color. Use a wide view. Use an eye-level viewpoint. Place the astronaut in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show ribbed fabric on the astronaut's suit.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-27",
+      "split": "T2",
+      "task": 27,
+      "source_task_id": "T58",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a farmer",
+      "constraints": [
+        "The scene contains a farmer.",
+        "The scene contains a horse.",
+        "The setting is a farmyard.",
+        "The image is rendered as a watercolor illustration.",
+        "The overall atmosphere is dreamlike.",
+        "The rendering uses translucent color washes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the farmer in the left third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show denim fabric on the farmer's overalls."
+      ],
+      "prompt": "The scene contains a farmer. The scene contains a horse. The setting is a farmyard. The image is rendered as a watercolor illustration. The overall atmosphere is dreamlike. The rendering uses translucent color washes. Use a wide view. Use an eye-level viewpoint. Place the farmer in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show denim fabric on the farmer's overalls.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a farmer. The scene contains a horse. The setting is a farmyard. The image is rendered as a watercolor illustration. The overall atmosphere is dreamlike. The rendering uses translucent color washes. Use a wide view. Use an eye-level viewpoint. Place the farmer in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show denim fabric on the farmer's overalls.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-28",
+      "split": "T2",
+      "task": 28,
+      "source_task_id": "T59",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a scientist",
+      "constraints": [
+        "The scene contains a scientist.",
+        "The scene contains a robot assistant.",
+        "The setting is a laboratory.",
+        "The image is rendered as an oil painting.",
+        "The overall atmosphere is calm.",
+        "The rendering uses visible directional brushstrokes.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the scientist in the left third of the image.",
+        "Use soft diffuse light.",
+        "Use a warm amber-dominant palette.",
+        "Show cotton fabric on the scientist's coat."
+      ],
+      "prompt": "The scene contains a scientist. The scene contains a robot assistant. The setting is a laboratory. The image is rendered as an oil painting. The overall atmosphere is calm. The rendering uses visible directional brushstrokes. Use a wide view. Use an eye-level viewpoint. Place the scientist in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show cotton fabric on the scientist's coat.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a scientist. The scene contains a robot assistant. The setting is a laboratory. The image is rendered as an oil painting. The overall atmosphere is calm. The rendering uses visible directional brushstrokes. Use a wide view. Use an eye-level viewpoint. Place the scientist in the left third of the image. Use soft diffuse light. Use a warm amber-dominant palette. Show cotton fabric on the scientist's coat.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    },
+    {
+      "id": "T2-29",
+      "split": "T2",
+      "task": 29,
+      "source_task_id": "T60",
+      "status": "newly_authored_specification_not_source_of_simulated_scores",
+      "target": "a knight",
+      "constraints": [
+        "The scene contains a knight.",
+        "The scene contains a dragon.",
+        "The setting is a castle courtyard.",
+        "The image is rendered as an ink illustration.",
+        "The overall atmosphere is cheerful.",
+        "Forms are defined by ink contour lines.",
+        "Use a wide view.",
+        "Use an eye-level viewpoint.",
+        "Place the knight in the left third of the image.",
+        "Use directional light from the upper left.",
+        "Use a cool blue-dominant palette.",
+        "Show hammered metal on the knight's armor."
+      ],
+      "prompt": "The scene contains a knight. The scene contains a dragon. The setting is a castle courtyard. The image is rendered as an ink illustration. The overall atmosphere is cheerful. Forms are defined by ink contour lines. Use a wide view. Use an eye-level viewpoint. Place the knight in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show hammered metal on the knight's armor.",
+      "reference_asset": null,
+      "reference_structure": null,
+      "reference_composite": null,
+      "invariant_properties": [
+        "Target identity and distinguishing source-asset details",
+        "Specified object counts and spatial relations"
+      ],
+      "permitted_changes": [
+        "Lighting and palette adaptation",
+        "Boundary harmonization"
+      ],
+      "general_edit_prompt": "Refine the supplied composite into a coherent finished image.",
+      "constraint_explicit_prompt": "Refine the supplied composite. Preserve target identity and distinguishing source-asset details. Adjust only lighting, palette, and boundaries as needed. Satisfy all requirements: The scene contains a knight. The scene contains a dragon. The setting is a castle courtyard. The image is rendered as an ink illustration. The overall atmosphere is cheerful. Forms are defined by ink contour lines. Use a wide view. Use an eye-level viewpoint. Place the knight in the left third of the image. Use directional light from the upper left. Use a cool blue-dominant palette. Show hammered metal on the knight's armor.",
+      "staged_prompts": [
+        "Harmonize lighting and palette while preserving object identity, geometry, and arrangement.",
+        "Correct boundary artifacts while preserving the harmonized appearance, object identity, and specified arrangement."
+      ]
+    }
+  ]
+}
