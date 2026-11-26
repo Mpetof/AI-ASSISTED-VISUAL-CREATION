@@ -96,14 +96,14 @@ Perceptual comparisons use [LPIPS](https://github.com/richzhang/PerceptualSimila
 | Tier | Metric | Code |
 |---|---|---|
 | T1 | IoU | [extraction_metrics/iou.py](Reusable%20Visual%20Element%20Extraction/iou.py) |
-| T1 | Boundary IoU | [extraction_metrics/boundary_iou.py](Reusable%20Visual%20Element%20Extraction/boundary_iou.py) |
-| T1 | Masked LPIPS | [extraction_metrics/masked_lpips.py](Reusable%20Visual%20Element%20Extraction/masked_lpips.py) |
-| T1 | Swap error | [extraction_metrics/swap_error.py](Reusable%20Visual%20Element%20Extraction/swap_error.py) |
-| T1 | Usable rate | [extraction_metrics/usable_rate.py](Reusable%20Visual%20Element%20Extraction/usable_rate.py) |
-| T2 | Masked LPIPS | [extraction_metrics/masked_lpips.py](Reusable%20Visual%20Element%20Extraction/masked_lpips.py) |
-| T2 | DINO similarity | [extraction_metrics/dino_similarity.py](Reusable%20Visual%20Element%20Extraction/dino_similarity.py) |
-| T2 | Boundary-edge agreement | [extraction_metrics/edge_agreement.py](Reusable%20Visual%20Element%20Extraction/edge_agreement.py) |
-| T2 | Target identity accuracy | [extraction_metrics/identity_accuracy.py](Reusable%20Visual%20Element%20Extraction/identity_accuracy.py) |
+| T1 | Boundary IoU | [boundary_iou](Reusable%20Visual%20Element%20Extraction/boundary_iou.py) |
+| T1 | Masked LPIPS | [masked_lpips](Reusable%20Visual%20Element%20Extraction/masked_lpips.py) |
+| T1 | Swap error | [swap_error](Reusable%20Visual%20Element%20Extraction/swap_error.py) |
+| T1 | Usable rate | [usable_rate](Reusable%20Visual%20Element%20Extraction/usable_rate.py) |
+| T2 | Masked LPIPS | [masked_lpips](Reusable%20Visual%20Element%20Extraction/masked_lpips.py) |
+| T2 | DINO similarity | [dino_similarity](Reusable%20Visual%20Element%20Extraction/dino_similarity.py) |
+| T2 | Boundary-edge agreement | [edge_agreement](Reusable%20Visual%20Element%20Extraction/edge_agreement.py) |
+| T2 | Target identity accuracy | [identity_accuracy](Reusable%20Visual%20Element%20Extraction/identity_accuracy.py) |
 
 The complete run records are stored in [Run_data](Reusable%20Visual%20Element%20Extraction/run_data.json).
 
@@ -125,5 +125,87 @@ T1 tool | IoU ↑ | B-IoU ↑ | LPIPS ↓ | Swap ↓ | Usable (%) ↑ |
 ![Statistical overview](Reusable%20Visual%20Element%20Extraction/compact_results.png)
 
 ### Spatial Structure Extraction and Conditioning
+
+This experiment examines whether explicit masks and relative depth support spatially controllable image creation. The structural path represents each concept image as instance masks, bounding boxes, and a relative depth map. Evaluation distinguishes extraction accuracy from the usefulness of those representations in downstream generation, with object removal as a supplementary application.
+
+T1 is intended to use procedural 3D scenes with instance masks, metric depth, camera parameters, and clean renders without the removal target. T2 is intended to use concept sketches without geometric ground truth. 
+
+Partition | Scenes | Purpose | Records |
+|---|---:|---|---:|
+| T1 development | 10 | Proxy calibration and proposed parameter selection | 10 extraction rows |
+| T1 test | 20 | Controlled structural extraction and conditioning evaluation | 20 extraction rows; 500 generation rows |
+| T2 | 30 | Evaluation on workflow-style concept sketches | 30 proxy rows; 600 generation rows |
+| T1 removal | Same 20 test scenes | Predicted versus oracle masks | 200 removal rows
+
+Full prompt are stored in [Scene](Spatial%20Structure%20Extraction%20and%20Conditioning/scene_specifications.json).
+
+Five conditioning conditions are compared:
+
+Condition | Information supplied |
+|---|---|
+| Text only | Full scene prompt |
+| Mask | Prompt and predicted instance layout |
+| Depth | Prompt and predicted relative depth |
+| Mask + depth | Prompt and both predicted representations |
+| Ground truth | Prompt and reference mask/depth representations; diagnostic reference on T1
+
+
+Component | Model/tool | Reference |
+|---|---|---|
+| Text-guided localization | Grounding DINO | [Repository and model instructions](https://github.com/IDEA-Research/GroundingDINO) |
+| Box-guided instance masks | SAM 2 | [Repository and image predictor](https://github.com/facebookresearch/sam2) |
+| Integrated detection/segmentation example | Grounded SAM 2 | [Official integration](https://github.com/IDEA-Research/Grounded-SAM-2) |
+| Relative depth | Depth Anything V2 | [Repository and checkpoints](https://github.com/DepthAnything/Depth-Anything-V2) |
+| Depth-guided generation | ControlNet | [Repository and conditioning examples](https://github.com/lllyasviel/ControlNet) |
+| Object removal | LaMa | [Repository and inference instructions](https://github.com/advimman/lama) |
+| Prompt alignment | CLIP | [Repository and encoding API](https://github.com/openai/CLIP) |
+| Perceptual change and removal fidelity | LPIPS | [Reference implementation](https://github.com/richzhang/PerceptualSimilarity)
+
+[read_rgb and read_mask](Spatial%20Structure%20Extraction%20and%20Conditioning/image_inputs.py) provide basic conversion. Use .npy float arrays for metric depth rather than colorized depth previews. RGB values are converted to [-1,1] inside LPIPS; `removal_errors` expects RGB float arrays in [0,1]. 
+
+Evaluation | Metric | Implementation |
+|---|---|---|
+| T1 mask extraction | Instance IoU, boundary F-score, normalized center error | [instance_metrics](Spatial%20Structure%20Extraction%20and%20Conditioning/metrics.py) |
+| T1 depth | Pairwise ordinal accuracy; scale/shift-aligned AbsRel | [depth_pairs, ordinal_accuracy, aligned_absrel](Spatial%20Structure%20Extraction%20and%20Conditioning/metrics.py) |
+| T2 boundary proxy | Predicted contour agreement within two pixels of a Canny edge | [boundary_edge_agreement](Spatial%20Structure%20Extraction%20and%20Conditioning/image_inputs.py) |
+| Conditioning | Fraction of required spatial relations satisfied | [relation_satisfaction](Spatial%20Structure%20Extraction%20and%20Conditioning/metrics.py) |
+| Conditioning | Object center error and depth ordinal retention | [instance_metrics, ordinal_accuracy](Spatial%20Structure%20Extraction%20and%20Conditioning/metrics.py), comparing output against source structure |
+| Prompt alignment | CLIP image/text cosine similarity | [clip_alignment](Spatial%20Structure%20Extraction%20and%20Conditioning/models.py) |
+| Edit magnitude | Full-image LPIPS against the source | [pips_distance](Spatial%20Structure%20Extraction%20and%20Conditioning/image_inputs.py), without a mask |
+| Removal | Target-region LPIPS against the clean render | [pips_distance](Spatial%20Structure%20Extraction%20and%20Conditioning/image_inputs.py), with the reference target mask |
+| Removal | Boundary continuity and outside-region MAE | [removal_errors](Spatial%20Structure%20Extraction%20and%20Conditioning/metrics.py)
+
+[analysis.py](Spatial%20Structure%20Extraction%20and%20Conditioning/analysis.py) averages the five runs within each scene/condition and treats scenes as the analysis units:
+
+- Percentile 95% confidence intervals from 10,000 scene bootstrap resamples.
+- Tie-corrected Friedman tests with a chi-square approximation.
+- Two-sided paired Wilcoxon signed-rank tests using the exact conditional sign distribution; zero differences are omitted and tied ranks are averaged.
+- Holm correction across the ten T1 condition pairs separately for each metric.
+- Matched-pairs rank-biserial effects and paired bootstrap intervals. A positive effect means the first condition has a higher raw score; for error metrics this is worse.
+
+The results are stored in:
+
+File | Contents |
+|---|---|
+| [extraction.json](Spatial%20Structure%20Extraction%20and%20Conditioning/extraction.json) | Extraction/proxy values for each partition |
+| [runs.json](Spatial%20Structure%20Extraction%20and%20Conditioning/runs.json) | 1,100 conditioning records |
+| [summary.json](Spatial%20Structure%20Extraction%20and%20Conditioning/summary.json) | Original condition means and confidence intervals |
+| [statistics.json](Spatial%20Structure%20Extraction%20and%20Conditioning/statistics.json) | Original T1 inferential comparisons |
+| [removal_runs.json](Spatial%20Structure%20Extraction%20and%20Conditioning/removal_runs.json) | 200 removal records |
+| [removal_summary.json](Spatial%20Structure%20Extraction%20and%20Conditioning/removal_summary.json) | Original removal summaries|
+
+Tier | Condition | Compliance ↑ [95% CI] | Ordinal ↑ | Position error ↓ | CLIP ↑ |
+|---|---|---:|---:|---:|---:|
+| T1 | Text only | 0.578 [0.551, 0.602] | 0.650 | 0.106 | 0.303 |
+| T1 | Mask | 0.748 [0.721, 0.774] | 0.737 | 0.056 | 0.299 |
+| T1 | Depth | 0.789 [0.763, 0.816] | 0.859 | 0.071 | 0.295 |
+| T1 | Mask + depth | 0.876 [0.846, 0.905] | 0.899 | 0.036 | 0.292 |
+| T1 | Ground truth | 0.934 [0.910, 0.957] | 0.940 | 0.022 | 0.291 |
+| T2 | Text only | 0.559 [0.543, 0.574] | 0.647 | 0.109 | 0.300 |
+| T2 | Mask | 0.720 [0.703, 0.736] | 0.728 | 0.060 | 0.299 |
+| T2 | Depth | 0.767 [0.748, 0.785] | 0.841 | 0.073 | 0.296 |
+| T2 | Mask + depth | 0.855 [0.839, 0.869] | 0.889 | 0.043 | 0.294
+
+![Statistical](Spatial%20Structure%20Extraction%20and%20Conditioning/spatial_simulated.png)
 
 ### Visual-Spatial Fusion and Compositional Refinement 
